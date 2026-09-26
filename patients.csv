@@ -1,0 +1,421 @@
+patient_id,first_name,last_name,dob,gender,city,state,zip,insurance_type,registration_date
+1,William,Miller,1964-01-08,Female,Cincinnati,OH,41728,Commercial,2024-05-12
+2,Thomas,Williams,1963-10-06,m,Columbus,OH,42020,Self-Pay,2024-04-18
+3,Patricia,Brown,1952-05-29,F,Indianapolis,IN,44042,Commercial,2019-01-08
+4,Jennifer,Martinez,1945-09-12,M,Louisville,KY,43126,Commercial,2024-09-06
+5,Linda,Wilson,2019-05-18,F,Indianapolis,IN,46151,Self-Pay,2020-12-28
+6,James,Anderson,2018-07-29,f,Lexington,KY,42157,Medicaid,2023-08-13
+7,John,Williams,1973-07-18,M,Columbus,OH,44418,Medicaid,2023-12-13
+8,Nancy,BROWN ,1945-03-13,M,Columbus,OH,47192,Commercial,2024-05-12
+9,David,Williams,1999-03-10,F,Louisville,KY,47756,Commercial,2024-03-01
+10,John,Anderson,1967-12-19,F,Louisville,KY,45502,Medicare,2025-04-15
+11,Robert,GARCIA ,1941-11-20,M,Indianapolis,IN,44537,Medicare,2020-07-31
+12,Robert,Moore,1942-10-26,F,Dayton,OH,40580,Commercial,2023-10-07
+13,Elizabeth,BROWN ,2010-05-23,Female,Louisville,KY,46615,Self-Pay,2022-07-26
+14,Thomas,THOMAS ,2005-05-29,Male,Cincinnati,OH,45516,Commercial,2025-04-30
+15,Karen,Brown,1957-01-23,M,Indianapolis,IN,43675,Self-Pay,2019-07-29
+16,Linda,Smith,1998-07-04,F,Indianapolis,IN,46848,Self-Pay,2018-03-02
+17,Elizabeth,DAVIS ,1959-03-06,Female,Louisville,KY,47392,Medicaid,2018-08-29
+18,Jennifer,Anderson,2005-07-15,m,Indianapolis,IN,45422,Commercial,2023-06-17
+19,Maria,Anderson,1968-02-19,M,Cincinnati,OH,40410,Commercial,2024-07-20
+20,Robert,Thomas,1956-09-02,m,Cincinnati,OH,44874,Medicare,2018-10-06
+21,Maria,Martinez,1947-05-10,f,Louisville,KY,45385,Commercial,2024-07-18
+22,William,Brown,1963-10-30,M,Louisville,KY,41072,Commercial,2025-07-14
+23,Thomas,Martinez,1990-07-05,M,Cincinnati,OH,40600,Medicare,2024-01-12
+24,Patricia,Jones,1954-02-25,f,Louisville,KY,46830,Commercial,2024-02-04
+25,  james,Wilson,2013-04-21,M,Indianapolis,IN,42452,Commercial,2025-06-10
+26,David,Jones,1965-04-11,Female,Indianapolis,IN,41725,Medicaid,2021-11-05
+27,  maria,Johnson,1996-11-26,Male,Louisville,KY,46794,Medicare,2021-02-07
+28,  thomas,Rodriguez,2003-04-23,F,Louisville,KY,44594,Commercial,2018-02-09
+29,Maria,THOMAS ,1973-02-14,M,Indianapolis,IN,44526,Medicaid,2019-08-30
+30,John,Wilson,1962-05-21,m,Lexington,KY,40842,Commercial,2021-12-19
+31,David,MOORE ,1961-03-28,Male,Columbus,OH,47997,Self-Pay,2019-12-27
+32,Karen,Jones,1954-04-13,Female,Lexington,KY,40885,Medicaid,2022-04-16
+33,Nancy,Thomas,2011-05-09,M,Columbus,OH,41826,Medicaid,2018-04-07
+34,Patricia,WILSON ,1985-09-13,Male,Louisville,KY,45566,Medicare,2024-01-06
+35,Michael,Smith,1949-09-22,m,Indianapolis,IN,43559,Commercial,2021-11-16
+36,Richard,MOORE ,1991-09-23,m,Columbus,OH,42086,Commercial,2018-07-01
+37,John,Garcia,1978-09-10,M,Cincinnati,OH,47773,Commercial,2025-06-13
+38,Nancy,Rodriguez,1967-09-30,Female,Lexington,KY,43345,Commercial,2021-08-29
+39,Richard,Wilson,2007-02-12,Male,Columbus,OH,45042,Medicare,05/20/2024
+40,Jennifer,Taylor,1992-01-12,Female,Indianapolis,IN,45363,Commercial,2021-08-12
+41,Susan,Wilson,1947-08-10,F,Dayton,OH,44222,Commercial,2025-06-12
+42,  nancy,Brown,2012-05-11,M,Columbus,OH,41207,Self-Pay,2018-04-11
+43,Jennifer,Moore,1996-07-01,M,Indianapolis,IN,41592,Commercial,2022-04-22
+44,  jennifer,Brown,1955-10-12,Female,Lexington,KY,44243,Medicare,2023-03-18
+45,Thomas,Wilson,1987-08-26,f,Indianapolis,IN,44877,Commercial,2021-07-23
+46,Jennifer,Thomas,2021-05-10,F,Indianapolis,IN,43652,Commercial,2019-10-14
+47,Michael,Taylor,2009-10-07,F,Indianapolis,IN,43969,Medicaid,2025-01-11
+48,William,Garcia,2020-02-12,F,Indianapolis,IN,40660,Commercial,2019-07-21
+49,  jennifer,Miller,1969-09-07,m,Indianapolis,IN,43816,Commercial,2022-08-31
+50,  james,Thomas,2019-01-03,Female,Indianapolis,IN,43116,Commercial,2023-05-08
+51,  karen,Davis,1959-09-08,Female,Dayton,OH,43570,Commercial,2023-06-13
+52,  susan,Thomas,1981-12-06,M,Columbus,OH,45097,Commercial,2023-12-28
+53,Jennifer,Williams,2017-10-07,Male,Louisville,KY,41488,Self-Pay,2018-07-25
+54,Michael,Taylor,2014-08-20,Male,Louisville,KY,42066,Medicare,12/02/2018
+55,Robert,Taylor,1998-06-21,F,Cincinnati,OH,46178,Medicare,05/08/2018
+56,David,Davis,2000-01-22,m,Cincinnati,OH,44620,Commercial,2020-06-11
+57,  linda,TAYLOR ,2013-07-02,f,Columbus,OH,47902,Self-Pay,2021-06-28
+58,Richard,Anderson,1957-10-16,f,Cincinnati,OH,44850,Commercial,2025-01-13
+59,Linda,Taylor,1990-10-09,Male,Cincinnati,OH,42844,Commercial,2023-12-23
+60,Jennifer,Thomas,1983-12-23,Female,Cincinnati,OH,43551,Medicare,2022-01-23
+61,Michael,Martinez,2012-07-04,Male,Indianapolis,IN,46345,Medicare,2023-06-04
+62,Robert,Jones,2019-02-04,Female,Louisville,KY,41997,Medicaid,2023-03-19
+63,Susan,Davis,1959-01-11,Male,Dayton,OH,46535,Commercial,2020-11-24
+64,James,Rodriguez,1957-02-20,f,Cincinnati,OH,41977,Commercial,2022-07-23
+65,Elizabeth,Davis,2011-02-19,m,Cincinnati,OH,40762,Medicaid,2021-04-20
+66,Elizabeth,Rodriguez,1987-08-19,Male,Dayton,OH,43485,Medicare,2024-03-04
+67,Linda,Anderson,1957-04-11,f,Dayton,OH,40979,Self-Pay,2024-01-04
+68,Michael,Anderson,1992-11-22,Male,Indianapolis,IN,44888,Medicare,2021-03-05
+69,  nancy,SMITH ,2003-07-09,F,Indianapolis,IN,41036,Commercial,2021-01-28
+70,Elizabeth,Johnson,2018-04-18,M,Cincinnati,OH,44702,Medicaid,2021-03-10
+71,  elizabeth,Johnson,2013-10-03,F,Cincinnati,OH,43282,Commercial,07/08/2023
+72,Nancy,Johnson,1962-04-07,m,Cincinnati,OH,44571,Self-Pay,2022-09-01
+73,Thomas,Moore,1979-09-20,m,Dayton,OH,47046,Commercial,2024-08-07
+74,Linda,Taylor,1958-08-22,M,Lexington,KY,41728,Medicare,2020-12-19
+75,James,Miller,1980-06-01,f,Lexington,KY,44864,Self-Pay,2023-04-09
+76,Robert,Wilson,1960-12-09,M,Dayton,OH,46453,Commercial,2025-01-04
+77,  karen,Wilson,1953-05-14,f,Dayton,OH,46771,Commercial,2019-08-06
+78,Nancy,Davis,1951-02-26,Female,Louisville,KY,45641,Self-Pay,2021-05-30
+79,Robert,MARTINEZ ,1943-07-30,f,Louisville,KY,46017,Commercial,2021-08-13
+80,James,Taylor,2000-04-24,Female,Dayton,OH,44720,Medicaid,2018-06-14
+81,Susan,Martinez,1979-02-08,Male,Lexington,KY,46670,Commercial,2023-07-08
+82,Linda,Thomas,1954-06-05,m,Dayton,OH,43372,Commercial,2023-07-23
+83,Thomas,Johnson,1968-03-20,M,Dayton,OH,42648,Commercial,2019-04-20
+84,Thomas,Miller,1944-11-11,M,Columbus,OH,44247,Medicare,2022-01-21
+85,  michael,Rodriguez,1951-10-03,F,Dayton,OH,43589,Commercial,2023-06-09
+86,  susan,Jones,1989-06-01,Female,Cincinnati,OH,44524,Commercial,2022-07-30
+87,David,Davis,2004-04-15,Female,Dayton,OH,44168,Commercial,2021-01-24
+88,David,Miller,1957-02-05,Female,Indianapolis,IN,44163,Medicaid,2019-07-14
+89,Michael,Thomas,1940-03-25,F,Dayton,OH,45947,Self-Pay,2021-05-07
+90,Elizabeth,Garcia,1969-10-28,f,Indianapolis,IN,46249,Medicare,2024-02-04
+91,Richard,Brown,2016-10-17,Female,Louisville,KY,40357,Commercial,2021-07-27
+92,David,DAVIS ,1943-04-28,M,Columbus,OH,44114,Commercial,2024-08-14
+93,Thomas,SMITH ,2004-10-24,Male,Columbus,OH,43358,Medicaid,2025-05-05
+94,Richard,Wilson,1947-03-16,f,Dayton,OH,46982,Self-Pay,2025-07-25
+95,Maria,Martinez,1946-02-20,M,Columbus,OH,45170,Commercial,2021-03-23
+96,  linda,Davis,1954-12-04,Male,Lexington,KY,42453,Self-Pay,2018-04-29
+97,David,Brown,1987-08-27,Female,Louisville,KY,44636,Commercial,08/24/2025
+98,Karen,Davis,2021-11-22,M,Indianapolis,IN,41172,Self-Pay,2020-08-09
+99,Nancy,Wilson,1989-01-13,Female,Columbus,OH,40605,Commercial,2022-12-15
+100,Michael,DAVIS ,2015-11-01,Male,Dayton,OH,41631,Commercial,2022-04-25
+101,Nancy,ANDERSON ,1966-06-27,f,Cincinnati,OH,46799,Commercial,2025-05-20
+102,Elizabeth,Thomas,2021-02-11,m,Dayton,OH,46354,Medicaid,2020-07-31
+103,David,Wilson,1948-09-18,f,Lexington,KY,45294,Medicare,2018-06-11
+104,Robert,MOORE ,1966-06-23,Male,Dayton,OH,46123,Commercial,2022-08-29
+105,Michael,Thomas,1954-10-05,M,Dayton,OH,47487,Self-Pay,2023-05-28
+106,Robert,Williams,2007-08-29,m,Columbus,OH,47046,Medicaid,2025-08-02
+107,  robert,Taylor,1975-05-26,Male,Cincinnati,OH,42166,Commercial,2024-01-07
+108,Richard,THOMAS ,1997-04-14,m,Dayton,OH,40887,Medicaid,2025-07-27
+109,Karen,Wilson,1945-09-02,F,Lexington,KY,46749,Commercial,2023-03-17
+110,Maria,JONES ,1984-03-12,f,Cincinnati,OH,40796,Commercial,2020-08-19
+111,Jennifer,Martinez,2006-08-04,Male,Lexington,KY,41265,Commercial,2022-08-27
+112,Patricia,BROWN ,1979-10-11,m,Louisville,KY,47786,Commercial,2020-08-25
+113,Patricia,Smith,1975-09-20,F,Dayton,OH,41554,Commercial,05/16/2019
+114,James,Smith,2010-08-02,m,Dayton,OH,41995,Medicare,2019-05-31
+115,John,Thomas,2018-01-09,F,Columbus,OH,42691,Medicare,2019-08-28
+116,  michael,Taylor,1955-08-27,m,Cincinnati,OH,45415,Medicaid,2018-04-16
+117,James,Williams,1963-10-22,Male,Cincinnati,OH,41038,Commercial,2022-09-21
+118,  linda,Davis,1985-03-14,m,Columbus,OH,47744,Medicaid,2024-11-24
+119,Thomas,WILSON ,1942-10-17,Female,Cincinnati,OH,43923,Commercial,2022-07-04
+120,Robert,Garcia,1994-07-28,Male,Columbus,OH,40538,Self-Pay,2019-06-01
+121,Nancy,DAVIS ,1985-05-09,m,Indianapolis,IN,43524,Commercial,2019-02-11
+122,John,Miller,1980-07-05,Male,Columbus,OH,43389,Self-Pay,2021-10-20
+123,William,Wilson,1962-11-13,M,Dayton,OH,47811,Commercial,09/18/2019
+124,Jennifer,Johnson,2006-10-19,Male,Lexington,KY,43052,Commercial,2019-06-17
+125,Linda,Miller,1971-09-21,m,Lexington,KY,47709,Medicaid,2022-09-29
+126,Patricia,Johnson,1991-11-06,m,Indianapolis,IN,41742,Medicaid,2019-09-26
+127,Linda,Taylor,1964-12-28,m,Indianapolis,IN,41852,Commercial,2022-10-24
+128,James,Martinez,1999-01-06,Male,Lexington,KY,42190,Medicaid,2018-04-29
+129,James,WILLIAMS ,2018-01-14,M,Columbus,OH,44639,Commercial,2025-05-16
+130,John,Miller,1977-08-31,m,Louisville,KY,42792,Commercial,2019-10-07
+131,  robert,MOORE ,1944-09-19,Female,Columbus,OH,41289,Self-Pay,2024-12-05
+132,  thomas,Miller,1964-07-04,f,Columbus,OH,46184,Commercial,2023-09-30
+133,Elizabeth,Rodriguez,1999-11-07,Male,Dayton,OH,40372,Medicare,06/22/2020
+134,  david,Taylor,1962-12-03,Female,Dayton,OH,42687,Commercial,2019-05-07
+135,  karen,Rodriguez,1990-02-15,M,Lexington,KY,46604,Self-Pay,12/21/2021
+136,Robert,Thomas,1968-02-01,Female,Indianapolis,IN,43516,Commercial,2024-06-06
+137,  william,Williams,2011-11-21,m,Indianapolis,IN,43769,Self-Pay,2022-01-22
+138,Robert,Miller,2018-02-05,f,Dayton,OH,46109,Commercial,10/22/2021
+139,John,Moore,2009-08-21,F,Dayton,OH,42876,Medicare,2025-03-28
+140,David,Taylor,2008-02-08,m,Lexington,KY,40617,Commercial,2019-12-27
+141,Thomas,Wilson,2019-02-17,Male,Indianapolis,IN,45267,Medicare,2025-02-15
+142,Thomas,Johnson,1982-01-25,M,Louisville,KY,45172,Medicaid,2021-05-25
+143,  thomas,Davis,1943-05-17,m,Cincinnati,OH,43020,Commercial,2021-03-21
+144,Richard,Davis,1992-01-24,Male,Indianapolis,IN,47817,Commercial,2018-06-18
+145,Elizabeth,Rodriguez,1953-07-14,M,Cincinnati,OH,43690,Commercial,2019-02-28
+146,Susan,Smith,1962-03-24,Male,Lexington,KY,43586,Self-Pay,2022-12-05
+147,Jennifer,Taylor,1970-05-10,M,Lexington,KY,44897,Commercial,08/03/2018
+148,Richard,Jones,1962-08-10,M,Lexington,KY,46976,Commercial,2025-05-13
+149,David,Moore,1971-05-20,M,Dayton,OH,47927,Medicaid,2025-05-11
+150,Richard,Wilson,2011-01-09,f,Dayton,OH,46661,Commercial,2019-06-08
+151,  robert,Wilson,2000-02-24,Male,Louisville,KY,44165,Self-Pay,2022-01-22
+152,John,BROWN ,1952-05-04,f,Columbus,OH,40632,Commercial,2021-04-26
+153,Maria,Wilson,1970-03-19,m,Indianapolis,IN,41073,Medicare,2024-09-12
+154,Thomas,Smith,1976-11-10,Female,Dayton,OH,45540,Medicare,2020-08-30
+155,Karen,Jones,2012-07-17,Female,Louisville,KY,47405,Medicaid,2020-03-05
+156,Richard,Rodriguez,1987-04-27,Male,Louisville,KY,47915,Commercial,2019-10-26
+157,Elizabeth,Thomas,1973-04-20,M,Indianapolis,IN,47653,Medicare,2019-02-25
+158,  michael,Davis,2021-03-21,Male,Indianapolis,IN,41207,Commercial,2022-11-27
+159,Jennifer,SMITH ,1975-07-27,Male,Indianapolis,IN,43063,Commercial,2020-08-23
+160,William,Taylor,1953-02-06,f,Columbus,OH,40313,Self-Pay,2021-03-21
+161,Thomas,MARTINEZ ,1940-06-21,m,Cincinnati,OH,40155,Commercial,2020-11-14
+162,  jennifer,Johnson,2009-08-19,m,Dayton,OH,41946,Self-Pay,2021-05-18
+163,  robert,Johnson,2015-01-23,F,Louisville,KY,44888,Medicaid,2024-01-05
+164,Jennifer,Smith,1995-02-27,Male,Dayton,OH,41970,Commercial,05/26/2024
+165,James,Miller,2018-05-08,Male,Louisville,KY,40356,Commercial,2025-02-16
+166,Patricia,Brown,2005-10-03,M,Lexington,KY,45146,Medicaid,2019-03-01
+167,William,Thomas,1997-09-01,F,Columbus,OH,46802,Commercial,2023-03-19
+168,Thomas,Smith,1966-04-29,Female,Columbus,OH,40358,Commercial,2020-03-28
+169,Elizabeth,Jones,1943-04-14,Male,Lexington,KY,41565,Medicaid,2021-03-17
+170,Linda,Taylor,1973-01-06,F,Louisville,KY,47286,Self-Pay,2022-06-27
+171,Elizabeth,GARCIA ,2011-07-12,F,Indianapolis,IN,42184,Commercial,2018-12-05
+172,Nancy,Garcia,1949-03-15,F,Cincinnati,OH,42686,Commercial,2025-05-31
+173,Thomas,Garcia,1980-02-11,M,Cincinnati,OH,45954,Commercial,2021-12-15
+174,Richard,GARCIA ,1986-01-11,Female,Lexington,KY,45565,Commercial,2019-10-18
+175,David,Johnson,1961-03-04,f,Lexington,KY,43000,Self-Pay,2022-01-23
+176,Patricia,Garcia,1979-10-30,F,Cincinnati,OH,44701,Commercial,2019-07-18
+177,James,ANDERSON ,1956-09-09,f,Louisville,KY,44241,Self-Pay,2022-05-05
+178,John,MARTINEZ ,1965-08-14,F,Lexington,KY,47507,Commercial,07/05/2023
+179,Thomas,Johnson,2012-09-17,Male,Lexington,KY,47926,Medicaid,2021-08-02
+180,Susan,Anderson,2003-08-28,F,Lexington,KY,45224,Medicare,2019-12-15
+181,Karen,Taylor,1984-04-27,F,Cincinnati,OH,42956,Commercial,2024-03-19
+182,Robert,Johnson,1967-09-30,M,Louisville,KY,45873,Medicare,2023-05-15
+183,William,WILSON ,1946-08-27,m,Louisville,KY,43816,Commercial,2025-08-17
+184,Susan,Taylor,1951-07-30,F,Louisville,KY,44119,Medicaid,2018-08-15
+185,Karen,Garcia,1986-07-21,F,Dayton,OH,46929,Commercial,2018-11-20
+186,Nancy,Martinez,1987-11-11,f,Cincinnati,OH,44117,Commercial,2025-03-10
+187,  william,Thomas,1990-07-25,Male,Cincinnati,OH,46760,Commercial,2018-04-27
+188,  john,Taylor,1991-04-30,f,Louisville,KY,45063,Medicaid,2025-03-02
+189,Elizabeth,Brown,2012-03-11,Female,Lexington,KY,43326,Self-Pay,2021-05-03
+190,Thomas,Brown,1970-07-09,Male,Indianapolis,IN,41176,Self-Pay,2021-07-04
+191,David,Taylor,1973-03-29,F,Indianapolis,IN,44601,Medicare,2019-03-11
+192,Linda,Smith,1966-01-13,Male,Louisville,KY,47079,Commercial,2024-11-25
+193,William,Brown,2008-06-17,M,Columbus,OH,44081,Self-Pay,2023-10-10
+194,  thomas,Brown,1959-04-20,f,Indianapolis,IN,42890,Commercial,2018-07-19
+195,Elizabeth,Jones,1988-02-24,Female,Cincinnati,OH,46940,Medicaid,2019-03-17
+196,Maria,Miller,1944-08-03,Female,Indianapolis,IN,44602,Commercial,2020-03-08
+197,  michael,THOMAS ,1995-11-30,Male,Lexington,KY,45005,Commercial,2019-05-02
+198,Patricia,TAYLOR ,1952-12-10,f,Columbus,OH,44935,Medicaid,09/17/2023
+199,  elizabeth,Rodriguez,1980-12-30,Female,Columbus,OH,44966,Commercial,2023-10-13
+200,Nancy,Martinez,1970-03-06,M,Indianapolis,IN,46785,Medicaid,2023-09-19
+201,William,Wilson,1949-10-31,M,Louisville,KY,44781,Commercial,2021-06-14
+202,Elizabeth,Jones,1998-10-25,f,Indianapolis,IN,44731,Commercial,2020-07-21
+203,Richard,Williams,2013-09-18,Female,Lexington,KY,41984,Medicaid,2018-05-10
+204,Jennifer,Williams,1977-01-17,f,Lexington,KY,41670,Commercial,2022-08-08
+205,Maria,Anderson,1952-05-21,Male,Indianapolis,IN,41698,Medicare,2024-04-16
+206,Thomas,Moore,1987-10-30,f,Dayton,OH,44475,Medicaid,2021-12-22
+207,Elizabeth,Brown,1962-02-11,Male,Dayton,OH,44571,Commercial,2021-05-07
+208,John,Anderson,2003-04-01,Male,Louisville,KY,42597,Medicaid,2023-05-20
+209,Linda,Martinez,2000-09-13,Male,Indianapolis,IN,43110,Commercial,2022-06-05
+210,Nancy,Anderson,1947-02-02,m,Dayton,OH,47569,Medicaid,2022-12-17
+211,Michael,WILLIAMS ,1949-10-19,F,Indianapolis,IN,46069,Commercial,2024-07-31
+212,  karen,Smith,1948-12-27,m,Louisville,KY,42705,Medicare,04/19/2023
+213,Jennifer,Wilson,2019-01-03,f,Louisville,KY,43911,Commercial,2025-04-18
+214,Robert,Wilson,1991-07-05,F,Columbus,OH,44383,Commercial,2018-06-02
+215,Richard,TAYLOR ,1984-06-10,M,Columbus,OH,47672,Medicaid,2021-03-31
+216,Nancy,DAVIS ,1997-07-14,Male,Indianapolis,IN,44295,Medicare,2023-07-17
+217,Linda,Garcia,1954-07-30,Male,Lexington,KY,43759,Commercial,2025-04-09
+218,John,Williams,1994-10-23,f,Lexington,KY,47348,Commercial,07/19/2022
+219,  susan,Williams,1982-11-01,Male,Dayton,OH,47666,Medicaid,2020-10-13
+220,Nancy,Martinez,2004-11-07,M,Indianapolis,IN,40093,Self-Pay,12/07/2020
+221,Nancy,Williams,1976-05-15,Male,Lexington,KY,44116,Commercial,2021-06-27
+222,Karen,Brown,1951-12-25,m,Louisville,KY,41254,Self-Pay,2023-02-07
+223,John,TAYLOR ,1962-03-14,f,Lexington,KY,46182,Medicaid,2024-09-06
+224,Robert,Moore,1990-08-12,F,Cincinnati,OH,40505,Medicaid,2024-02-22
+225,Thomas,Johnson,2001-01-11,M,Columbus,OH,45872,Self-Pay,2024-07-16
+226,David,Rodriguez,1977-04-08,M,Louisville,KY,44619,Self-Pay,2018-08-25
+227,  michael,Thomas,1940-04-08,m,Lexington,KY,41785,Commercial,2024-06-26
+228,Robert,MOORE ,1982-05-08,f,Cincinnati,OH,42351,Commercial,2022-08-02
+229,Jennifer,Garcia,2019-12-19,m,Louisville,KY,43674,Medicare,2022-03-27
+230,  patricia,Johnson,1956-01-05,M,Indianapolis,IN,43219,Medicaid,2023-12-07
+231,Thomas,Wilson,2004-07-06,F,Indianapolis,IN,43474,Medicaid,2023-12-19
+232,  john,Moore,2018-07-08,M,Lexington,KY,46270,Medicare,2019-04-08
+233,John,Johnson,1949-01-19,f,Indianapolis,IN,40275,Commercial,01/03/2023
+234,  richard,Davis,1961-01-08,f,Indianapolis,IN,41779,Commercial,2018-08-20
+235,William,Martinez,1993-08-22,m,Lexington,KY,46704,Medicare,2021-08-06
+236,Jennifer,Jones,1964-09-07,Female,Cincinnati,OH,44560,Commercial,2024-08-20
+237,Elizabeth,Smith,1970-11-24,F,Lexington,KY,45499,Medicaid,2022-04-11
+238,Richard,Williams,2007-09-06,Female,Indianapolis,IN,43879,Commercial,2020-09-14
+239,Jennifer,Miller,1989-12-30,Female,Indianapolis,IN,41098,Medicaid,2022-05-10
+240,Robert,Rodriguez,2005-01-02,M,Columbus,OH,40422,Medicare,01/04/2021
+241,John,Davis,1958-09-27,f,Dayton,OH,42483,Self-Pay,2018-03-04
+242,Karen,Anderson,1994-03-23,Female,Lexington,KY,41675,Self-Pay,2022-06-13
+243,Patricia,Jones,1963-06-19,Male,Dayton,OH,44200,Medicare,2023-07-30
+244,Patricia,GARCIA ,1977-02-18,m,Cincinnati,OH,44608,Commercial,2020-06-25
+245,Jennifer,Jones,1953-09-03,f,Columbus,OH,42702,Commercial,2020-07-31
+246,William,Jones,2008-06-25,Male,Louisville,KY,47917,Medicare,2025-03-13
+247,David,Anderson,1989-01-12,M,Louisville,KY,41507,Commercial,2024-01-30
+248,Maria,Taylor,1940-07-28,m,Louisville,KY,41126,Self-Pay,01/27/2025
+249,Patricia,Smith,1995-06-06,m,Lexington,KY,45462,Commercial,11/30/2024
+250,Jennifer,Smith,1941-07-02,f,Indianapolis,IN,45916,Commercial,2021-01-30
+251,Jennifer,Taylor,2021-08-14,Male,Columbus,OH,40876,Medicaid,2019-01-30
+252,Michael,Taylor,1975-08-10,Male,Cincinnati,OH,43056,Commercial,2022-07-22
+253,  robert,Wilson,2016-12-29,M,Lexington,KY,46222,Commercial,2018-05-10
+254,James,Anderson,1955-05-17,M,Cincinnati,OH,44094,Commercial,2022-11-13
+255,Maria,BROWN ,1958-12-19,Male,Lexington,KY,47270,Commercial,05/10/2024
+256,Maria,Williams,2016-04-17,Female,Dayton,OH,40128,Commercial,2020-04-28
+257,Nancy,Williams,1990-08-05,f,Columbus,OH,44642,Medicare,2022-05-13
+258,Robert,Rodriguez,2006-11-17,m,Dayton,OH,40439,Commercial,2019-02-05
+259,Richard,Taylor,1969-04-12,m,Cincinnati,OH,45194,Self-Pay,2021-01-24
+260,  jennifer,Williams,2000-12-23,f,Indianapolis,IN,45412,Commercial,2022-04-06
+261,Robert,Jones,1953-11-01,M,Louisville,KY,45830,Commercial,2025-02-09
+262,  nancy,Davis,1972-04-15,m,Dayton,OH,40837,Self-Pay,2019-06-27
+263,Linda,Smith,1948-01-15,M,Dayton,OH,44540,Medicaid,2019-01-17
+264,Jennifer,Miller,2009-11-25,F,Cincinnati,OH,45937,Commercial,2024-04-10
+265,Richard,WILLIAMS ,1952-06-15,Female,Dayton,OH,42466,Medicaid,2021-01-04
+266,Elizabeth,Taylor,1946-11-25,Female,Dayton,OH,42061,Commercial,2020-10-07
+267,David,Jones,1940-08-09,Female,Louisville,KY,42721,Commercial,2024-12-15
+268,David,Jones,1968-10-07,Male,Indianapolis,IN,47760,Medicaid,2020-04-02
+269,Elizabeth,Martinez,2010-02-25,m,Columbus,OH,42669,Medicare,2022-03-21
+270,Susan,Wilson,2008-11-12,f,Indianapolis,IN,40220,Commercial,2023-03-06
+271,Jennifer,Wilson,1984-10-17,Female,Columbus,OH,45188,Commercial,2021-05-25
+272,Thomas,Martinez,1982-12-29,m,Indianapolis,IN,43283,Commercial,2023-12-29
+273,Patricia,ANDERSON ,2020-05-03,f,Indianapolis,IN,44864,Medicaid,2025-02-26
+274,Susan,Wilson,1994-12-19,Female,Cincinnati,OH,44613,Commercial,2025-03-27
+275,James,Johnson,1963-03-19,Male,Columbus,OH,44183,Self-Pay,2023-10-26
+276,Thomas,Taylor,2000-12-18,Male,Indianapolis,IN,45656,Self-Pay,2023-08-12
+277,Robert,Johnson,2014-07-31,Female,Lexington,KY,41160,Medicaid,2021-11-27
+278,Elizabeth,Johnson,1979-04-23,M,Lexington,KY,45707,Commercial,2023-01-28
+279,William,Wilson,1949-10-23,m,Lexington,KY,46554,Medicare,2019-11-05
+280,William,Rodriguez,1978-04-02,Female,Louisville,KY,41899,Commercial,2022-07-18
+281,John,Davis,1993-02-16,M,Louisville,KY,43185,Commercial,2018-01-19
+282,Linda,Taylor,2018-03-25,Female,Indianapolis,IN,41531,Commercial,2022-02-07
+283,  william,Martinez,1974-11-12,F,Indianapolis,IN,43215,Commercial,2024-08-01
+284,  nancy,MOORE ,1995-02-16,F,Indianapolis,IN,40694,Medicaid,2025-07-15
+285,David,Rodriguez,1974-11-07,m,Louisville,KY,44885,Commercial,2019-07-19
+286,Susan,Rodriguez,1954-12-20,Male,Louisville,KY,42366,Commercial,2019-07-29
+287,Elizabeth,Williams,1957-07-03,Female,Louisville,KY,47895,Commercial,2024-04-19
+288,Thomas,Davis,1955-01-02,F,Cincinnati,OH,44631,Commercial,05/07/2018
+289,Nancy,WILLIAMS ,2010-01-16,m,Louisville,KY,44633,Medicaid,2023-07-22
+290,Maria,TAYLOR ,2004-07-02,F,Louisville,KY,44475,Medicaid,2020-06-14
+291,Maria,Davis,1963-07-30,F,Dayton,OH,47063,Medicare,2018-12-23
+292,Patricia,THOMAS ,2003-10-06,F,Indianapolis,IN,45183,Commercial,2022-10-20
+293,Patricia,Rodriguez,1965-03-20,Male,Indianapolis,IN,44413,Commercial,2019-11-21
+294,Linda,Williams,2007-04-18,F,Louisville,KY,47526,Medicare,2018-08-31
+295,David,ANDERSON ,1968-11-23,f,Columbus,OH,46237,Self-Pay,2025-08-01
+296,Richard,Davis,1946-10-10,Male,Lexington,KY,46509,Self-Pay,2019-01-17
+297,Elizabeth,Garcia,1992-03-17,Male,Cincinnati,OH,47118,Commercial,2019-01-17
+298,Richard,Brown,1978-07-18,F,Columbus,OH,44052,Commercial,2021-01-04
+299,  elizabeth,Taylor,1970-11-02,M,Lexington,KY,46244,Commercial,2018-07-18
+300,Susan,Davis,1980-12-15,f,Cincinnati,OH,47848,Medicaid,2022-10-19
+301,Susan,THOMAS ,2018-08-23,f,Dayton,OH,40764,Medicare,2025-05-05
+302,Maria,MILLER ,1996-02-15,F,Dayton,OH,45947,Self-Pay,08/17/2020
+303,Robert,WILLIAMS ,1993-04-05,M,Columbus,OH,44255,Self-Pay,2025-08-17
+304,David,DAVIS ,1946-05-09,Male,Columbus,OH,43138,Medicare,2019-01-01
+305,  richard,Taylor,2012-12-20,f,Columbus,OH,45255,Medicare,08/05/2025
+306,Thomas,Garcia,2004-10-23,F,Columbus,OH,45145,Commercial,2019-09-13
+307,Linda,Williams,2007-07-04,F,Cincinnati,OH,44829,Medicaid,2022-04-22
+308,Robert,Brown,1989-08-24,f,Indianapolis,IN,44915,Medicaid,10/24/2024
+309,John,RODRIGUEZ ,1994-06-13,F,Indianapolis,IN,41545,Self-Pay,2022-05-24
+310,  richard,Johnson,1961-08-17,Male,Louisville,KY,45227,Medicaid,08/29/2024
+311,David,Miller,2017-03-24,M,Indianapolis,IN,43447,Commercial,2022-02-05
+312,Robert,Smith,1963-07-10,f,Columbus,OH,40326,Commercial,2018-09-05
+313,Jennifer,Miller,2002-12-17,Male,Louisville,KY,40675,Commercial,2025-03-08
+314,John,Taylor,1953-12-09,f,Indianapolis,IN,42676,Commercial,2022-05-20
+315,  nancy,ANDERSON ,1979-04-01,Female,Lexington,KY,47810,Commercial,2020-09-04
+316,  maria,Jones,1999-10-04,F,Lexington,KY,45390,Self-Pay,2019-12-21
+317,Patricia,Rodriguez,1986-05-27,f,Lexington,KY,42123,Commercial,2019-11-15
+318,  james,Garcia,2012-05-29,M,Louisville,KY,42228,Self-Pay,2023-11-16
+319,Thomas,Rodriguez,1972-04-22,m,Cincinnati,OH,44092,Commercial,2024-05-10
+320,Linda,BROWN ,2006-06-16,Male,Indianapolis,IN,40021,Self-Pay,06/30/2018
+321,David,Williams,2016-12-05,f,Cincinnati,OH,44529,Medicaid,2025-05-09
+322,Michael,Thomas,1946-12-27,m,Indianapolis,IN,43054,Commercial,2019-05-05
+323,Richard,Johnson,2018-09-05,Female,Louisville,KY,47094,Commercial,03/02/2021
+324,Patricia,Brown,1966-02-27,Female,Indianapolis,IN,46426,Medicare,2021-05-29
+325,Karen,Williams,1940-07-27,M,Louisville,KY,40195,Medicaid,2020-08-12
+326,  james,Taylor,1998-12-20,Female,Louisville,KY,46955,Commercial,2021-06-13
+327,David,Anderson,1965-02-07,Male,Cincinnati,OH,40359,Self-Pay,2020-08-06
+328,Robert,MARTINEZ ,1948-07-28,Female,Indianapolis,IN,41093,Commercial,2025-02-23
+329,David,Brown,1966-03-02,Male,Dayton,OH,46970,Medicaid,2021-07-14
+330,  thomas,Jones,1960-12-15,M,Cincinnati,OH,47729,Medicare,2020-04-10
+331,Thomas,Davis,1968-03-04,Female,Louisville,KY,40989,Medicaid,2024-01-05
+332,  linda,Johnson,1954-02-20,M,Lexington,KY,42492,Commercial,2024-10-07
+333,Karen,Garcia,1975-07-20,Female,Indianapolis,IN,40401,Self-Pay,2025-08-05
+334,  karen,JOHNSON ,1981-06-14,F,Cincinnati,OH,46585,Medicare,2019-07-27
+335,John,THOMAS ,1975-12-09,M,Dayton,OH,45622,Commercial,2025-01-25
+336,  robert,Brown,2020-12-18,M,Lexington,KY,43632,Commercial,2019-06-12
+337,Thomas,Smith,1955-01-26,Male,Indianapolis,IN,43548,Medicare,2022-06-06
+338,  susan,Jones,1965-02-08,Male,Louisville,KY,47237,Self-Pay,2019-09-01
+339,Jennifer,MOORE ,1989-05-27,m,Louisville,KY,40499,Medicare,2018-12-26
+340,James,Miller,2010-02-23,m,Lexington,KY,42941,Medicaid,2023-05-19
+341,Richard,Jones,1956-02-18,M,Cincinnati,OH,42612,Self-Pay,2024-09-11
+342,  patricia,Taylor,1992-05-23,f,Columbus,OH,47978,Commercial,2019-10-16
+343,Karen,Martinez,2015-12-11,f,Louisville,KY,42906,Medicaid,2019-12-13
+344,James,Anderson,2002-11-06,Female,Dayton,OH,47762,Commercial,2024-05-14
+345,Nancy,Williams,1983-12-31,M,Cincinnati,OH,40739,Medicaid,2018-08-19
+346,John,Taylor,1951-09-15,M,Dayton,OH,45873,Medicare,2019-12-28
+347,David,Taylor,1949-12-13,Female,Indianapolis,IN,47050,Commercial,2022-02-03
+348,Linda,Garcia,1967-01-27,Female,Dayton,OH,41117,Commercial,2019-10-08
+349,William,Williams,2003-06-11,F,Indianapolis,IN,45681,Self-Pay,2024-11-18
+350,Nancy,Anderson,2001-10-07,Female,Dayton,OH,41043,Commercial,2019-12-29
+351,Maria,Williams,1994-01-16,F,Dayton,OH,47545,Medicaid,2024-11-09
+352,Robert,BROWN ,1971-02-11,f,Dayton,OH,41375,Commercial,2025-02-18
+353,William,Davis,1941-01-08,f,Dayton,OH,41717,Commercial,2020-10-19
+354,Maria,Miller,1979-04-25,m,Lexington,KY,43437,Self-Pay,2019-11-13
+355,Linda,THOMAS ,1983-01-06,Male,Indianapolis,IN,45332,Commercial,2020-07-12
+356,William,Jones,1949-05-24,M,Cincinnati,OH,42800,Medicaid,11/28/2019
+357,Elizabeth,Anderson,1942-10-12,M,Louisville,KY,47720,Medicaid,2025-05-01
+358,John,Brown,1976-09-19,M,Lexington,KY,44539,Self-Pay,2024-01-22
+359,  elizabeth,Williams,1944-11-21,Female,Dayton,OH,40031,Medicare,2022-10-18
+360,Linda,Smith,1958-07-26,Female,Columbus,OH,45228,Self-Pay,2021-04-10
+361,Elizabeth,Moore,1999-04-21,Male,Dayton,OH,40746,Medicare,2025-03-14
+362,Thomas,Smith,1963-08-15,f,Louisville,KY,43809,Commercial,12/14/2020
+363,Linda,Johnson,1999-12-10,M,Dayton,OH,46620,Self-Pay,2024-01-27
+364,Jennifer,RODRIGUEZ ,2001-08-21,f,Louisville,KY,44691,Commercial,2020-08-23
+365,David,Johnson,2007-12-06,Female,Louisville,KY,41416,Commercial,2019-11-16
+366,Jennifer,Brown,2013-10-17,M,Lexington,KY,41211,Commercial,2024-09-03
+367,Richard,Rodriguez,1975-08-25,f,Indianapolis,IN,42671,Commercial,02/05/2021
+368,Jennifer,Johnson,1977-03-07,M,Columbus,OH,41214,Commercial,2024-05-09
+369,Linda,Taylor,1965-08-31,m,Indianapolis,IN,47210,Commercial,2021-11-09
+370,Elizabeth,Smith,1955-06-13,Female,Dayton,OH,43301,Medicaid,2019-08-13
+371,Karen,SMITH ,2006-11-26,Male,Louisville,KY,47543,Medicaid,2021-01-05
+372,Michael,Thomas,1984-02-08,f,Lexington,KY,45610,Self-Pay,2019-02-07
+373,  william,Jones,2005-05-20,Female,Louisville,KY,44955,Commercial,2025-03-29
+374,Elizabeth,Taylor,1986-05-03,m,Dayton,OH,46725,Self-Pay,2018-08-19
+375,  david,Taylor,2016-05-16,M,Indianapolis,IN,47203,Medicare,2024-05-18
+376,Maria,Davis,1944-07-14,f,Dayton,OH,45772,Commercial,2020-03-26
+377,James,Brown,1973-05-31,Male,Louisville,KY,44866,Medicaid,2023-01-02
+378,Susan,Thomas,2020-03-31,m,Dayton,OH,46135,Medicare,2019-01-06
+379,Karen,Wilson,1960-03-12,f,Lexington,KY,41693,Commercial,2021-01-07
+380,Elizabeth,Moore,1951-11-14,Male,Lexington,KY,41418,Commercial,2024-09-28
+381,Michael,Miller,2020-05-03,m,Louisville,KY,46976,Commercial,2021-11-29
+382,Richard,Martinez,1949-03-06,m,Cincinnati,OH,44190,Commercial,2025-06-06
+383,Nancy,Jones,2001-05-26,Male,Cincinnati,OH,43946,Medicaid,2018-09-19
+384,Nancy,Brown,1953-06-13,m,Indianapolis,IN,46270,Self-Pay,2020-09-11
+385,William,Wilson,1952-07-21,Female,Lexington,KY,40208,Self-Pay,2025-05-08
+386,Maria,Martinez,2003-07-11,f,Indianapolis,IN,46684,Self-Pay,2020-02-17
+387,Patricia,Rodriguez,1966-12-06,F,Columbus,OH,46886,Commercial,05/17/2025
+388,Michael,Anderson,2012-07-08,F,Indianapolis,IN,46249,Medicaid,2020-01-20
+389,Karen,Anderson,2018-03-07,M,Dayton,OH,43444,Self-Pay,2021-09-19
+390,  maria,Thomas,1996-11-29,f,Indianapolis,IN,44753,Self-Pay,2024-12-17
+391,Nancy,Miller,1944-11-06,Female,Columbus,OH,41125,Medicare,2020-03-31
+392,William,Thomas,2004-03-16,f,Columbus,OH,46381,Commercial,2018-11-28
+393,James,Davis,1964-07-15,M,Columbus,OH,46235,Medicare,2019-11-22
+394,Jennifer,WILSON ,1978-07-10,Male,Louisville,KY,43514,Commercial,2023-05-10
+395,William,Taylor,2014-10-02,f,Indianapolis,IN,41561,Medicaid,2018-03-15
+396,Nancy,WILLIAMS ,1949-03-19,Male,Louisville,KY,44123,Self-Pay,08/08/2024
+397,William,Miller,2019-08-31,F,Lexington,KY,41096,Self-Pay,2021-11-04
+398,James,Brown,1960-02-15,Male,Lexington,KY,41074,Commercial,2020-05-15
+399,Maria,Miller,2018-08-21,M,Lexington,KY,42095,Commercial,12/31/2023
+400,James,Smith,2001-11-17,F,Cincinnati,OH,43414,Medicare,2022-12-25
+401,William,JONES,1949-05-24,M,Cincinnati,OH,42800,Medicaid,11/28/2019
+402,Nancy,DAVIS ,1997-07-14,Male,Indianapolis,IN,44295,Medicare,2023-07-17
+403,John,Moore,2009-08-21,F,Dayton,OH,42876,Medicare,2025-03-28
+404,Richard,TAYLOR,1984-06-10,M,Columbus,OH,47672,Medicaid,2021-03-31
+405,Linda,TAYLOR,1965-08-31,m,Indianapolis,IN,47210,Commercial,2021-11-09
+406,robert,Taylor,1998-06-21,F,Cincinnati,OH,46178,Medicare,05/08/2018
+407,maria,Miller,2018-08-21,M,Lexington,KY,42095,Commercial,12/31/2023
+408,robert,MOORE,1966-06-23,Male,Dayton,OH,46123,Commercial,2022-08-29
+409,thomas,JOHNSON,1968-03-20,M,Dayton,OH,42648,Commercial,2019-04-20
+410,  robert,TAYLOR,1975-05-26,Male,Cincinnati,OH,42166,Commercial,2024-01-07
+411,nancy,DAVIS ,1985-05-09,m,Indianapolis,IN,43524,Commercial,2019-02-11
+412,  linda,TAYLOR ,2013-07-02,f,Columbus,OH,47902,Self-Pay,2021-06-28
+413,  karen,Wilson,1953-05-14,f,Dayton,OH,46771,Commercial,2019-08-06
+414,Richard,WILSON,2007-02-12,Male,Columbus,OH,45042,Medicare,05/20/2024
+415,  thomas,MILLER,1964-07-04,f,Columbus,OH,46184,Commercial,2023-09-30
+416,john,BROWN,1952-05-04,f,Columbus,OH,40632,Commercial,2021-04-26
+417,Elizabeth,Garcia,1969-10-28,f,Indianapolis,IN,46249,Medicare,2024-02-04
+418,Karen,GARCIA,1986-07-21,F,Dayton,OH,46929,Commercial,2018-11-20
+419,karen,Wilson,1960-03-12,f,Lexington,KY,41693,Commercial,2021-01-07
+420,patricia,JONES,1954-02-25,f,Louisville,KY,46830,Commercial,2024-02-04
