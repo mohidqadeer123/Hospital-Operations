@@ -1,0 +1,7 @@
+department_id,department_name,location,cost_center
+1,Cardiology,Building A - Floor 3,CC-100
+2,Orthopedics,Building B - Floor 1,CC-200
+3,Pediatrics,Building A - Floor 1,CC-300
+4,Oncology,Building C - Floor 2,CC-400
+5,Dermatology,Building B - Floor 2,CC-500
+6,Neurology,Building A - Floor 4,CC-600
