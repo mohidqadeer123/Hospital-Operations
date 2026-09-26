@@ -1,0 +1,26 @@
+provider_id,provider_name,specialty,department_id,hire_date
+1,Dr. Linda Smith,Neurologist,6,2023-04-26
+2,Dr. Karen Brown,Pediatrician,3,2016-07-25
+3,Dr. Linda Wilson,Neurologist,6,2023-04-22
+4,Dr. Robert Martinez,Dermatologist,5,2019-09-25
+5,Dr. James Johnson,Cardiologist,1,2017-06-14
+6,Dr. James Rodriguez,Orthopedic Surgeon,2,2017-03-25
+7,Dr. Jennifer Brown,Neurologist,6,2020-01-14
+8,Dr. Michael Taylor,Dermatologist,5,2015-01-27
+9,Dr. Jennifer Garcia,Orthopedic Surgeon,2,2018-02-12
+10,Dr. John Taylor,Orthopedic Surgeon,2,2018-10-10
+11,Dr. Robert Miller,Cardiologist,1,2016-02-01
+12,Dr. Patricia Martinez,Pediatrician,3,2017-12-19
+13,Dr. Thomas Rodriguez,Cardiologist,1,2016-05-26
+14,Dr. Robert Rodriguez,Oncologist,4,2018-04-15
+15,Dr. Patricia Martinez,Neurologist,6,2017-02-26
+16,Dr. Robert Smith,Neurologist,6,2022-06-01
+17,Dr. Nancy Johnson,Orthopedic Surgeon,2,2017-08-11
+18,Dr. Richard Jones,Cardiologist,1,2020-02-01
+19,Dr. Patricia Williams,Neurologist,6,2019-02-25
+20,Dr. John Wilson,Pediatrician,3,2017-12-29
+21,Dr. Robert Martinez,Neurologist,6,2022-02-13
+22,Dr. Karen Williams,Orthopedic Surgeon,2,2020-03-08
+23,Dr. Michael Moore,Oncologist,4,2022-03-06
+24,Dr. Karen Wilson,Neurologist,6,2018-08-21
+25,Dr. Karen Thomas,Cardiologist,1,2015-05-12
