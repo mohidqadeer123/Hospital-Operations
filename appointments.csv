@@ -1,0 +1,3026 @@
+appointment_id,patient_id,provider_id,department_id,scheduled_date,scheduled_time,appointment_type,status,check_in_time,check_out_time,wait_time_minutes
+1,332,6,2,2025-12-03,14:06,Consult,Completed,14:18,15:14,12
+2,94,4,5,2026-02-15,14:49,Annual Physical,Completed,15:08,16:02,19
+3,333,6,2,2025-04-26,10:15,Follow-up,Completed,10:16,10:52,1
+4,292,22,2,2026-03-25,11:05,Procedure,Completed,11:49,12:21,44
+5,373,5,1,2026-05-10,16:19,Procedure,Completed,,,
+6,336,11,1,2025-01-13,16:57,Consult,Completed,17:06,17:58,9
+7,353,23,4,2025-04-08,15:23,Procedure,No-Show,,,
+8,178,22,2,2026-01-30,10:32,Consult,Completed,10:30,10:40,0
+9,241,16,6,2025-06-19,09:16,Annual Physical,Completed,09:26,09:57,10
+10,115,18,1,2026-01-23,14:52,New Patient,No-Show,,,
+11,236,15,6,2026-08-10,15:38,Procedure,Completed,16:01,16:31,23
+12,335,1,6,2025-04-16,14:53,New Patient,Completed,,,
+13,47,20,3,2025-11-08,16:40,Follow-up,Completed,17:16,18:08,36
+14,28,8,5,2026-04-11,13:39,Consult,Completed,14:12,14:52,33
+15,232,4,5,2025-04-10,11:47,Annual Physical,Completed,12:04,12:54,17
+16,268,12,3,2025-04-19,08:46,Procedure,No-Show,,,
+17,72,23,4,2026-02-24,09:49,Consult,Cancelled,,,
+18,101,7,6,2025-05-04,14:42,Procedure,No-Show,,,
+19,401,7,6,2025-12-13,09:50,New Patient,Completed,10:25,11:18,35
+20,231,15,6,2026-08-27,16:36,Procedure,No-Show,,,
+21,3,17,2,2025-02-19,15:23,Procedure,Completed,15:50,16:49,27
+22,297,6,2,2025-05-12,09:46,Consult,Completed,10:19,10:49,33
+23,312,23,4,2025-09-12,12:40,Annual Physical,Completed,12:53,13:31,13
+24,309,23,4,2026-06-09,13:06,Annual Physical,Completed,13:46,14:43,40
+25,103,7,6,2025-10-25,13:53,Follow-up,No-Show,,,
+26,258,18,1,2025-11-27,09:58,Consult,Cancelled,,,
+27,246,19,6,2026-08-08,15:07,Annual Physical,Completed,15:29,15:39,-3
+28,28,22,2,2025-02-27,11:24,Follow-up,Cancelled,,,
+29,147,22,2,2025-09-14,10:29,Annual Physical,Completed,10:37,11:35,8
+30,232,4,5,2026-07-30,11:49,Procedure,Completed,11:59,12:41,10
+31,148,23,4,2025-02-18,14:30,Procedure,Completed,15:15,16:08,45
+32,7,24,6,2025-09-15,11:27,Procedure,Completed,11:36,12:26,9
+33,387,19,6,2026-07-14,11:21,Annual Physical,No-Show,,,
+34,230,6,2,2025-03-18,11:11,Consult,No-Show,,,
+35,62,13,1,2025-02-11,15:18,Consult,Cancelled,,,
+36,136,5,1,2025-06-14,12:21,Annual Physical,Completed,12:45,13:40,24
+37,166,20,3,2025-02-22,13:08,Consult,Completed,,,
+38,363,11,1,2026-06-23,11:45,Consult,No-Show,,,
+39,35,17,2,2025-06-13,15:05,Consult,Completed,15:25,15:40,20
+40,340,11,1,2025-12-06,14:09,Follow-up,Cancelled,,,
+41,386,20,3,2026-06-28,16:06,New Patient,Completed,16:08,17:00,2
+42,329,20,3,2025-09-07,08:40,Procedure,Cancelled,,,
+43,408,4,5,2026-01-31,12:22,Annual Physical,Completed,12:18,13:01,0
+44,412,17,2,2026-04-02,16:18,Annual Physical,Completed,16:54,17:16,36
+45,50,6,2,2026-07-05,08:07,Follow-up,Completed,08:44,09:34,37
+46,218,4,5,2025-07-30,15:25,Follow-up,Completed,15:21,16:00,0
+47,38,2,3,2025-07-02,12:17,New Patient,Completed,12:48,13:12,31
+48,231,21,6,2026-02-19,15:23,New Patient,Cancelled,,,
+49,200,22,2,2025-05-02,08:06,New Patient,Completed,08:49,09:46,43
+50,38,12,3,2026-05-30,09:48,Annual Physical,Cancelled,,,
+51,311,3,6,2025-10-16,15:28,Procedure,Completed,16:05,16:16,37
+52,70,24,6,2026-02-05,13:02,Annual Physical,No-Show,,,
+53,347,24,6,2026-01-18,08:11,Consult,Completed,,,
+54,294,20,3,2026-02-08,09:27,Follow-up,Cancelled,,,
+55,384,24,6,2025-12-19,11:36,Consult,Completed,11:40,12:00,4
+56,130,7,6,2025-04-28,11:05,New Patient,Completed,11:48,12:33,43
+57,149,22,2,2025-03-10,12:16,Follow-up,Completed,12:57,13:44,41
+58,66,22,2,2025-08-29,09:42,Consult,Cancelled,,,
+59,36,7,6,2025-11-22,16:17,Annual Physical,Completed,16:51,17:43,34
+60,290,19,6,2026-01-09,13:23,Follow-up,Completed,13:18,13:48,0
+61,379,21,6,2026-03-23,12:43,Follow-up,Cancelled,,,
+62,348,24,6,2025-12-06,16:11,Procedure,Completed,16:28,17:27,17
+63,90,21,6,2025-03-25,12:47,Consult,No-Show,,,
+64,101,9,2,2025-03-20,09:17,Consult,Completed,09:52,10:03,35
+65,394,19,6,2025-08-06,08:37,Annual Physical,Completed,09:06,09:50,29
+66,188,13,1,2025-08-17,12:57,Procedure,No-Show,,,
+67,257,17,2,2025-04-03,14:46,Consult,Cancelled,,,
+68,6,22,2,2025-09-02,10:49,Follow-up,Completed,11:12,11:32,23
+69,338,5,1,2026-05-11,14:07,Follow-up,Completed,14:50,15:31,43
+70,120,2,3,2025-07-31,16:50,Procedure,Cancelled,,,
+71,241,15,6,2025-02-17,08:40,New Patient,Cancelled,,,
+72,361,17,2,2025-10-08,12:29,Consult,Completed,13:00,13:21,31
+73,301,21,6,2025-03-21,16:49,Procedure,Cancelled,,,
+74,115,17,2,2026-02-20,14:01,Procedure,Cancelled,,,
+75,406,16,6,2026-09-11,08:06,Follow-up,Completed,08:29,08:49,23
+76,144,7,6,2025-06-03,11:11,Annual Physical,No-Show,,,
+77,309,23,4,2025-05-02,11:55,Annual Physical,Completed,12:36,12:53,41
+78,108,19,6,2025-06-15,15:00,Follow-up,Completed,14:57,15:15,0
+79,323,17,2,2025-02-10,10:30,Follow-up,Completed,10:41,11:02,11
+80,289,21,6,2025-01-20,12:50,Follow-up,Completed,13:13,14:01,23
+81,88,8,5,2026-02-25,10:26,Follow-up,Completed,11:00,11:52,34
+82,352,11,1,2026-04-10,09:10,Procedure,No-Show,,,
+83,198,5,1,2025-04-22,08:16,Consult,No-Show,,,
+84,259,22,2,2026-03-06,10:33,New Patient,Completed,10:39,11:19,6
+85,402,18,1,2026-05-31,10:00,Procedure,Completed,10:37,10:55,37
+86,1,25,1,2026-03-18,16:54,Annual Physical,Completed,16:51,17:45,0
+87,411,16,6,2026-01-26,13:58,Consult,Completed,13:59,14:36,1
+88,120,3,6,2025-10-18,14:58,Follow-up,Cancelled,,,
+89,3,23,4,2025-01-08,16:55,Consult,Completed,16:50,17:24,0
+90,162,14,4,2026-01-06,09:49,Procedure,No-Show,,,
+91,334,19,6,2025-09-17,12:27,Procedure,Completed,12:58,13:31,31
+92,204,25,1,2025-07-28,15:03,Consult,Completed,15:28,15:49,25
+93,130,10,2,2026-08-15,13:52,Follow-up,Completed,14:29,14:46,37
+94,359,6,2,2025-04-13,11:39,Procedure,Completed,12:24,12:55,45
+95,351,23,4,2025-02-23,10:44,New Patient,Completed,10:44,11:03,0
+96,46,3,6,2025-09-27,11:47,New Patient,Cancelled,,,
+97,312,2,3,2026-01-29,14:50,Consult,Completed,15:03,15:58,13
+98,397,6,2,2026-05-22,15:29,Follow-up,Completed,16:06,16:49,37
+99,307,17,2,2026-06-13,11:57,Follow-up,Completed,12:35,12:47,38
+100,81,3,6,2025-10-10,14:49,Procedure,Cancelled,,,
+101,208,19,6,2025-07-25,16:50,New Patient,Completed,16:50,17:35,0
+102,299,12,3,2025-12-22,12:43,Consult,No-Show,,,
+103,100,15,6,2026-02-18,08:04,Follow-up,Cancelled,,,
+104,209,17,2,2025-04-20,09:14,Annual Physical,Completed,09:30,09:47,16
+105,276,19,6,2025-09-14,15:33,Consult,Completed,15:58,16:57,25
+106,398,15,6,2026-04-17,08:28,New Patient,Completed,08:39,08:53,11
+107,113,22,2,2025-08-24,13:23,Annual Physical,Completed,,,
+108,135,8,5,2025-10-22,09:35,Annual Physical,Completed,09:34,10:19,0
+109,182,7,6,2026-08-11,12:35,Follow-up,No-Show,,,
+110,256,24,6,2025-07-24,12:00,Annual Physical,No-Show,,,
+111,106,8,5,2025-07-27,12:15,Annual Physical,Completed,12:19,13:18,4
+112,347,22,2,2026-05-20,08:06,New Patient,Completed,08:31,09:04,25
+113,295,9,2,2026-05-18,11:07,Annual Physical,Completed,11:27,11:51,20
+114,270,14,4,2026-05-05,08:33,Annual Physical,Completed,08:53,09:46,20
+115,62,23,4,2026-06-15,15:51,New Patient,Cancelled,,,
+116,7,22,2,2025-08-04,14:28,New Patient,Completed,14:43,15:16,15
+117,281,9,2,2025-08-31,12:35,Consult,Completed,12:51,13:24,16
+118,215,23,4,2026-01-17,14:13,Annual Physical,Completed,14:36,14:57,23
+119,352,8,5,2025-04-13,12:36,Consult,No-Show,,,
+120,222,13,1,2025-07-20,10:29,Procedure,No-Show,,,
+121,413,1,6,2025-06-30,15:11,Follow-up,Completed,15:46,16:29,35
+122,250,10,2,2025-09-14,08:48,New Patient,Completed,,,
+123,417,9,2,2026-05-03,09:38,Annual Physical,Completed,09:49,10:22,11
+124,415,9,2,2025-12-19,08:20,New Patient,Completed,08:37,09:30,17
+125,295,21,6,2026-07-06,10:58,Annual Physical,Cancelled,,,
+126,167,22,2,2026-06-07,16:19,New Patient,Completed,16:38,17:27,19
+127,75,6,2,2025-12-12,15:11,Consult,Completed,,,
+128,176,8,5,2025-11-18,13:24,Annual Physical,Cancelled,,,
+129,310,21,6,2026-02-09,12:37,Annual Physical,Completed,13:19,14:06,42
+130,86,6,2,2025-01-24,10:08,Annual Physical,No-Show,,,
+131,381,23,4,2025-03-23,11:35,Procedure,No-Show,,,
+132,53,4,5,2025-03-07,16:04,New Patient,Completed,16:00,16:59,0
+133,43,4,5,2025-09-26,10:39,Procedure,Completed,10:53,11:17,14
+134,321,5,1,2025-05-15,16:59,New Patient,No-Show,,,
+135,18,22,2,2026-01-01,13:33,Procedure,Completed,14:02,14:29,29
+136,358,18,1,2025-07-01,15:47,Procedure,Completed,16:15,17:05,28
+137,178,16,6,2026-07-07,11:52,Procedure,Completed,12:06,12:39,14
+138,6,1,6,2026-06-20,10:19,Annual Physical,Cancelled,,,
+139,241,18,1,2025-01-09,16:23,Annual Physical,Completed,16:18,17:17,0
+140,119,1,6,2026-07-16,14:22,Procedure,No-Show,,,
+141,288,14,4,2026-02-09,12:15,Procedure,No-Show,,,
+142,194,8,5,2025-09-27,09:21,Follow-up,Completed,09:49,10:47,28
+143,356,22,2,2025-10-06,12:51,Annual Physical,Completed,13:12,13:34,21
+144,149,4,5,2026-04-12,15:43,Consult,Cancelled,,,
+145,252,7,6,2025-11-25,08:19,New Patient,No-Show,,,
+146,274,1,6,2025-07-10,09:44,Annual Physical,Cancelled,,,
+147,65,23,4,2026-03-25,08:08,New Patient,No-Show,,,
+148,78,1,6,2026-05-21,11:42,Procedure,Cancelled,,,
+149,160,16,6,2026-01-16,15:54,Annual Physical,Completed,15:54,16:52,0
+150,398,13,1,2025-03-15,16:01,Follow-up,No-Show,,,
+151,129,13,1,2025-01-13,10:04,Procedure,No-Show,,,
+152,395,15,6,2025-09-11,08:34,Procedure,No-Show,,,
+153,377,25,1,2025-04-07,16:53,Procedure,No-Show,,,
+154,200,22,2,2025-11-16,13:30,New Patient,No-Show,,,
+155,382,18,1,2026-06-18,10:05,Procedure,Cancelled,,,
+156,327,10,2,2025-07-23,14:09,Follow-up,Completed,14:11,14:36,2
+157,86,9,2,2026-08-22,10:02,Follow-up,Completed,09:57,10:09,0
+158,353,20,3,2025-06-08,14:20,Follow-up,Completed,14:25,15:06,5
+159,389,21,6,2025-03-03,09:01,Follow-up,Cancelled,,,
+160,360,18,1,2025-04-20,10:08,Follow-up,Completed,10:23,11:08,15
+161,413,15,6,2025-07-17,08:21,Annual Physical,Completed,09:02,09:20,41
+162,362,15,6,2026-07-27,13:01,Procedure,Completed,13:08,13:54,7
+163,375,15,6,2025-10-09,10:44,Consult,Completed,10:48,11:26,4
+164,188,15,6,2025-01-01,16:38,Follow-up,Completed,16:34,17:23,0
+165,123,11,1,2025-03-06,14:36,Consult,No-Show,,,
+166,350,16,6,2026-07-19,10:37,Annual Physical,Completed,10:52,11:28,15
+167,268,22,2,2025-03-10,08:44,Follow-up,No-Show,,,
+168,17,7,6,2025-04-20,16:17,New Patient,No-Show,,,
+169,17,19,6,2026-02-02,16:21,Consult,Completed,17:00,17:47,39
+170,311,23,4,2025-03-14,08:13,Procedure,No-Show,,,
+171,41,15,6,2025-03-04,14:09,Procedure,Completed,14:27,15:27,18
+172,137,17,2,2025-02-11,09:12,New Patient,Cancelled,,,
+173,111,17,2,2025-04-10,09:43,Consult,No-Show,,,
+174,198,7,6,2025-07-17,16:58,Consult,No-Show,,,
+175,321,6,2,2026-07-26,15:05,Consult,Completed,15:22,16:15,17
+176,54,6,2,2025-07-04,14:51,Annual Physical,Completed,15:28,15:48,37
+177,181,11,1,2026-07-18,13:32,Procedure,Cancelled,,,
+178,392,21,6,2026-03-17,13:31,Follow-up,Completed,14:02,14:46,31
+179,382,9,2,2026-01-04,15:43,Procedure,Completed,,,
+180,146,20,3,2025-01-17,16:50,Annual Physical,No-Show,,,
+181,4,10,2,2025-08-16,11:39,New Patient,Cancelled,,,
+182,396,23,4,2025-10-10,16:43,Consult,Completed,17:14,17:33,31
+183,80,5,1,2025-09-29,14:15,Follow-up,Completed,14:24,14:50,9
+184,205,19,6,2025-08-11,09:19,Procedure,Cancelled,,,
+185,89,16,6,2026-08-14,09:37,Annual Physical,Completed,09:34,10:30,0
+186,400,2,3,2025-12-09,13:56,Procedure,Completed,13:58,14:57,2
+187,309,1,6,2026-01-27,08:55,Consult,Cancelled,,,
+188,22,11,1,2026-07-07,10:33,Consult,Cancelled,,,
+189,358,8,5,2025-06-06,08:51,Procedure,Completed,09:34,10:22,43
+190,222,10,2,2026-02-08,10:31,Annual Physical,No-Show,,,
+191,43,16,6,2026-08-09,08:50,Procedure,Completed,09:01,09:16,11
+192,358,5,1,2025-05-19,16:12,Follow-up,Completed,16:38,17:13,26
+193,316,24,6,2026-06-21,12:12,New Patient,No-Show,,,
+194,137,25,1,2026-03-17,13:31,New Patient,Completed,13:33,14:25,2
+195,98,11,1,2025-12-19,08:24,Follow-up,Cancelled,,,
+196,180,20,3,2026-03-29,10:29,New Patient,Completed,10:38,11:00,9
+197,373,3,6,2025-04-26,08:55,Consult,No-Show,,,
+198,76,10,2,2025-01-15,13:51,Annual Physical,Completed,,,
+199,108,24,6,2026-07-05,11:36,Consult,No-Show,,,
+200,268,25,1,2025-09-22,16:14,Follow-up,Completed,16:53,17:47,39
+201,340,17,2,2025-02-14,12:21,New Patient,No-Show,,,
+202,146,7,6,2025-10-05,08:54,New Patient,Completed,08:53,09:27,0
+203,338,12,3,2025-04-21,08:19,Procedure,Cancelled,,,
+204,119,13,1,2026-06-05,09:41,Procedure,Cancelled,,,
+205,306,18,1,2025-04-01,11:10,Consult,No-Show,,,
+206,235,18,1,2025-01-23,08:40,Consult,No-Show,,,
+207,157,11,1,2026-05-17,14:42,New Patient,No-Show,,,
+208,178,22,2,2025-12-27,14:03,Follow-up,Cancelled,,,
+209,257,9,2,2025-03-05,12:23,New Patient,Completed,12:53,13:20,30
+210,202,22,2,2025-05-21,09:29,Consult,Completed,10:07,10:56,38
+211,214,8,5,2026-08-10,10:36,Annual Physical,Completed,11:09,11:40,33
+212,335,5,1,2026-08-18,11:27,Annual Physical,No-Show,,,
+213,353,23,4,2026-06-21,10:18,Follow-up,Completed,10:54,11:40,36
+214,286,18,1,2025-05-02,11:08,Follow-up,Cancelled,,,
+215,373,1,6,2025-11-23,15:03,Annual Physical,Completed,15:26,16:23,23
+216,379,9,2,2025-06-05,11:12,Follow-up,Completed,11:18,11:29,6
+217,137,20,3,2026-08-04,11:56,Follow-up,Completed,,,
+218,41,23,4,2026-05-04,10:17,Consult,Completed,10:42,11:37,25
+219,199,16,6,2026-05-01,10:20,Follow-up,No-Show,,,
+220,116,2,3,2026-02-23,08:15,Procedure,Cancelled,,,
+221,114,24,6,2025-07-27,11:29,Follow-up,Completed,11:52,12:41,23
+222,235,8,5,2026-03-14,14:54,Consult,Completed,15:36,16:10,42
+223,381,19,6,2026-09-01,16:57,Consult,Completed,16:58,17:36,1
+224,126,17,2,2026-07-05,14:45,Consult,Completed,15:04,15:47,19
+225,98,10,2,2026-03-27,14:47,Annual Physical,Cancelled,,,
+226,237,6,2,2026-03-09,13:01,New Patient,Completed,13:40,14:23,39
+227,331,15,6,2025-04-03,16:32,Follow-up,Completed,17:16,18:03,44
+228,70,13,1,2026-02-28,13:31,New Patient,Completed,13:37,14:16,6
+229,104,15,6,2025-04-03,12:16,Follow-up,Cancelled,,,
+230,368,24,6,2025-05-07,09:33,Procedure,Completed,10:08,10:41,35
+231,373,17,2,2025-06-13,14:27,Procedure,Completed,14:24,15:23,0
+232,338,5,1,2025-06-16,10:28,New Patient,No-Show,,,
+233,215,10,2,2025-11-13,15:36,Follow-up,Cancelled,,,
+234,61,5,1,2025-07-27,08:03,Annual Physical,Completed,07:58,08:37,0
+235,414,1,6,2026-05-21,12:03,Consult,No-Show,,,
+236,338,16,6,2026-04-10,14:59,New Patient,Completed,,,
+237,281,9,2,2026-07-25,11:32,Follow-up,Completed,11:36,11:49,4
+238,17,22,2,2026-08-15,13:05,New Patient,Cancelled,,,
+239,26,4,5,2026-03-03,11:02,Annual Physical,No-Show,,,
+240,313,22,2,2026-09-02,11:01,Consult,Completed,11:19,11:31,18
+241,189,13,1,2025-03-11,15:17,New Patient,Completed,15:30,16:10,13
+242,141,11,1,2026-06-24,15:03,Follow-up,Completed,15:42,16:05,39
+243,374,21,6,2026-06-26,09:29,Consult,Completed,10:14,11:09,45
+244,163,9,2,2026-06-23,14:02,Consult,No-Show,,,
+245,289,16,6,2026-06-17,16:29,Follow-up,Completed,17:03,17:27,34
+246,1,4,5,2025-01-25,15:56,Follow-up,Completed,16:30,17:06,34
+247,287,21,6,2025-08-06,08:11,Annual Physical,No-Show,,,
+248,131,3,6,2025-11-12,13:07,Consult,Completed,,,
+249,352,11,1,2025-12-16,14:45,Consult,Completed,14:41,15:02,0
+250,345,16,6,2026-05-01,08:36,Procedure,No-Show,,,
+251,80,21,6,2026-04-17,13:43,Procedure,Completed,14:25,14:38,42
+252,372,22,2,2025-11-20,08:19,Consult,No-Show,,,
+253,351,11,1,2025-12-29,09:07,Annual Physical,No-Show,,,
+254,16,11,1,2026-01-20,10:49,Consult,Completed,11:08,11:29,19
+255,385,10,2,2025-11-19,08:32,Procedure,Cancelled,,,
+256,45,16,6,2025-09-01,14:20,Annual Physical,Completed,14:28,15:11,8
+257,402,2,3,2025-07-26,09:34,Consult,Completed,09:30,10:10,0
+258,175,16,6,2026-06-21,13:17,Follow-up,Cancelled,,,
+259,394,4,5,2026-06-13,10:15,New Patient,No-Show,,,
+260,236,13,1,2026-06-19,09:58,Annual Physical,Completed,09:55,10:48,0
+261,171,15,6,2025-02-17,09:45,Annual Physical,Completed,09:41,10:27,0
+262,108,11,1,2025-07-25,11:17,Annual Physical,Cancelled,,,
+263,273,11,1,2026-03-28,10:00,Follow-up,Cancelled,,,
+264,81,9,2,2025-04-28,08:15,Consult,Completed,08:42,08:58,27
+265,164,9,2,2025-05-25,12:50,Follow-up,Completed,12:55,13:09,5
+266,277,15,6,2025-02-21,10:13,Procedure,Completed,10:51,11:04,38
+267,219,13,1,2025-07-03,15:36,Annual Physical,Completed,15:50,16:21,14
+268,344,18,1,2025-03-22,15:56,Follow-up,Completed,15:56,16:50,0
+269,351,21,6,2026-04-22,16:01,Follow-up,No-Show,,,
+270,74,20,3,2025-09-22,14:12,Follow-up,Completed,14:51,15:43,39
+271,167,15,6,2026-05-15,08:30,Procedure,Completed,08:32,09:04,2
+272,145,25,1,2025-12-23,10:10,New Patient,Completed,10:30,11:25,20
+273,333,3,6,2025-11-06,15:52,Consult,Completed,16:13,16:38,21
+274,247,13,1,2025-03-09,13:48,Consult,No-Show,,,
+275,221,14,4,2026-08-04,13:50,Follow-up,Completed,13:56,14:48,6
+276,365,19,6,2026-05-14,09:57,Consult,Completed,10:21,10:51,24
+277,91,10,2,2026-02-20,09:11,New Patient,Completed,09:49,10:37,38
+278,254,21,6,2025-03-04,09:32,Follow-up,No-Show,,,
+279,298,25,1,2025-01-01,10:30,Procedure,No-Show,,,
+280,273,10,2,2026-02-04,15:37,Follow-up,No-Show,,,
+281,349,11,1,2025-11-03,13:11,Annual Physical,Completed,,,
+282,262,13,1,2025-05-11,13:01,Annual Physical,Completed,,,
+283,287,12,3,2025-04-23,12:48,Follow-up,Completed,13:10,14:04,22
+284,365,13,1,2026-02-20,14:30,Consult,Completed,14:38,15:30,8
+285,285,13,1,2026-01-04,15:07,Annual Physical,No-Show,,,
+286,344,5,1,2025-05-18,08:11,New Patient,Completed,08:15,09:11,4
+287,70,3,6,2025-05-21,15:05,Consult,Completed,15:27,16:16,22
+288,283,15,6,2026-01-29,14:03,Follow-up,No-Show,,,
+289,218,20,3,2025-01-08,16:30,Consult,No-Show,,,
+290,138,14,4,2026-07-14,14:15,New Patient,Completed,14:46,15:26,31
+291,247,23,4,2025-03-23,10:25,Annual Physical,Completed,,,
+292,313,3,6,2025-09-09,16:03,Consult,Completed,16:35,17:04,32
+293,274,25,1,2025-01-12,16:00,Consult,Completed,16:25,17:11,25
+294,409,10,2,2025-10-24,10:51,Consult,Completed,11:33,12:02,42
+295,32,21,6,2026-04-30,10:53,New Patient,Completed,11:30,11:58,37
+296,147,16,6,2025-03-26,10:09,New Patient,Completed,10:54,11:21,45
+297,141,9,2,2025-01-15,09:54,Follow-up,Completed,10:26,11:23,32
+298,414,6,2,2025-09-25,12:01,Follow-up,Completed,12:29,12:41,28
+299,75,20,3,2025-06-07,16:27,Procedure,Completed,16:37,17:29,10
+300,108,19,6,2025-12-20,08:55,New Patient,Cancelled,,,
+301,27,6,2,2026-04-21,14:48,Annual Physical,Completed,15:13,16:10,25
+302,120,13,1,2026-02-04,16:05,Follow-up,Cancelled,,,
+303,272,14,4,2025-01-13,12:55,Procedure,Completed,13:33,14:03,38
+304,22,4,5,2026-06-29,14:02,Consult,Completed,14:38,15:05,36
+305,51,9,2,2026-08-22,14:40,Follow-up,Completed,15:21,16:14,41
+306,173,22,2,2025-07-04,13:20,New Patient,Completed,13:58,14:08,-2
+307,269,4,5,2026-04-02,13:59,Annual Physical,No-Show,,,
+308,129,7,6,2025-02-04,08:24,New Patient,Completed,08:22,09:10,0
+309,307,21,6,2025-05-05,10:02,Consult,Completed,10:05,10:39,3
+310,290,6,2,2025-04-24,11:08,Annual Physical,Cancelled,,,
+311,240,22,2,2025-03-19,15:44,Procedure,Cancelled,,,
+312,355,22,2,2025-11-28,12:23,New Patient,No-Show,,,
+313,142,25,1,2025-03-05,14:31,Annual Physical,Completed,14:29,14:55,0
+314,226,3,6,2026-05-19,11:25,Procedure,Completed,11:31,12:22,6
+315,394,14,4,2025-08-12,09:48,Annual Physical,Completed,,,
+316,293,24,6,2025-09-14,15:36,Procedure,Completed,15:40,16:31,4
+317,341,13,1,2025-09-30,10:35,Procedure,Cancelled,,,
+318,295,1,6,2026-06-12,16:22,Procedure,Completed,16:42,17:38,20
+319,277,8,5,2025-01-04,14:33,New Patient,Completed,15:04,15:48,31
+320,350,10,2,2026-02-15,08:56,Annual Physical,Completed,09:25,09:56,29
+321,393,10,2,2025-07-27,11:00,New Patient,Completed,11:19,12:11,19
+322,55,21,6,2026-01-03,16:18,Procedure,Completed,17:00,17:22,42
+323,369,19,6,2025-09-02,16:20,New Patient,Completed,17:05,17:49,45
+324,416,15,6,2025-01-17,08:37,New Patient,Cancelled,,,
+325,173,24,6,2025-02-13,14:55,Follow-up,Completed,15:31,16:23,36
+326,275,5,1,2026-08-17,11:58,New Patient,Completed,12:40,12:59,-10
+327,24,8,5,2025-05-14,08:14,New Patient,No-Show,,,
+328,158,4,5,2026-04-13,10:54,New Patient,Completed,10:55,11:12,1
+329,113,3,6,2025-07-27,15:16,Procedure,Cancelled,,,
+330,167,4,5,2026-08-13,10:20,Follow-up,Cancelled,,,
+331,392,2,3,2026-08-31,10:57,New Patient,Cancelled,,,
+332,62,9,2,2025-05-25,15:05,Annual Physical,No-Show,,,
+333,284,6,2,2026-03-26,12:09,New Patient,Completed,12:12,12:28,3
+334,193,25,1,2025-06-11,08:16,New Patient,Completed,08:11,08:21,0
+335,334,19,6,2025-10-18,15:06,Follow-up,Completed,15:14,15:33,8
+336,211,8,5,2025-06-28,08:38,Follow-up,Completed,09:18,09:59,40
+337,401,10,2,2025-12-23,15:08,Consult,Completed,15:18,15:40,10
+338,49,20,3,2026-01-06,16:39,Procedure,No-Show,,,
+339,395,21,6,2025-08-02,12:43,Follow-up,Completed,12:45,13:45,2
+340,243,16,6,2025-06-30,10:43,New Patient,Completed,11:19,11:52,36
+341,172,20,3,2026-04-10,08:44,New Patient,Completed,09:13,09:34,-9
+342,60,3,6,2025-08-29,15:35,Consult,Completed,15:50,16:26,15
+343,167,8,5,2025-04-23,13:33,New Patient,No-Show,,,
+344,122,24,6,2026-02-27,11:24,Follow-up,Completed,11:23,12:03,0
+345,224,5,1,2025-08-10,15:45,Procedure,No-Show,,,
+346,192,5,1,2026-04-14,11:18,Annual Physical,Cancelled,,,
+347,104,11,1,2025-05-11,08:32,New Patient,Completed,08:44,09:02,12
+348,215,6,2,2025-12-18,11:45,Consult,Cancelled,,,
+349,81,21,6,2025-06-24,11:55,Procedure,Completed,12:23,13:04,28
+350,243,15,6,2025-10-13,08:14,Follow-up,Completed,08:24,08:54,10
+351,303,5,1,2026-08-11,08:05,New Patient,Completed,08:02,08:42,0
+352,218,17,2,2026-02-08,16:10,Procedure,Completed,16:36,17:01,26
+353,355,24,6,2026-02-21,11:43,Annual Physical,No-Show,,,
+354,152,8,5,2025-04-03,08:16,Annual Physical,Completed,08:21,09:16,5
+355,299,1,6,2026-04-11,15:54,Procedure,No-Show,,,
+356,95,12,3,2026-04-21,08:01,Procedure,Completed,08:40,09:11,39
+357,386,9,2,2026-07-10,11:32,Consult,Completed,11:48,12:45,16
+358,346,12,3,2025-02-22,09:53,Annual Physical,Completed,,,
+359,188,6,2,2026-07-27,09:08,Follow-up,Completed,09:11,09:42,3
+360,245,24,6,2026-08-18,11:34,Annual Physical,No-Show,,,
+361,181,9,2,2026-05-31,15:13,New Patient,Cancelled,,,
+362,33,12,3,2025-12-20,15:43,Consult,Completed,16:11,16:28,28
+363,273,10,2,2026-04-08,14:16,Follow-up,Completed,14:40,14:55,24
+364,148,3,6,2025-04-22,10:48,New Patient,Cancelled,,,
+365,357,5,1,2026-05-24,10:34,Consult,No-Show,,,
+366,322,1,6,2025-10-28,15:06,Follow-up,Completed,15:31,16:03,25
+367,11,10,2,2025-07-13,09:04,Follow-up,Completed,09:32,10:23,28
+368,336,21,6,2025-12-01,16:17,Consult,Completed,16:47,17:25,30
+369,405,10,2,2025-06-25,12:26,Procedure,No-Show,,,
+370,191,10,2,2025-02-18,10:31,Annual Physical,Cancelled,,,
+371,234,6,2,2025-06-14,12:52,Follow-up,No-Show,,,
+372,363,23,4,2025-06-07,10:45,New Patient,No-Show,,,
+373,22,11,1,2026-08-12,10:09,Annual Physical,Completed,10:27,10:48,18
+374,341,11,1,2025-12-19,10:31,Procedure,Cancelled,,,
+375,277,6,2,2026-07-01,13:08,New Patient,Completed,13:28,14:09,20
+376,164,5,1,2025-01-05,16:39,Annual Physical,Cancelled,,,
+377,243,10,2,2026-08-11,10:30,Procedure,Completed,10:46,11:40,16
+378,21,5,1,2026-07-19,09:59,New Patient,Cancelled,,,
+379,206,20,3,2025-08-14,15:36,New Patient,Cancelled,,,
+380,168,2,3,2025-07-19,16:59,Annual Physical,No-Show,,,
+381,101,1,6,2025-03-27,15:36,Consult,Completed,15:56,16:18,20
+382,262,2,3,2026-01-05,14:47,Procedure,No-Show,,,
+383,190,13,1,2026-01-17,08:12,Annual Physical,Cancelled,,,
+384,180,10,2,2026-04-02,09:29,Procedure,No-Show,,,
+385,380,14,4,2026-03-30,12:55,Procedure,No-Show,,,
+386,374,14,4,2025-05-23,09:28,Follow-up,No-Show,,,
+387,156,16,6,2026-06-22,13:43,Consult,Completed,14:26,15:00,43
+388,140,14,4,2025-06-29,15:53,Follow-up,Completed,16:00,16:21,7
+389,252,2,3,2025-11-06,13:11,Consult,Completed,13:53,14:32,42
+390,79,9,2,2025-11-04,16:03,Annual Physical,Completed,16:24,16:45,21
+391,126,1,6,2025-05-03,12:43,New Patient,Completed,13:16,14:13,33
+392,224,9,2,2026-05-03,10:02,Consult,Cancelled,,,
+393,376,19,6,2025-01-18,12:25,Consult,No-Show,,,
+394,30,5,1,2025-11-24,15:52,Annual Physical,No-Show,,,
+395,84,2,3,2025-10-07,14:09,Annual Physical,Completed,14:07,14:35,0
+396,40,17,2,2025-07-18,11:07,Consult,Completed,11:50,12:10,43
+397,351,10,2,2025-10-05,14:11,Consult,Completed,14:43,15:15,-9
+398,145,12,3,2026-05-12,15:01,Follow-up,Cancelled,,,
+399,53,7,6,2025-06-08,16:35,Follow-up,No-Show,,,
+400,408,18,1,2026-06-23,09:56,Procedure,Completed,09:55,10:12,0
+401,246,12,3,2025-11-16,14:11,Procedure,No-Show,,,
+402,306,17,2,2025-12-17,10:56,New Patient,Cancelled,,,
+403,382,4,5,2025-08-16,10:11,Follow-up,No-Show,,,
+404,158,5,1,2025-08-03,10:13,Procedure,Completed,10:52,11:50,39
+405,397,16,6,2026-03-18,08:43,New Patient,No-Show,,,
+406,17,22,2,2026-06-10,09:00,New Patient,Completed,,,
+407,342,1,6,2025-04-09,10:06,Follow-up,Completed,10:38,11:00,32
+408,47,5,1,2025-10-12,13:56,Follow-up,Cancelled,,,
+409,257,25,1,2025-09-05,16:37,New Patient,Completed,16:38,17:25,1
+410,367,7,6,2025-10-16,10:55,New Patient,Completed,11:36,11:52,41
+411,363,16,6,2026-01-11,11:09,New Patient,Completed,11:15,11:47,6
+412,264,8,5,2026-02-22,09:55,New Patient,Cancelled,,,
+413,239,4,5,2026-06-17,10:19,Annual Physical,Completed,10:59,11:27,40
+414,168,16,6,2025-04-29,14:34,Procedure,Cancelled,,,
+415,308,24,6,2025-11-16,15:34,Consult,No-Show,,,
+416,209,10,2,2026-03-15,11:13,Procedure,Completed,11:51,12:24,38
+417,252,22,2,2025-04-18,14:45,Consult,Completed,15:22,16:15,37
+418,206,23,4,2026-08-28,09:44,New Patient,No-Show,,,
+419,187,7,6,2025-12-13,11:25,Procedure,Completed,11:27,11:51,2
+420,143,25,1,2026-08-19,12:39,Annual Physical,Completed,13:04,13:56,25
+421,249,17,2,2025-10-13,10:30,New Patient,Completed,10:32,10:58,2
+422,69,1,6,2025-04-12,08:54,Procedure,Completed,09:32,09:43,38
+423,348,11,1,2025-06-06,13:10,Consult,Completed,,,
+424,385,17,2,2026-05-20,15:57,Annual Physical,No-Show,,,
+425,339,16,6,2026-05-18,16:36,Consult,Cancelled,,,
+426,176,18,1,2026-07-14,08:18,Procedure,Completed,08:20,08:54,2
+427,227,15,6,2025-02-06,08:33,Consult,No-Show,,,
+428,338,25,1,2025-11-07,10:48,Procedure,Completed,10:51,11:20,3
+429,57,19,6,2026-05-18,16:01,Consult,Completed,,,
+430,135,16,6,2026-08-29,14:26,Annual Physical,Completed,15:10,15:38,-1
+431,66,12,3,2025-12-24,08:27,Procedure,Cancelled,,,
+432,50,14,4,2025-12-20,14:05,Annual Physical,Completed,14:03,14:55,0
+433,160,19,6,2025-03-28,09:07,New Patient,Cancelled,,,
+434,173,6,2,2025-01-21,13:33,Procedure,Completed,14:10,14:47,37
+435,137,1,6,2026-04-26,08:22,Procedure,Cancelled,,,
+436,293,13,1,2025-11-27,09:40,New Patient,Completed,10:19,11:12,39
+437,416,25,1,2025-12-14,10:50,Annual Physical,Completed,11:08,11:45,18
+438,404,3,6,2026-07-03,11:39,Annual Physical,Cancelled,,,
+439,25,10,2,2026-08-11,14:51,Consult,No-Show,,,
+440,381,3,6,2026-08-16,09:37,Annual Physical,Completed,09:49,10:03,12
+441,219,7,6,2025-12-22,09:18,Consult,Cancelled,,,
+442,412,10,2,2026-03-20,13:20,Procedure,No-Show,,,
+443,206,9,2,2026-06-12,15:44,Follow-up,Completed,15:40,16:30,0
+444,296,16,6,2025-08-07,15:58,Consult,Cancelled,,,
+445,415,20,3,2026-03-21,09:01,Follow-up,Completed,09:19,09:58,18
+446,351,25,1,2025-11-04,15:25,Annual Physical,Completed,15:24,16:14,0
+447,147,21,6,2025-06-14,12:22,Follow-up,Completed,12:42,13:07,20
+448,126,10,2,2026-04-21,16:17,Procedure,Completed,16:39,17:30,22
+449,140,5,1,2025-01-30,12:24,Consult,Cancelled,,,
+450,91,21,6,2025-02-13,16:17,New Patient,Completed,16:17,16:47,0
+451,209,12,3,2025-04-03,14:46,Follow-up,No-Show,,,
+452,58,19,6,2026-05-28,10:03,Consult,Completed,10:47,11:30,44
+453,122,20,3,2025-05-06,13:20,Consult,Cancelled,,,
+454,378,13,1,2025-08-30,15:13,Follow-up,No-Show,,,
+455,55,6,2,2025-08-08,12:41,Procedure,Completed,,,
+456,274,12,3,2025-04-26,13:24,Procedure,Completed,13:49,14:42,25
+457,402,5,1,2026-01-07,16:06,Annual Physical,Cancelled,,,
+458,11,21,6,2026-09-13,08:35,Follow-up,Completed,08:46,09:31,11
+459,359,12,3,2025-05-05,12:02,Procedure,Completed,11:57,12:32,0
+460,155,3,6,2025-08-30,13:04,Follow-up,No-Show,,,
+461,225,21,6,2025-11-21,14:56,Annual Physical,Completed,14:56,15:55,0
+462,212,11,1,2026-03-09,09:42,Annual Physical,No-Show,,,
+463,260,3,6,2025-12-27,15:10,Consult,Completed,15:52,16:22,-1
+464,329,21,6,2025-07-08,15:34,New Patient,No-Show,,,
+465,206,7,6,2025-11-09,13:21,New Patient,Completed,13:23,13:43,2
+466,394,21,6,2025-05-14,15:00,Procedure,Cancelled,,,
+467,245,24,6,2025-05-17,12:26,Consult,No-Show,,,
+468,168,10,2,2025-07-23,09:26,Annual Physical,Completed,09:32,10:07,6
+469,293,8,5,2025-01-22,08:23,Consult,Completed,08:58,09:22,35
+470,102,9,2,2025-06-22,08:50,Consult,Completed,09:12,10:00,22
+471,189,6,2,2026-08-04,10:00,Consult,Completed,10:22,11:21,22
+472,345,16,6,2025-05-02,11:49,Follow-up,No-Show,,,
+473,417,9,2,2025-10-22,16:26,Follow-up,Completed,16:48,17:11,22
+474,145,24,6,2025-07-13,15:08,Procedure,No-Show,,,
+475,406,5,1,2025-01-30,12:57,Follow-up,Cancelled,,,
+476,317,15,6,2025-09-12,14:18,Procedure,Completed,14:18,14:28,0
+477,355,13,1,2025-08-06,14:32,Consult,Completed,14:43,14:57,11
+478,171,8,5,2026-04-28,14:02,Consult,Completed,14:42,15:39,-9
+479,318,13,1,2025-11-06,14:44,Follow-up,Cancelled,,,
+480,287,2,3,2026-08-18,11:03,Follow-up,Cancelled,,,
+481,258,16,6,2025-12-14,15:59,New Patient,No-Show,,,
+482,163,23,4,2026-06-28,15:23,Annual Physical,No-Show,,,
+483,60,11,1,2025-02-15,10:10,Annual Physical,Completed,10:52,11:25,42
+484,135,20,3,2025-09-28,16:49,Procedure,Cancelled,,,
+485,85,11,1,2026-05-19,10:34,Procedure,Completed,10:32,10:54,0
+486,19,16,6,2025-09-24,10:47,Procedure,Completed,,,
+487,183,23,4,2026-07-29,16:16,Procedure,Completed,16:18,17:14,2
+488,48,7,6,2025-10-18,11:04,Consult,No-Show,,,
+489,140,19,6,2026-08-23,11:37,New Patient,Completed,12:05,13:04,28
+490,40,8,5,2026-05-26,09:36,New Patient,Cancelled,,,
+491,146,22,2,2025-05-05,14:43,Consult,Cancelled,,,
+492,55,11,1,2025-06-07,08:29,Procedure,Completed,09:09,10:01,40
+493,138,20,3,2025-01-06,13:37,Consult,Completed,14:00,14:30,23
+494,409,19,6,2025-05-13,11:36,Annual Physical,Completed,11:51,12:04,15
+495,309,13,1,2025-04-05,14:48,Follow-up,Cancelled,,,
+496,123,25,1,2026-02-13,09:31,Follow-up,Completed,09:36,10:10,5
+497,386,21,6,2025-06-07,10:03,Procedure,Cancelled,,,
+498,411,14,4,2025-11-14,10:14,New Patient,Cancelled,,,
+499,189,17,2,2025-07-24,16:21,Procedure,Completed,16:46,17:13,25
+500,388,14,4,2026-01-13,11:10,Procedure,Completed,11:10,11:22,0
+501,347,8,5,2025-06-08,16:27,Consult,Completed,16:27,16:55,0
+502,411,16,6,2025-11-04,10:32,Annual Physical,No-Show,,,
+503,128,17,2,2026-03-14,13:02,New Patient,Completed,13:32,13:46,30
+504,262,14,4,2026-02-27,09:36,Consult,Completed,09:47,10:19,11
+505,258,1,6,2025-04-27,15:53,Follow-up,No-Show,,,
+506,202,2,3,2025-03-27,15:06,Annual Physical,Cancelled,,,
+507,301,24,6,2026-04-11,15:40,Annual Physical,Completed,15:56,16:17,16
+508,310,9,2,2025-04-19,15:24,New Patient,Completed,15:19,15:54,0
+509,245,15,6,2026-02-19,16:18,Consult,Cancelled,,,
+510,417,20,3,2026-01-05,14:44,New Patient,Cancelled,,,
+511,65,5,1,2025-01-15,11:15,New Patient,Completed,11:54,12:16,39
+512,333,5,1,2025-09-05,15:26,Follow-up,Completed,15:26,15:55,0
+513,217,1,6,2025-04-30,10:50,Procedure,No-Show,,,
+514,249,16,6,2025-01-21,15:40,Follow-up,Completed,15:47,16:15,7
+515,27,11,1,2025-01-09,09:45,Procedure,Completed,10:11,11:08,26
+516,149,2,3,2026-05-15,14:49,Consult,Completed,15:21,16:17,32
+517,419,16,6,2025-08-26,09:02,New Patient,Completed,09:24,10:10,22
+518,332,14,4,2026-04-30,09:59,Consult,Completed,10:35,11:07,36
+519,83,10,2,2025-07-16,16:00,Procedure,Cancelled,,,
+520,119,17,2,2025-08-13,13:47,Procedure,Completed,13:50,14:18,3
+521,214,22,2,2026-01-04,16:03,Consult,No-Show,,,
+522,107,10,2,2025-03-30,16:14,Follow-up,No-Show,,,
+523,103,6,2,2026-09-13,16:23,Procedure,Completed,16:49,17:18,26
+524,10,12,3,2025-09-25,14:05,Follow-up,No-Show,,,
+525,258,2,3,2025-03-07,13:45,New Patient,Completed,14:19,14:43,34
+526,133,11,1,2025-12-30,08:47,Annual Physical,Completed,08:51,09:45,4
+527,54,23,4,2025-02-21,15:28,New Patient,Completed,15:29,16:29,1
+528,53,18,1,2025-02-12,16:39,Follow-up,Completed,17:14,17:31,35
+529,81,24,6,2025-10-27,15:32,Procedure,Completed,16:13,16:29,41
+530,420,5,1,2025-05-06,11:26,Procedure,Completed,,,
+531,415,16,6,2025-12-16,12:53,Follow-up,Completed,12:53,13:20,0
+532,185,21,6,2025-09-09,10:35,Procedure,Completed,11:20,11:44,45
+533,210,15,6,2026-06-13,14:10,Procedure,Completed,,,
+534,413,17,2,2025-03-13,09:26,Annual Physical,Cancelled,,,
+535,206,25,1,2025-06-18,15:24,Procedure,Completed,16:07,16:19,43
+536,295,2,3,2026-06-17,13:02,Procedure,Completed,13:40,14:34,38
+537,381,11,1,2025-12-19,08:08,Consult,Cancelled,,,
+538,313,5,1,2026-02-18,15:36,Consult,No-Show,,,
+539,320,20,3,2026-03-29,13:53,Follow-up,Completed,,,
+540,172,13,1,2025-05-10,16:52,Annual Physical,Completed,17:00,17:15,8
+541,175,25,1,2025-06-13,08:23,Consult,Completed,08:55,09:21,32
+542,372,14,4,2026-06-02,09:53,Annual Physical,Completed,10:04,10:54,11
+543,388,21,6,2025-05-08,15:39,Consult,Cancelled,,,
+544,378,1,6,2026-04-10,13:47,Consult,No-Show,,,
+545,290,23,4,2026-07-01,11:59,Annual Physical,Cancelled,,,
+546,146,22,2,2026-08-10,10:23,Consult,Completed,11:05,11:30,42
+547,99,25,1,2026-01-05,15:45,Follow-up,Completed,16:25,17:02,40
+548,32,14,4,2025-05-14,16:07,Procedure,No-Show,,,
+549,40,12,3,2026-06-23,14:52,Consult,Completed,15:20,16:19,28
+550,256,21,6,2026-03-10,15:30,Procedure,Completed,15:35,15:54,5
+551,235,5,1,2026-06-10,10:00,Procedure,No-Show,,,
+552,243,2,3,2025-06-10,14:18,Consult,Completed,14:39,14:56,21
+553,21,17,2,2025-06-06,10:00,Annual Physical,Cancelled,,,
+554,192,10,2,2025-10-29,16:17,Follow-up,Completed,16:21,17:21,4
+555,157,10,2,2025-08-09,11:07,New Patient,Completed,11:09,11:54,2
+556,214,16,6,2026-08-10,13:17,Procedure,Completed,13:33,14:33,16
+557,311,5,1,2025-05-22,16:36,Procedure,Completed,17:13,17:51,37
+558,46,20,3,2026-02-24,14:36,Procedure,No-Show,,,
+559,174,18,1,2025-02-16,15:33,New Patient,Cancelled,,,
+560,85,23,4,2025-01-26,13:16,New Patient,Completed,13:52,14:37,36
+561,278,19,6,2025-02-24,16:54,Procedure,No-Show,,,
+562,258,1,6,2025-05-04,11:04,Annual Physical,Completed,11:49,12:12,45
+563,297,15,6,2025-03-28,13:28,Consult,Completed,13:25,14:06,-7
+564,93,14,4,2025-01-25,17:00,Procedure,Cancelled,,,
+565,132,3,6,2025-04-28,09:41,Follow-up,Completed,09:54,10:13,13
+566,79,10,2,2026-02-22,10:53,Consult,Completed,,,
+567,30,10,2,2026-02-04,09:41,Follow-up,Cancelled,,,
+568,212,11,1,2025-09-22,14:24,New Patient,Completed,14:31,14:56,7
+569,253,17,2,2026-06-01,14:34,Annual Physical,Completed,14:32,15:02,0
+570,248,1,6,2026-02-22,11:59,Annual Physical,Completed,12:29,13:16,30
+571,285,21,6,2025-05-09,13:11,Procedure,Completed,13:34,13:49,23
+572,401,5,1,2026-01-18,10:52,Consult,No-Show,,,
+573,217,18,1,2026-04-08,08:42,Procedure,Completed,09:16,09:44,34
+574,31,16,6,2025-10-07,12:16,Annual Physical,Completed,12:51,13:14,35
+575,24,6,2,2026-07-01,09:11,New Patient,Cancelled,,,
+576,203,23,4,2025-05-06,10:23,Annual Physical,Completed,10:45,11:08,22
+577,163,22,2,2025-12-17,12:27,Annual Physical,Completed,12:37,13:29,10
+578,236,20,3,2025-12-03,08:16,New Patient,No-Show,,,
+579,312,16,6,2025-01-05,08:09,Procedure,No-Show,,,
+580,285,23,4,2026-05-16,14:42,New Patient,Completed,15:27,16:18,45
+581,418,22,2,2026-04-01,10:06,Procedure,Cancelled,,,
+582,308,12,3,2026-02-01,11:01,New Patient,Completed,11:25,11:58,24
+583,114,24,6,2025-01-21,12:47,Follow-up,Cancelled,,,
+584,47,20,3,2025-11-07,11:46,Procedure,No-Show,,,
+585,186,2,3,2025-10-15,16:24,Follow-up,Completed,16:19,16:41,0
+586,57,9,2,2026-08-06,16:32,Follow-up,Completed,17:02,17:24,30
+587,350,20,3,2026-08-02,10:59,Consult,Completed,,,
+588,133,19,6,2025-08-22,16:55,Follow-up,Cancelled,,,
+589,348,1,6,2026-06-30,12:18,Procedure,Completed,12:13,12:50,0
+590,27,11,1,2026-03-19,14:56,New Patient,Cancelled,,,
+591,349,17,2,2026-04-23,16:27,Consult,Cancelled,,,
+592,389,2,3,2025-08-18,08:48,Procedure,Cancelled,,,
+593,273,15,6,2025-11-20,08:05,Follow-up,Completed,08:21,08:36,16
+594,378,8,5,2026-03-10,09:16,Follow-up,No-Show,,,
+595,85,11,1,2025-11-15,09:04,New Patient,Completed,09:29,10:06,25
+596,321,11,1,2025-09-14,12:13,Procedure,Completed,12:23,12:54,10
+597,267,8,5,2025-03-16,15:29,Procedure,Completed,16:01,16:18,32
+598,18,13,1,2025-11-17,09:06,New Patient,No-Show,,,
+599,411,15,6,2025-02-26,13:08,Procedure,Completed,13:07,13:23,0
+600,151,13,1,2026-02-16,09:38,Procedure,Completed,09:47,10:35,9
+601,233,13,1,2026-04-21,15:18,Consult,Completed,15:19,15:50,1
+602,14,15,6,2026-06-14,13:36,Follow-up,Completed,,,
+603,366,3,6,2026-08-31,11:18,Follow-up,Completed,11:53,12:35,35
+604,372,20,3,2026-04-01,11:10,Follow-up,No-Show,,,
+605,409,2,3,2025-03-03,10:10,Consult,Cancelled,,,
+606,224,17,2,2026-01-02,13:18,Consult,Completed,14:02,14:21,44
+607,176,10,2,2026-01-13,08:08,Consult,Completed,08:45,09:38,37
+608,420,18,1,2025-02-25,15:12,Follow-up,Cancelled,,,
+609,103,21,6,2025-07-26,09:10,Follow-up,Cancelled,,,
+610,342,16,6,2026-04-24,13:39,Consult,Completed,13:55,14:44,16
+611,54,15,6,2025-02-13,16:27,New Patient,No-Show,,,
+612,328,8,5,2025-08-24,15:57,Follow-up,Completed,16:07,16:47,10
+613,170,24,6,2026-01-20,11:30,Follow-up,Completed,,,
+614,184,1,6,2026-07-23,09:57,Annual Physical,No-Show,,,
+615,226,7,6,2026-08-23,14:08,New Patient,Completed,14:15,14:37,7
+616,135,24,6,2025-06-28,13:47,Follow-up,Completed,,,
+617,135,4,5,2025-01-22,10:20,New Patient,Completed,10:36,10:59,16
+618,415,12,3,2025-06-25,16:59,Procedure,Completed,17:39,17:53,40
+619,67,7,6,2025-07-16,14:27,Annual Physical,Cancelled,,,
+620,307,14,4,2025-09-08,08:47,Consult,Completed,08:54,09:38,7
+621,127,2,3,2025-10-14,10:09,Consult,Completed,10:35,10:58,26
+622,405,22,2,2025-03-08,10:51,Procedure,Completed,11:34,12:25,43
+623,266,15,6,2025-07-03,13:29,Consult,Cancelled,,,
+624,356,16,6,2026-05-22,16:05,Consult,Cancelled,,,
+625,206,21,6,2026-08-21,08:37,Follow-up,No-Show,,,
+626,104,15,6,2025-08-29,14:45,Annual Physical,No-Show,,,
+627,218,13,1,2026-08-09,10:40,Annual Physical,Cancelled,,,
+628,282,3,6,2025-05-18,09:26,Procedure,Cancelled,,,
+629,266,12,3,2025-08-24,08:42,Consult,Completed,09:16,09:47,34
+630,210,12,3,2026-05-25,13:24,Procedure,Cancelled,,,
+631,13,6,2,2026-03-29,11:59,New Patient,Cancelled,,,
+632,184,3,6,2025-10-29,16:33,Consult,Completed,17:09,17:24,36
+633,51,4,5,2025-03-15,14:08,Consult,Completed,14:15,14:46,7
+634,155,24,6,2025-10-09,11:15,Follow-up,Completed,11:58,12:53,43
+635,5,25,1,2025-11-03,12:48,Procedure,Cancelled,,,
+636,208,19,6,2025-01-13,16:03,Follow-up,Completed,16:23,16:47,20
+637,243,8,5,2026-06-13,15:59,Annual Physical,Completed,16:44,16:59,45
+638,395,23,4,2026-03-04,11:34,Procedure,Completed,12:04,12:15,30
+639,66,10,2,2025-01-10,16:31,Annual Physical,Cancelled,,,
+640,116,14,4,2026-03-12,14:53,Annual Physical,Completed,,,
+641,403,2,3,2025-05-23,10:37,Consult,Cancelled,,,
+642,323,20,3,2026-08-11,14:40,Follow-up,Completed,15:00,15:14,20
+643,56,11,1,2026-08-07,15:42,New Patient,Cancelled,,,
+644,88,4,5,2026-07-21,11:01,Consult,Completed,11:27,11:38,26
+645,198,10,2,2025-07-30,11:58,Consult,Cancelled,,,
+646,36,15,6,2025-02-28,14:17,New Patient,Completed,14:22,14:52,5
+647,81,4,5,2025-05-13,15:08,New Patient,Completed,15:27,15:50,19
+648,222,23,4,2026-05-02,10:42,Consult,Completed,10:56,11:43,14
+649,235,9,2,2025-07-26,08:07,Procedure,No-Show,,,
+650,33,13,1,2026-09-12,12:12,Annual Physical,Completed,12:43,13:24,31
+651,378,3,6,2025-10-22,15:47,Annual Physical,Cancelled,,,
+652,201,20,3,2025-06-29,15:05,Follow-up,No-Show,,,
+653,317,24,6,2026-03-19,15:48,Follow-up,Completed,16:27,17:13,39
+654,23,8,5,2025-06-11,12:40,Annual Physical,Completed,13:17,13:31,37
+655,112,16,6,2026-02-26,10:04,New Patient,Cancelled,,,
+656,387,4,5,2026-06-01,13:33,Procedure,Completed,13:38,14:04,5
+657,14,3,6,2026-04-18,14:30,Procedure,Cancelled,,,
+658,100,13,1,2025-02-08,08:10,New Patient,Cancelled,,,
+659,364,5,1,2025-12-01,15:55,Procedure,Completed,15:54,16:09,0
+660,225,5,1,2026-04-28,12:45,Follow-up,No-Show,,,
+661,10,20,3,2025-04-13,11:01,New Patient,Cancelled,,,
+662,274,24,6,2026-02-05,10:52,New Patient,Completed,11:30,11:57,38
+663,111,23,4,2025-02-05,11:41,New Patient,Completed,12:16,12:59,35
+664,53,13,1,2025-11-12,15:34,Consult,Completed,15:29,15:42,0
+665,128,12,3,2025-09-02,11:24,New Patient,Completed,11:45,11:56,21
+666,99,22,2,2025-03-06,11:45,Follow-up,Completed,,,
+667,263,4,5,2025-12-01,13:30,Follow-up,Completed,14:04,14:27,34
+668,220,4,5,2025-08-26,11:38,Annual Physical,Completed,,,
+669,335,11,1,2025-01-13,14:38,Procedure,No-Show,,,
+670,113,3,6,2025-10-13,14:17,New Patient,Completed,14:25,15:01,8
+671,53,23,4,2026-07-04,10:55,New Patient,Cancelled,,,
+672,308,11,1,2026-02-02,10:16,Follow-up,Cancelled,,,
+673,326,25,1,2025-11-22,16:13,Annual Physical,Completed,16:09,16:57,0
+674,262,21,6,2025-08-27,16:35,New Patient,Completed,16:44,16:55,9
+675,159,8,5,2026-03-15,12:09,New Patient,Completed,12:07,12:25,0
+676,78,13,1,2025-07-29,08:38,Consult,No-Show,,,
+677,228,24,6,2025-12-03,10:17,Annual Physical,Cancelled,,,
+678,330,25,1,2025-02-10,16:53,Annual Physical,Completed,17:36,17:47,43
+679,176,8,5,2025-07-30,08:55,Follow-up,No-Show,,,
+680,312,13,1,2026-06-18,13:29,Procedure,No-Show,,,
+681,323,1,6,2025-03-08,16:23,Follow-up,Completed,16:21,17:11,0
+682,65,3,6,2025-06-27,11:29,Consult,No-Show,,,
+683,41,14,4,2026-04-24,13:18,Follow-up,No-Show,,,
+684,126,14,4,2025-06-30,12:14,Annual Physical,Cancelled,,,
+685,296,15,6,2025-07-26,12:38,New Patient,Completed,12:56,13:31,18
+686,217,17,2,2026-03-20,10:39,New Patient,Completed,11:22,11:56,43
+687,154,20,3,2026-07-05,10:36,Follow-up,Completed,10:47,11:21,11
+688,193,18,1,2026-09-13,16:12,Annual Physical,Completed,16:15,17:10,3
+689,98,1,6,2025-01-14,16:32,Procedure,Cancelled,,,
+690,208,14,4,2026-02-09,14:22,Procedure,Completed,14:36,15:27,14
+691,20,4,5,2026-01-30,10:46,Procedure,No-Show,,,
+692,131,25,1,2025-12-23,16:41,Annual Physical,Completed,17:20,17:33,39
+693,377,8,5,2025-09-06,16:09,Annual Physical,Completed,16:44,17:39,35
+694,331,5,1,2025-09-25,15:46,Annual Physical,No-Show,,,
+695,127,20,3,2026-08-16,10:45,New Patient,Completed,11:29,11:44,44
+696,204,23,4,2026-08-24,09:22,Follow-up,Completed,09:44,10:04,22
+697,155,17,2,2026-06-30,14:31,Annual Physical,Completed,15:12,15:48,41
+698,46,4,5,2026-08-10,13:52,Annual Physical,No-Show,,,
+699,384,7,6,2026-02-12,13:15,Follow-up,Completed,13:41,13:51,26
+700,214,17,2,2026-03-03,12:55,Follow-up,Completed,13:01,13:34,6
+701,250,6,2,2026-05-30,09:52,Consult,Completed,10:00,10:21,8
+702,415,25,1,2025-07-16,12:25,Procedure,Completed,13:00,13:49,35
+703,41,10,2,2025-03-29,14:26,Annual Physical,Completed,,,
+704,121,16,6,2026-05-12,09:43,New Patient,Completed,09:55,10:53,12
+705,405,2,3,2025-04-10,11:36,New Patient,Completed,11:55,12:43,19
+706,137,16,6,2026-04-30,13:45,Procedure,Completed,14:01,14:34,16
+707,162,8,5,2026-01-05,14:48,Consult,Completed,14:46,15:18,0
+708,2,15,6,2026-02-16,10:22,Consult,Completed,10:24,11:07,2
+709,418,8,5,2026-01-13,15:42,Procedure,Completed,16:09,16:45,-6
+710,9,21,6,2026-01-04,08:46,Procedure,Cancelled,,,
+711,120,20,3,2026-05-12,14:49,New Patient,Completed,15:06,15:43,17
+712,244,22,2,2025-04-13,14:34,Consult,Cancelled,,,
+713,100,23,4,2025-05-27,16:52,Consult,Completed,16:49,17:07,0
+714,345,18,1,2026-04-24,10:52,New Patient,Completed,11:17,12:09,25
+715,88,25,1,2025-04-02,09:48,New Patient,Completed,09:53,10:23,5
+716,113,24,6,2025-09-21,16:07,Follow-up,Completed,16:36,17:26,29
+717,355,11,1,2025-08-18,09:06,Procedure,Cancelled,,,
+718,368,24,6,2026-01-26,15:27,Follow-up,No-Show,,,
+719,133,4,5,2025-10-25,09:29,New Patient,Completed,09:45,10:42,16
+720,60,19,6,2026-01-12,10:10,Procedure,Cancelled,,,
+721,296,24,6,2025-01-02,13:18,Consult,Completed,13:47,14:09,29
+722,164,25,1,2026-01-09,10:09,Consult,Completed,10:41,11:05,-8
+723,162,5,1,2025-10-31,11:44,Procedure,Completed,11:48,12:36,4
+724,411,23,4,2025-02-05,13:27,Consult,Cancelled,,,
+725,353,4,5,2025-10-08,16:09,Procedure,No-Show,,,
+726,150,23,4,2026-01-21,09:00,Follow-up,Cancelled,,,
+727,367,7,6,2025-08-19,08:53,Procedure,No-Show,,,
+728,373,13,1,2025-11-03,10:43,Consult,Completed,11:03,11:34,20
+729,179,25,1,2026-02-05,14:40,Consult,Completed,15:21,15:49,41
+730,359,18,1,2026-02-08,09:39,Annual Physical,No-Show,,,
+731,386,19,6,2025-02-25,13:11,Follow-up,Completed,13:42,14:00,31
+732,75,7,6,2025-08-12,11:20,Annual Physical,Completed,12:01,12:47,41
+733,76,13,1,2026-03-14,10:52,New Patient,Completed,11:09,11:49,17
+734,264,21,6,2025-12-13,15:24,Procedure,No-Show,,,
+735,126,2,3,2025-05-02,12:06,Procedure,Completed,12:20,13:14,14
+736,382,13,1,2025-04-02,15:54,Annual Physical,Completed,16:29,17:20,-2
+737,43,4,5,2026-05-16,16:41,New Patient,No-Show,,,
+738,301,19,6,2026-08-10,16:11,New Patient,Cancelled,,,
+739,407,19,6,2025-07-05,14:33,Procedure,Completed,14:47,15:33,14
+740,366,18,1,2025-07-09,14:55,Procedure,Completed,15:25,16:09,30
+741,33,17,2,2026-08-22,10:07,New Patient,No-Show,,,
+742,93,20,3,2025-07-04,08:05,Procedure,Completed,,,
+743,295,7,6,2025-06-15,09:29,Annual Physical,Completed,10:12,10:24,43
+744,153,12,3,2026-07-12,10:55,New Patient,Completed,,,
+745,266,10,2,2026-07-01,15:35,Consult,No-Show,,,
+746,252,23,4,2025-11-17,16:55,Consult,Cancelled,,,
+747,276,17,2,2025-08-03,09:41,Follow-up,Completed,09:38,10:00,0
+748,111,5,1,2026-09-09,11:41,Annual Physical,Completed,11:53,12:11,12
+749,282,9,2,2025-09-24,14:30,Procedure,No-Show,,,
+750,234,3,6,2025-09-18,15:15,Consult,No-Show,,,
+751,105,3,6,2025-10-03,11:17,Consult,Cancelled,,,
+752,337,21,6,2026-06-08,10:47,Follow-up,Completed,11:02,12:02,-10
+753,127,3,6,2025-10-04,10:07,New Patient,Completed,10:45,11:30,38
+754,46,12,3,2025-12-08,12:39,Follow-up,No-Show,,,
+755,141,1,6,2025-04-11,14:26,Procedure,No-Show,,,
+756,54,4,5,2025-06-29,16:59,Consult,Cancelled,,,
+757,414,16,6,2025-04-08,13:57,Annual Physical,Completed,14:27,14:54,30
+758,88,11,1,2026-02-03,11:05,Consult,Cancelled,,,
+759,283,20,3,2026-02-17,16:08,Follow-up,Completed,16:19,16:29,11
+760,337,5,1,2025-05-27,14:27,Annual Physical,Completed,14:25,15:21,0
+761,399,8,5,2026-03-05,15:48,Procedure,No-Show,,,
+762,182,15,6,2026-05-30,12:53,Procedure,Cancelled,,,
+763,267,23,4,2025-08-23,13:12,Annual Physical,Completed,13:33,14:32,21
+764,41,3,6,2025-09-03,09:35,Consult,No-Show,,,
+765,30,3,6,2025-10-20,16:24,Procedure,Completed,17:02,17:44,38
+766,255,17,2,2026-06-30,10:07,New Patient,Completed,10:41,11:03,34
+767,366,14,4,2026-07-02,13:53,Consult,No-Show,,,
+768,351,20,3,2025-02-13,15:39,Consult,No-Show,,,
+769,116,6,2,2025-03-18,14:15,Consult,No-Show,,,
+770,181,2,3,2026-03-09,16:27,Follow-up,Completed,16:45,17:02,18
+771,277,25,1,2025-05-01,12:57,Procedure,Cancelled,,,
+772,151,9,2,2025-08-07,08:02,Procedure,Completed,08:10,08:39,8
+773,264,2,3,2026-04-20,16:19,Annual Physical,Completed,16:14,17:03,0
+774,55,1,6,2025-12-25,11:10,Annual Physical,Completed,11:05,11:21,0
+775,271,17,2,2025-06-07,15:00,Procedure,Completed,14:55,15:14,0
+776,241,13,1,2026-01-19,13:06,Procedure,Cancelled,,,
+777,94,18,1,2025-10-03,09:51,Procedure,Completed,09:56,10:14,5
+778,184,23,4,2025-07-23,09:53,Annual Physical,No-Show,,,
+779,21,5,1,2026-02-09,15:11,New Patient,Cancelled,,,
+780,83,22,2,2025-07-23,16:10,New Patient,Cancelled,,,
+781,216,16,6,2026-07-18,16:27,Annual Physical,No-Show,,,
+782,385,25,1,2026-02-14,16:33,Follow-up,Completed,16:35,16:51,2
+783,177,17,2,2025-01-14,12:02,Annual Physical,Completed,12:24,13:12,22
+784,149,10,2,2026-05-13,09:24,Follow-up,Completed,09:58,10:17,34
+785,144,25,1,2025-04-28,12:29,Procedure,No-Show,,,
+786,102,16,6,2025-04-16,16:34,Follow-up,Completed,16:41,17:28,7
+787,62,5,1,2026-02-15,08:39,Follow-up,Cancelled,,,
+788,75,14,4,2025-01-19,11:24,New Patient,Completed,11:43,12:19,19
+789,119,8,5,2025-12-11,15:16,New Patient,Completed,15:43,16:20,27
+790,138,12,3,2025-10-15,13:59,Follow-up,Completed,14:14,14:27,-6
+791,109,10,2,2026-04-29,12:46,New Patient,Completed,13:08,13:29,22
+792,172,10,2,2025-04-25,09:39,Consult,Completed,10:23,10:41,44
+793,186,24,6,2026-08-27,14:20,Annual Physical,No-Show,,,
+794,108,19,6,2026-01-29,09:29,Follow-up,Completed,10:04,11:01,35
+795,336,7,6,2025-07-17,15:36,New Patient,Completed,16:05,16:54,29
+796,390,7,6,2026-07-01,10:37,Follow-up,Completed,10:44,11:20,7
+797,389,18,1,2025-12-22,14:14,New Patient,Completed,14:36,14:50,22
+798,258,1,6,2025-06-20,12:40,Annual Physical,No-Show,,,
+799,24,19,6,2025-03-04,11:14,Procedure,Completed,11:52,12:36,38
+800,85,15,6,2026-06-06,14:33,Procedure,Completed,14:53,15:41,20
+801,82,19,6,2025-08-12,08:09,Procedure,Completed,08:36,09:31,27
+802,113,10,2,2025-10-02,10:01,Follow-up,No-Show,,,
+803,24,18,1,2025-09-01,12:58,Follow-up,Completed,13:10,13:28,12
+804,329,8,5,2025-08-04,09:58,Annual Physical,Completed,10:33,11:21,35
+805,362,18,1,2025-09-28,10:16,Consult,Completed,10:29,10:59,13
+806,6,12,3,2025-08-13,12:46,Annual Physical,No-Show,,,
+807,9,18,1,2026-08-21,09:48,Annual Physical,Completed,10:23,11:13,35
+808,227,8,5,2025-11-29,12:35,Consult,No-Show,,,
+809,323,25,1,2026-02-09,10:39,Follow-up,Completed,11:20,12:16,41
+810,246,3,6,2026-05-23,11:05,Follow-up,Completed,11:11,11:33,6
+811,93,21,6,2025-10-16,08:21,Follow-up,Cancelled,,,
+812,91,13,1,2025-07-12,09:11,New Patient,No-Show,,,
+813,219,8,5,2026-04-11,14:52,Consult,Completed,14:55,15:51,-2
+814,194,13,1,2025-01-22,09:52,New Patient,Completed,09:55,10:20,3
+815,322,20,3,2025-01-14,08:09,Consult,Completed,08:51,09:22,42
+816,72,16,6,2026-07-31,15:34,Annual Physical,No-Show,,,
+817,170,16,6,2025-06-08,12:09,Consult,Completed,12:48,13:15,39
+818,23,4,5,2026-07-12,13:03,Consult,Completed,,,
+819,115,1,6,2025-08-21,15:17,Follow-up,Completed,15:34,16:25,17
+820,351,13,1,2025-04-26,16:23,New Patient,No-Show,,,
+821,115,4,5,2025-10-16,14:05,Consult,Completed,14:21,14:38,16
+822,44,2,3,2026-09-12,10:34,Procedure,No-Show,,,
+823,272,11,1,2026-09-07,11:05,Follow-up,Completed,11:42,12:35,37
+824,179,4,5,2025-10-05,16:31,Annual Physical,Cancelled,,,
+825,416,23,4,2025-03-20,08:02,Follow-up,No-Show,,,
+826,164,5,1,2026-02-04,15:37,New Patient,Completed,15:39,16:25,2
+827,75,3,6,2025-11-27,10:10,Procedure,No-Show,,,
+828,181,11,1,2026-05-22,15:14,Procedure,Completed,15:47,16:47,33
+829,335,8,5,2026-01-28,15:08,Procedure,Completed,15:37,16:21,29
+830,118,13,1,2025-03-27,15:11,Consult,Completed,15:55,16:49,44
+831,45,8,5,2026-01-06,08:02,New Patient,No-Show,,,
+832,186,18,1,2026-05-01,10:16,New Patient,Completed,10:33,11:06,17
+833,420,5,1,2025-10-29,15:51,Consult,No-Show,,,
+834,216,8,5,2025-08-04,11:49,Follow-up,Completed,11:51,12:45,2
+835,14,23,4,2026-03-11,14:20,New Patient,Completed,,,
+836,305,6,2,2025-01-31,10:30,Follow-up,Cancelled,,,
+837,41,8,5,2025-03-20,08:12,Procedure,Completed,08:16,09:14,4
+838,384,17,2,2025-11-03,16:01,Annual Physical,Completed,16:24,17:24,-2
+839,80,2,3,2025-02-02,10:57,Follow-up,Completed,10:52,11:27,0
+840,233,18,1,2025-09-22,16:33,Follow-up,Cancelled,,,
+841,217,6,2,2025-10-06,09:34,Procedure,Completed,09:37,10:34,3
+842,113,13,1,2025-07-08,09:19,Procedure,Completed,09:34,10:25,15
+843,85,2,3,2026-01-16,15:14,Annual Physical,No-Show,,,
+844,56,4,5,2025-03-21,14:11,Annual Physical,Completed,14:07,14:32,0
+845,34,7,6,2026-09-04,08:11,Follow-up,Cancelled,,,
+846,283,7,6,2025-02-03,12:06,New Patient,Cancelled,,,
+847,292,19,6,2025-02-15,16:15,New Patient,Completed,16:30,16:45,-6
+848,385,10,2,2026-02-12,16:32,Annual Physical,No-Show,,,
+849,385,13,1,2025-12-31,10:12,Annual Physical,Completed,10:33,11:30,21
+850,397,5,1,2025-01-25,14:31,Consult,Completed,14:28,14:56,0
+851,41,21,6,2025-04-06,11:57,Follow-up,No-Show,,,
+852,394,23,4,2025-06-14,16:33,Consult,Completed,17:09,17:52,36
+853,403,5,1,2025-12-14,12:57,Consult,Cancelled,,,
+854,221,2,3,2026-02-01,12:04,Consult,No-Show,,,
+855,311,3,6,2025-06-06,16:29,New Patient,Completed,16:33,17:32,4
+856,409,3,6,2026-05-26,09:36,Annual Physical,Completed,09:41,10:09,5
+857,187,12,3,2025-04-02,09:12,Procedure,No-Show,,,
+858,133,16,6,2025-09-20,15:32,New Patient,No-Show,,,
+859,292,16,6,2025-02-10,14:12,Procedure,Cancelled,,,
+860,210,20,3,2025-05-13,15:31,Consult,Cancelled,,,
+861,320,11,1,2026-01-18,09:25,Consult,Completed,09:48,10:14,23
+862,22,20,3,2025-02-28,12:10,New Patient,Completed,12:14,12:30,4
+863,205,3,6,2025-08-17,14:37,New Patient,Completed,14:54,15:33,17
+864,419,15,6,2025-04-22,09:27,New Patient,No-Show,,,
+865,204,25,1,2026-03-20,11:24,Annual Physical,Completed,11:23,11:53,0
+866,109,23,4,2026-05-03,09:57,Procedure,Cancelled,,,
+867,20,18,1,2025-06-09,16:01,Follow-up,No-Show,,,
+868,164,19,6,2025-02-02,14:29,Annual Physical,Completed,15:14,15:51,45
+869,109,1,6,2026-03-10,12:36,Follow-up,Cancelled,,,
+870,43,5,1,2025-03-12,12:40,New Patient,Completed,12:54,13:49,14
+871,110,22,2,2025-09-23,11:08,New Patient,Completed,11:30,12:01,22
+872,102,12,3,2026-03-06,16:13,Consult,Completed,16:52,17:52,39
+873,182,23,4,2026-08-08,14:38,Consult,Completed,15:23,16:11,45
+874,297,20,3,2025-05-29,13:31,New Patient,Cancelled,,,
+875,78,15,6,2025-06-01,16:31,New Patient,Cancelled,,,
+876,406,22,2,2026-02-21,12:29,New Patient,Completed,12:52,13:10,23
+877,297,4,5,2025-02-07,11:43,Procedure,No-Show,,,
+878,357,18,1,2025-06-20,14:26,Annual Physical,No-Show,,,
+879,108,7,6,2026-08-14,08:14,Annual Physical,Cancelled,,,
+880,9,10,2,2025-11-11,16:34,Procedure,Completed,17:10,17:49,36
+881,278,14,4,2026-06-20,13:43,Follow-up,Completed,14:07,14:44,24
+882,84,18,1,2026-03-23,14:30,Procedure,Cancelled,,,
+883,325,10,2,2025-04-12,09:29,New Patient,Completed,10:05,10:16,36
+884,255,24,6,2026-07-12,09:42,Consult,Completed,10:14,10:26,32
+885,109,8,5,2026-04-11,14:30,Follow-up,Completed,14:55,15:12,25
+886,238,14,4,2026-02-10,08:07,Follow-up,Cancelled,,,
+887,260,10,2,2025-10-02,12:30,Procedure,Cancelled,,,
+888,345,8,5,2025-01-05,15:04,New Patient,Completed,15:00,15:19,0
+889,266,24,6,2026-09-07,13:25,Follow-up,Cancelled,,,
+890,293,14,4,2025-09-05,14:40,Consult,No-Show,,,
+891,330,13,1,2025-02-22,15:19,Procedure,No-Show,,,
+892,373,6,2,2026-02-17,13:25,Follow-up,Completed,13:47,14:11,22
+893,259,4,5,2026-08-14,14:41,Consult,Cancelled,,,
+894,82,11,1,2025-07-28,09:35,New Patient,Completed,09:57,10:07,22
+895,15,20,3,2026-07-11,09:20,Procedure,Completed,09:16,10:13,0
+896,325,21,6,2026-01-02,11:11,Follow-up,No-Show,,,
+897,153,7,6,2026-07-03,12:11,Annual Physical,Completed,12:48,13:01,37
+898,322,1,6,2026-08-17,09:45,Procedure,Completed,10:18,10:35,33
+899,93,3,6,2025-03-21,16:26,Follow-up,Cancelled,,,
+900,201,4,5,2026-05-18,08:22,New Patient,Completed,,,
+901,352,14,4,2026-01-20,13:21,Follow-up,Completed,,,
+902,92,22,2,2026-08-04,08:32,Annual Physical,Completed,08:49,09:29,17
+903,3,6,2,2026-06-19,12:20,Follow-up,Completed,12:53,13:04,33
+904,390,5,1,2025-08-10,14:13,Follow-up,Completed,14:09,14:39,0
+905,355,5,1,2025-10-02,12:40,Follow-up,Completed,12:40,13:12,0
+906,240,24,6,2026-05-23,15:26,Procedure,Completed,15:33,15:59,7
+907,368,9,2,2026-02-07,09:45,Consult,Completed,09:59,10:19,14
+908,250,14,4,2026-04-02,15:13,Annual Physical,Completed,15:28,16:17,15
+909,103,19,6,2025-12-28,14:22,Procedure,Completed,14:27,14:39,5
+910,210,10,2,2026-09-11,14:00,New Patient,Completed,14:02,14:23,2
+911,96,12,3,2025-09-09,09:14,Annual Physical,No-Show,,,
+912,191,5,1,2025-11-18,10:05,Annual Physical,Completed,10:44,10:54,39
+913,291,11,1,2025-08-27,09:07,Annual Physical,Completed,09:40,10:03,33
+914,143,23,4,2025-03-18,15:11,Annual Physical,Completed,15:26,15:48,15
+915,256,2,3,2025-10-09,15:11,New Patient,Completed,15:34,15:54,23
+916,122,19,6,2025-01-22,12:51,Consult,Completed,12:46,13:25,0
+917,207,2,3,2026-07-01,17:00,Annual Physical,Completed,,,
+918,49,14,4,2025-11-05,12:41,Annual Physical,Cancelled,,,
+919,205,3,6,2026-07-24,13:20,Consult,Completed,13:18,13:53,0
+920,253,21,6,2025-05-05,14:22,New Patient,Completed,,,
+921,6,5,1,2025-04-18,13:30,Follow-up,Completed,13:35,13:50,5
+922,189,18,1,2025-01-06,08:53,New Patient,Cancelled,,,
+923,57,2,3,2025-11-08,09:16,Annual Physical,Cancelled,,,
+924,353,20,3,2026-01-24,12:36,Follow-up,No-Show,,,
+925,299,15,6,2025-05-03,10:09,Follow-up,Cancelled,,,
+926,386,19,6,2026-02-28,15:37,Consult,Completed,16:05,16:30,28
+927,144,11,1,2026-05-10,11:51,Annual Physical,Completed,12:35,13:03,44
+928,125,22,2,2025-07-30,09:19,Procedure,Completed,,,
+929,111,15,6,2026-01-30,11:12,New Patient,Completed,11:28,11:51,16
+930,264,11,1,2025-11-16,15:44,Consult,No-Show,,,
+931,55,5,1,2025-08-13,14:12,Procedure,Completed,14:46,15:28,34
+932,36,9,2,2026-03-10,10:48,Consult,Cancelled,,,
+933,332,4,5,2025-05-31,15:52,New Patient,Completed,16:02,16:13,10
+934,15,16,6,2026-06-28,15:43,Annual Physical,Cancelled,,,
+935,61,18,1,2025-03-28,14:02,Follow-up,Completed,14:06,14:41,4
+936,28,15,6,2025-10-07,14:18,New Patient,Completed,14:54,15:28,36
+937,151,7,6,2026-02-17,11:00,Annual Physical,Completed,11:28,12:16,28
+938,349,2,3,2025-09-12,09:53,New Patient,No-Show,,,
+939,28,2,3,2026-08-13,12:32,New Patient,No-Show,,,
+940,273,4,5,2025-10-10,11:51,Procedure,Completed,12:11,12:46,20
+941,355,9,2,2026-05-23,11:30,Follow-up,No-Show,,,
+942,178,21,6,2025-10-22,12:54,New Patient,Completed,13:00,13:42,6
+943,379,10,2,2025-09-02,10:54,New Patient,Cancelled,,,
+944,86,6,2,2025-12-07,15:46,New Patient,No-Show,,,
+945,342,16,6,2026-03-15,13:42,Follow-up,Completed,13:53,14:07,11
+946,5,20,3,2025-12-27,16:05,New Patient,Completed,16:31,16:56,26
+947,9,19,6,2025-10-25,11:53,Consult,Completed,11:58,12:56,5
+948,156,24,6,2025-12-10,15:43,Annual Physical,Completed,16:12,16:38,29
+949,235,1,6,2025-12-28,13:08,Consult,Cancelled,,,
+950,397,22,2,2026-09-03,16:15,Annual Physical,Completed,16:53,17:36,-7
+951,113,22,2,2025-05-26,14:05,New Patient,Completed,14:15,15:01,10
+952,185,7,6,2025-04-02,11:18,New Patient,Completed,11:30,12:20,12
+953,231,17,2,2025-06-29,12:31,Annual Physical,Cancelled,,,
+954,201,19,6,2026-03-04,12:42,Follow-up,Cancelled,,,
+955,22,19,6,2026-06-17,13:51,New Patient,Completed,14:13,15:13,22
+956,406,12,3,2025-10-23,09:52,Procedure,Completed,10:30,10:49,38
+957,149,20,3,2026-07-26,10:46,Procedure,Cancelled,,,
+958,148,3,6,2025-10-29,08:15,New Patient,Completed,08:23,08:51,8
+959,251,10,2,2025-01-06,15:20,New Patient,Cancelled,,,
+960,26,9,2,2025-05-22,13:58,Consult,Cancelled,,,
+961,341,25,1,2026-07-29,10:38,Annual Physical,Completed,10:42,11:38,4
+962,42,10,2,2025-08-13,08:32,Annual Physical,Completed,08:42,09:35,10
+963,51,9,2,2025-11-06,13:18,Consult,No-Show,,,
+964,224,22,2,2025-11-27,10:22,Annual Physical,No-Show,,,
+965,70,14,4,2026-07-22,11:24,Annual Physical,Cancelled,,,
+966,44,10,2,2026-08-04,15:52,Follow-up,Completed,16:11,17:11,19
+967,71,17,2,2026-03-29,13:20,Annual Physical,Completed,13:44,14:16,24
+968,211,15,6,2025-01-29,08:27,New Patient,Completed,09:10,09:28,43
+969,125,19,6,2026-06-09,14:22,Consult,No-Show,,,
+970,279,19,6,2025-10-28,08:54,Follow-up,Completed,,,
+971,414,25,1,2026-06-15,15:51,New Patient,Completed,15:49,16:16,0
+972,171,20,3,2025-04-10,12:57,Procedure,Completed,13:36,14:07,39
+973,300,22,2,2026-06-08,08:54,Consult,No-Show,,,
+974,74,18,1,2026-05-23,10:19,Follow-up,No-Show,,,
+975,155,21,6,2025-11-15,08:06,Consult,Completed,08:45,09:07,-10
+976,62,17,2,2025-04-10,12:13,New Patient,No-Show,,,
+977,243,1,6,2026-06-02,15:34,New Patient,Completed,15:36,16:05,2
+978,420,8,5,2026-07-14,12:26,Procedure,Completed,13:03,13:52,37
+979,12,6,2,2025-05-26,12:06,Consult,No-Show,,,
+980,380,23,4,2026-07-14,11:25,Procedure,Completed,11:38,12:06,13
+981,253,12,3,2025-10-09,14:40,New Patient,Completed,15:04,15:40,24
+982,146,15,6,2025-05-04,14:38,Consult,Completed,14:52,15:04,14
+983,318,15,6,2025-02-13,14:03,Procedure,No-Show,,,
+984,371,15,6,2025-10-11,08:09,Annual Physical,No-Show,,,
+985,257,17,2,2025-08-04,13:57,Procedure,Completed,14:24,14:38,27
+986,336,24,6,2026-07-31,13:47,Follow-up,Completed,13:59,14:59,12
+987,202,3,6,2026-05-11,14:25,Consult,Completed,15:02,15:23,37
+988,398,22,2,2026-06-23,12:25,Annual Physical,No-Show,,,
+989,302,19,6,2025-12-23,14:53,New Patient,Completed,14:49,15:45,0
+990,55,16,6,2026-05-03,13:31,Follow-up,No-Show,,,
+991,54,6,2,2026-01-29,15:10,New Patient,Completed,15:44,16:10,34
+992,38,15,6,2026-01-19,08:30,Annual Physical,No-Show,,,
+993,56,23,4,2026-04-06,14:26,Consult,No-Show,,,
+994,285,7,6,2025-07-20,12:18,Procedure,Completed,12:56,13:24,38
+995,223,17,2,2025-07-16,09:28,New Patient,Completed,10:03,10:55,35
+996,72,1,6,2026-01-04,14:57,Consult,Completed,14:56,15:27,0
+997,373,21,6,2026-06-25,16:28,Follow-up,No-Show,,,
+998,293,16,6,2026-05-28,14:00,Consult,Cancelled,,,
+999,287,5,1,2025-03-10,15:29,Procedure,Completed,,,
+1000,401,17,2,2025-11-02,09:43,Procedure,Completed,09:52,10:05,9
+1001,115,10,2,2025-09-15,14:39,New Patient,Cancelled,,,
+1002,81,10,2,2025-03-18,12:07,Consult,Completed,12:34,13:03,27
+1003,358,4,5,2026-08-20,16:02,New Patient,Cancelled,,,
+1004,17,11,1,2026-03-08,12:27,Annual Physical,No-Show,,,
+1005,392,2,3,2025-05-23,11:29,Annual Physical,Completed,12:12,13:04,43
+1006,253,3,6,2026-08-01,08:36,New Patient,Cancelled,,,
+1007,214,20,3,2025-03-24,16:10,Annual Physical,No-Show,,,
+1008,371,2,3,2025-04-17,08:36,Consult,Completed,08:45,09:36,9
+1009,401,8,5,2025-01-22,08:56,Follow-up,Completed,09:25,10:13,29
+1010,378,1,6,2026-07-20,16:13,Procedure,Completed,16:57,17:31,44
+1011,219,18,1,2025-05-22,09:58,New Patient,Completed,10:32,11:05,34
+1012,30,8,5,2025-08-26,09:34,New Patient,Completed,09:43,10:19,9
+1013,407,18,1,2026-08-05,08:46,Follow-up,Completed,,,
+1014,225,6,2,2025-10-17,08:44,Annual Physical,Cancelled,,,
+1015,309,21,6,2025-09-08,12:59,Consult,No-Show,,,
+1016,204,16,6,2025-05-06,09:18,Annual Physical,Completed,09:47,10:10,29
+1017,183,8,5,2026-03-31,13:09,Consult,Cancelled,,,
+1018,150,21,6,2025-09-08,16:59,Annual Physical,Cancelled,,,
+1019,358,18,1,2026-05-31,09:46,Annual Physical,Completed,10:07,11:02,21
+1020,41,7,6,2025-05-21,16:53,Annual Physical,No-Show,,,
+1021,380,18,1,2025-08-04,10:05,Follow-up,Cancelled,,,
+1022,19,8,5,2026-03-27,15:44,New Patient,Completed,16:10,16:22,26
+1023,154,3,6,2025-03-03,12:45,Procedure,Completed,13:11,13:22,26
+1024,23,8,5,2025-07-30,14:28,Procedure,No-Show,,,
+1025,273,2,3,2025-11-09,08:32,Annual Physical,Completed,08:28,09:16,0
+1026,135,25,1,2026-08-29,11:41,Annual Physical,Completed,12:22,13:11,41
+1027,374,24,6,2025-02-28,09:51,Procedure,Completed,10:32,11:25,41
+1028,274,15,6,2026-03-11,16:51,Follow-up,Cancelled,,,
+1029,196,15,6,2025-09-01,10:15,Annual Physical,Completed,10:53,11:20,38
+1030,278,10,2,2025-12-12,14:44,Consult,Completed,14:56,15:29,12
+1031,335,25,1,2025-01-13,10:07,Consult,Cancelled,,,
+1032,339,11,1,2025-09-28,11:03,Procedure,Completed,,,
+1033,19,12,3,2026-05-07,11:43,New Patient,Completed,12:15,12:30,32
+1034,161,3,6,2026-03-28,11:04,Annual Physical,Cancelled,,,
+1035,133,16,6,2025-05-11,11:52,Follow-up,No-Show,,,
+1036,317,21,6,2025-02-20,11:58,New Patient,Completed,12:04,12:57,6
+1037,163,2,3,2026-07-21,11:53,Annual Physical,Completed,12:04,12:15,11
+1038,181,18,1,2025-02-15,12:00,New Patient,Cancelled,,,
+1039,40,17,2,2026-03-31,09:55,New Patient,Completed,10:05,10:28,10
+1040,349,14,4,2025-03-15,15:16,Follow-up,Cancelled,,,
+1041,13,11,1,2026-01-04,13:43,Annual Physical,Completed,14:08,14:36,25
+1042,23,10,2,2025-06-03,08:26,Consult,Completed,08:34,09:04,8
+1043,261,19,6,2025-12-19,11:40,Consult,Completed,11:37,12:29,0
+1044,333,3,6,2025-03-21,11:49,Consult,Completed,12:20,13:10,31
+1045,376,4,5,2026-06-25,08:52,Procedure,Completed,09:29,10:12,37
+1046,100,19,6,2025-10-28,12:09,Follow-up,Cancelled,,,
+1047,410,25,1,2026-01-06,11:56,Annual Physical,Completed,12:38,12:55,42
+1048,210,12,3,2025-03-23,14:00,Consult,Completed,13:59,14:32,0
+1049,230,14,4,2025-08-24,10:08,Follow-up,Completed,10:52,11:28,44
+1050,311,9,2,2025-10-21,13:49,New Patient,Cancelled,,,
+1051,42,14,4,2026-03-08,16:37,Consult,No-Show,,,
+1052,254,21,6,2025-07-22,11:04,New Patient,Completed,11:09,11:26,5
+1053,365,16,6,2025-04-14,10:09,Procedure,Completed,10:05,10:59,0
+1054,264,17,2,2026-02-02,15:12,Follow-up,Cancelled,,,
+1055,206,23,4,2026-07-25,12:07,New Patient,Cancelled,,,
+1056,173,11,1,2026-08-29,09:50,New Patient,Completed,10:32,11:04,42
+1057,323,15,6,2026-03-23,12:56,Follow-up,Completed,13:37,13:58,41
+1058,420,17,2,2025-03-27,10:35,Consult,Completed,11:07,11:40,32
+1059,165,15,6,2025-06-30,16:40,Annual Physical,Completed,17:24,17:40,44
+1060,25,19,6,2026-06-15,16:57,Consult,Completed,17:19,17:47,22
+1061,92,5,1,2025-02-12,11:35,Consult,Completed,11:47,12:33,12
+1062,178,10,2,2025-06-19,10:01,Annual Physical,Cancelled,,,
+1063,250,15,6,2025-08-18,10:53,Annual Physical,Cancelled,,,
+1064,311,25,1,2025-04-19,11:57,Follow-up,Cancelled,,,
+1065,50,7,6,2026-07-20,16:40,New Patient,No-Show,,,
+1066,307,2,3,2026-07-07,11:19,Procedure,Completed,11:15,11:48,0
+1067,293,14,4,2026-04-01,16:53,Procedure,No-Show,,,
+1068,152,4,5,2025-05-03,15:35,Procedure,Completed,15:46,16:01,11
+1069,375,22,2,2025-04-30,14:02,Follow-up,Completed,14:43,14:57,41
+1070,142,15,6,2026-06-10,09:15,New Patient,Cancelled,,,
+1071,222,4,5,2026-06-18,13:25,Consult,No-Show,,,
+1072,339,21,6,2025-02-06,08:08,Follow-up,No-Show,,,
+1073,301,13,1,2025-08-14,11:20,Procedure,Cancelled,,,
+1074,78,16,6,2025-07-11,16:28,Follow-up,Cancelled,,,
+1075,102,21,6,2025-04-01,16:48,New Patient,No-Show,,,
+1076,223,3,6,2026-05-18,11:33,New Patient,No-Show,,,
+1077,215,23,4,2025-09-27,14:29,Follow-up,Completed,15:04,15:36,35
+1078,93,10,2,2025-08-26,12:59,Procedure,Completed,13:44,14:34,45
+1079,247,10,2,2025-04-09,11:44,Annual Physical,Completed,12:05,12:43,21
+1080,60,6,2,2026-04-21,13:26,Annual Physical,Completed,14:05,14:40,39
+1081,248,16,6,2026-09-08,15:01,New Patient,No-Show,,,
+1082,149,9,2,2026-06-04,11:40,New Patient,Completed,12:10,13:09,30
+1083,211,13,1,2026-03-29,15:15,Annual Physical,Completed,15:13,15:40,0
+1084,326,2,3,2025-11-12,15:38,Follow-up,Completed,16:09,16:29,31
+1085,57,20,3,2025-12-04,10:12,Consult,Completed,,,
+1086,195,3,6,2025-12-08,14:01,New Patient,Completed,14:37,14:50,36
+1087,102,6,2,2026-07-03,14:45,Annual Physical,No-Show,,,
+1088,411,6,2,2026-01-18,13:39,Follow-up,Completed,14:09,15:05,-1
+1089,387,17,2,2025-04-15,16:33,Procedure,Completed,16:30,16:50,-4
+1090,18,9,2,2025-05-07,14:26,Follow-up,Completed,15:08,15:35,42
+1091,259,24,6,2026-03-02,08:20,Consult,Completed,08:53,09:12,33
+1092,201,7,6,2026-09-13,13:19,Procedure,Cancelled,,,
+1093,263,24,6,2025-01-24,13:09,Procedure,Cancelled,,,
+1094,104,4,5,2025-09-28,16:02,Annual Physical,Completed,16:24,16:39,22
+1095,143,16,6,2025-10-19,16:38,Procedure,No-Show,,,
+1096,9,16,6,2026-02-08,14:21,New Patient,Completed,14:44,15:08,-4
+1097,229,12,3,2026-05-04,09:51,Annual Physical,Cancelled,,,
+1098,74,21,6,2025-03-27,09:37,Follow-up,Completed,09:45,10:26,8
+1099,207,20,3,2026-04-30,16:55,Follow-up,Completed,16:53,17:52,0
+1100,380,11,1,2025-06-04,08:37,Consult,Cancelled,,,
+1101,307,14,4,2025-01-06,12:34,Consult,No-Show,,,
+1102,407,16,6,2026-07-13,16:31,Follow-up,Cancelled,,,
+1103,165,15,6,2026-05-10,16:46,New Patient,Completed,16:47,17:24,1
+1104,388,1,6,2025-06-15,16:52,Follow-up,Completed,16:59,17:37,7
+1105,218,16,6,2025-06-24,16:57,Follow-up,Completed,17:39,18:24,-2
+1106,223,10,2,2025-10-05,16:55,Consult,Cancelled,,,
+1107,191,19,6,2025-06-19,10:24,Consult,Cancelled,,,
+1108,351,7,6,2026-01-16,16:51,Annual Physical,Completed,17:16,17:55,25
+1109,383,24,6,2025-05-19,10:48,Procedure,Completed,10:43,11:13,0
+1110,35,1,6,2025-11-16,11:12,New Patient,No-Show,,,
+1111,276,15,6,2025-12-05,09:36,Consult,Completed,10:00,10:48,24
+1112,287,8,5,2025-12-20,08:14,Annual Physical,No-Show,,,
+1113,146,14,4,2026-08-22,13:13,Consult,Cancelled,,,
+1114,393,13,1,2025-09-18,11:27,Consult,Completed,11:31,11:47,4
+1115,135,19,6,2025-04-15,10:09,Consult,Completed,10:45,11:44,36
+1116,304,20,3,2025-10-11,16:04,Follow-up,No-Show,,,
+1117,2,8,5,2025-08-10,09:33,Follow-up,Completed,09:37,09:57,-2
+1118,27,5,1,2026-06-08,15:30,Procedure,Completed,15:45,16:14,15
+1119,287,13,1,2026-01-22,14:34,Annual Physical,Completed,14:48,15:31,14
+1120,310,7,6,2025-06-20,12:44,Procedure,No-Show,,,
+1121,287,15,6,2026-05-17,12:16,Consult,Completed,12:38,13:29,-6
+1122,239,25,1,2025-12-21,15:14,Consult,No-Show,,,
+1123,287,7,6,2026-01-27,14:23,New Patient,No-Show,,,
+1124,101,15,6,2026-01-05,16:58,New Patient,No-Show,,,
+1125,301,10,2,2025-12-03,09:36,Annual Physical,Cancelled,,,
+1126,258,1,6,2025-10-07,08:34,Procedure,Cancelled,,,
+1127,204,2,3,2025-09-17,12:40,Consult,Completed,12:36,13:31,0
+1128,324,15,6,2026-05-18,10:57,Consult,Completed,10:58,11:10,1
+1129,366,5,1,2025-07-01,10:14,Procedure,Completed,10:16,10:29,2
+1130,161,4,5,2026-07-12,12:44,Consult,No-Show,,,
+1131,378,1,6,2025-12-07,13:24,Consult,No-Show,,,
+1132,370,12,3,2026-06-13,08:14,Procedure,Completed,,,
+1133,99,25,1,2026-05-29,10:31,New Patient,Cancelled,,,
+1134,89,15,6,2025-02-15,12:42,Follow-up,Completed,13:21,14:03,39
+1135,2,10,2,2025-10-08,13:59,Annual Physical,Completed,14:23,15:09,24
+1136,238,3,6,2025-04-30,09:32,New Patient,No-Show,,,
+1137,96,11,1,2026-08-29,08:20,New Patient,No-Show,,,
+1138,112,21,6,2026-01-19,15:51,Follow-up,Completed,16:05,16:58,14
+1139,98,24,6,2025-05-16,13:17,Procedure,Completed,13:57,14:25,40
+1140,162,14,4,2025-08-20,11:12,Follow-up,Cancelled,,,
+1141,91,10,2,2025-09-23,15:30,New Patient,Cancelled,,,
+1142,251,12,3,2026-08-16,14:12,Consult,Cancelled,,,
+1143,231,21,6,2025-06-24,08:37,Procedure,Completed,08:41,09:25,4
+1144,223,12,3,2025-10-23,11:32,Consult,Cancelled,,,
+1145,283,24,6,2025-10-03,09:32,Follow-up,Completed,09:43,10:06,11
+1146,60,17,2,2025-07-10,16:06,Procedure,No-Show,,,
+1147,301,11,1,2026-01-17,14:26,New Patient,Completed,14:41,15:35,15
+1148,5,6,2,2026-03-08,16:06,Annual Physical,Cancelled,,,
+1149,332,4,5,2025-07-11,14:06,Follow-up,Cancelled,,,
+1150,240,18,1,2025-07-10,08:22,Consult,Completed,08:46,09:33,24
+1151,205,16,6,2025-09-07,12:18,Consult,Cancelled,,,
+1152,173,16,6,2026-02-15,13:07,Follow-up,Completed,13:50,14:32,43
+1153,138,19,6,2026-02-15,08:29,Consult,No-Show,,,
+1154,86,10,2,2026-09-04,16:56,Consult,No-Show,,,
+1155,385,5,1,2025-05-14,13:41,New Patient,Completed,13:55,14:55,14
+1156,235,13,1,2025-06-19,15:51,Follow-up,Completed,15:58,16:19,7
+1157,121,7,6,2026-03-24,09:32,Follow-up,No-Show,,,
+1158,351,18,1,2026-01-19,08:05,Follow-up,Completed,08:22,08:38,17
+1159,358,7,6,2026-04-29,14:25,Follow-up,Completed,15:08,15:24,43
+1160,69,13,1,2025-12-01,12:49,Consult,Completed,,,
+1161,251,22,2,2026-08-24,08:27,Consult,No-Show,,,
+1162,92,25,1,2025-08-29,14:17,Annual Physical,Cancelled,,,
+1163,257,1,6,2026-09-06,14:47,Follow-up,Completed,14:50,15:31,3
+1164,223,3,6,2025-12-14,14:33,Procedure,No-Show,,,
+1165,78,10,2,2025-11-15,14:36,New Patient,Completed,14:47,15:23,11
+1166,265,4,5,2026-04-22,09:24,New Patient,Cancelled,,,
+1167,336,13,1,2025-01-13,10:44,Follow-up,Cancelled,,,
+1168,295,17,2,2026-01-29,15:45,Procedure,Completed,16:21,17:13,36
+1169,156,14,4,2025-09-22,09:58,Procedure,Completed,10:25,10:58,27
+1170,274,12,3,2025-04-25,11:03,Consult,Completed,11:46,12:20,43
+1171,4,11,1,2026-08-28,12:24,Consult,No-Show,,,
+1172,417,20,3,2026-04-11,15:25,Procedure,Completed,15:38,15:50,13
+1173,188,2,3,2026-09-06,14:18,Procedure,Cancelled,,,
+1174,173,22,2,2025-10-31,08:24,Annual Physical,Completed,08:30,08:58,-6
+1175,153,21,6,2025-02-06,09:54,New Patient,Cancelled,,,
+1176,273,24,6,2026-02-10,12:14,New Patient,No-Show,,,
+1177,274,4,5,2025-05-10,10:28,Procedure,Completed,10:40,11:12,12
+1178,125,24,6,2026-06-21,15:49,New Patient,Completed,,,
+1179,312,24,6,2025-04-14,14:31,New Patient,Completed,14:47,15:37,16
+1180,12,6,2,2025-09-21,09:21,New Patient,Completed,10:06,10:28,45
+1181,316,17,2,2026-07-07,12:09,Annual Physical,Completed,12:40,13:20,31
+1182,141,24,6,2025-07-10,12:43,New Patient,Completed,13:16,13:51,33
+1183,140,1,6,2026-02-21,11:32,Procedure,Completed,12:09,12:27,37
+1184,405,21,6,2025-11-22,09:39,Follow-up,No-Show,,,
+1185,10,23,4,2025-11-29,11:46,Consult,Completed,11:59,12:55,13
+1186,302,14,4,2026-09-02,13:36,Procedure,Completed,,,
+1187,175,11,1,2025-12-21,15:35,Procedure,No-Show,,,
+1188,381,16,6,2025-08-04,10:54,Annual Physical,Completed,11:14,11:26,20
+1189,41,21,6,2026-05-14,13:53,Follow-up,Completed,14:35,15:18,42
+1190,162,15,6,2026-04-24,08:30,Consult,No-Show,,,
+1191,300,6,2,2025-12-27,15:21,New Patient,Completed,16:04,16:32,43
+1192,121,13,1,2026-07-05,10:14,Consult,Completed,10:16,10:32,2
+1193,57,19,6,2025-10-24,11:02,Procedure,No-Show,,,
+1194,282,14,4,2025-12-27,11:42,Consult,Completed,11:54,12:24,12
+1195,341,22,2,2025-11-22,16:34,Consult,Completed,16:54,17:18,20
+1196,238,10,2,2026-04-06,10:40,Procedure,No-Show,,,
+1197,148,1,6,2026-06-30,13:42,Follow-up,Completed,14:20,14:36,38
+1198,215,14,4,2025-07-13,08:29,Follow-up,Completed,08:32,09:21,3
+1199,307,19,6,2026-02-23,08:23,Consult,Cancelled,,,
+1200,128,6,2,2026-08-06,16:03,Annual Physical,Completed,15:59,16:56,0
+1201,200,18,1,2026-06-08,11:17,Procedure,No-Show,,,
+1202,189,24,6,2025-09-03,10:59,Follow-up,Completed,11:14,11:32,15
+1203,106,19,6,2026-04-18,15:50,Consult,No-Show,,,
+1204,228,8,5,2025-07-01,15:52,New Patient,Completed,16:25,16:56,33
+1205,126,15,6,2025-03-13,08:07,Procedure,Completed,08:35,09:15,28
+1206,214,9,2,2026-07-05,10:03,Consult,Completed,10:43,10:54,40
+1207,31,10,2,2026-02-12,08:40,Procedure,Cancelled,,,
+1208,367,17,2,2026-03-27,15:18,New Patient,Completed,15:22,15:48,4
+1209,406,4,5,2025-06-23,14:15,Annual Physical,Completed,14:19,14:44,4
+1210,50,11,1,2025-03-17,15:49,Follow-up,Completed,16:32,16:58,43
+1211,170,15,6,2025-09-22,12:41,New Patient,Completed,13:24,13:42,43
+1212,114,12,3,2026-08-01,14:11,Annual Physical,Cancelled,,,
+1213,367,6,2,2026-08-05,13:12,Procedure,Completed,13:50,14:18,38
+1214,66,5,1,2025-10-27,14:33,Follow-up,Cancelled,,,
+1215,15,7,6,2026-08-21,13:10,Consult,No-Show,,,
+1216,7,9,2,2026-01-08,16:40,Procedure,Completed,17:05,17:54,25
+1217,330,5,1,2026-08-25,16:33,Consult,Cancelled,,,
+1218,192,13,1,2026-05-12,10:53,Procedure,Completed,10:59,11:39,-2
+1219,176,8,5,2025-11-13,11:31,Follow-up,No-Show,,,
+1220,143,20,3,2025-05-03,11:21,Procedure,Cancelled,,,
+1221,236,19,6,2025-01-13,16:56,Follow-up,No-Show,,,
+1222,187,22,2,2025-02-03,14:48,Annual Physical,Completed,15:15,15:29,27
+1223,380,18,1,2025-03-23,08:57,Consult,Completed,09:25,09:50,28
+1224,94,23,4,2025-09-08,11:53,Follow-up,Completed,11:50,12:38,0
+1225,381,7,6,2025-03-07,10:15,Annual Physical,Completed,10:13,10:36,0
+1226,298,16,6,2026-04-21,09:40,New Patient,Completed,09:55,10:55,15
+1227,60,15,6,2025-03-27,16:07,New Patient,No-Show,,,
+1228,278,19,6,2025-08-09,16:18,Consult,Cancelled,,,
+1229,5,19,6,2026-03-17,09:54,Follow-up,Completed,10:26,11:16,32
+1230,1,9,2,2026-02-21,12:37,Follow-up,Completed,12:53,13:35,16
+1231,331,10,2,2025-09-28,12:14,Annual Physical,Cancelled,,,
+1232,348,18,1,2026-05-31,13:16,New Patient,Completed,13:59,14:20,43
+1233,261,16,6,2026-05-23,10:47,New Patient,No-Show,,,
+1234,390,14,4,2025-11-08,09:36,Annual Physical,Completed,10:11,11:04,35
+1235,399,4,5,2025-08-26,11:38,Consult,Cancelled,,,
+1236,157,11,1,2026-06-28,16:03,Annual Physical,Completed,16:37,17:00,34
+1237,81,7,6,2026-02-10,10:55,Consult,No-Show,,,
+1238,340,6,2,2025-11-30,16:48,Consult,Completed,17:33,18:09,45
+1239,135,16,6,2025-11-07,14:19,Annual Physical,No-Show,,,
+1240,171,24,6,2025-12-29,13:22,Annual Physical,Completed,13:44,14:30,22
+1241,391,13,1,2025-02-26,14:58,Follow-up,Cancelled,,,
+1242,234,25,1,2025-10-08,08:19,Follow-up,No-Show,,,
+1243,339,23,4,2025-09-20,13:01,New Patient,Cancelled,,,
+1244,165,14,4,2026-01-27,13:33,Consult,Completed,14:15,14:37,42
+1245,226,9,2,2025-04-20,09:16,Follow-up,No-Show,,,
+1246,167,24,6,2026-05-07,16:01,Procedure,Completed,16:40,17:35,39
+1247,311,19,6,2026-01-20,09:00,New Patient,Completed,09:35,10:06,35
+1248,146,4,5,2026-04-29,10:17,Annual Physical,Completed,11:01,11:57,44
+1249,78,19,6,2025-11-03,11:24,New Patient,Completed,11:47,12:12,23
+1250,339,9,2,2026-07-25,12:58,Follow-up,Completed,,,
+1251,403,23,4,2025-11-18,14:09,Follow-up,Completed,14:15,14:45,6
+1252,171,7,6,2025-09-23,12:21,New Patient,Completed,12:24,12:41,3
+1253,413,16,6,2025-02-19,09:01,Annual Physical,Completed,08:57,09:43,0
+1254,259,11,1,2026-07-06,16:23,Consult,Cancelled,,,
+1255,171,21,6,2025-03-10,09:17,New Patient,Completed,09:47,10:46,30
+1256,263,3,6,2026-08-11,15:59,Follow-up,Completed,16:42,16:56,43
+1257,142,15,6,2026-04-08,10:35,New Patient,Cancelled,,,
+1258,94,21,6,2026-08-13,13:47,Consult,Completed,14:31,15:25,44
+1259,11,13,1,2026-08-12,13:00,Consult,Completed,,,
+1260,166,14,4,2025-06-04,12:25,Consult,No-Show,,,
+1261,346,25,1,2025-12-01,15:48,Consult,No-Show,,,
+1262,182,23,4,2026-08-14,10:36,Follow-up,No-Show,,,
+1263,106,10,2,2025-07-05,09:43,Consult,Completed,10:16,10:28,33
+1264,36,11,1,2025-11-19,11:55,Follow-up,No-Show,,,
+1265,156,6,2,2026-03-11,12:37,Follow-up,No-Show,,,
+1266,396,12,3,2025-01-28,10:20,New Patient,Completed,10:39,10:50,19
+1267,379,7,6,2026-01-25,08:50,Procedure,Completed,09:10,09:32,20
+1268,418,4,5,2025-04-06,10:59,Consult,Completed,11:40,12:23,41
+1269,62,16,6,2026-09-12,14:06,Procedure,Cancelled,,,
+1270,98,7,6,2025-04-03,16:39,Procedure,Cancelled,,,
+1271,131,17,2,2025-04-25,15:47,New Patient,Completed,16:06,16:42,19
+1272,182,12,3,2025-11-14,09:06,Annual Physical,Completed,09:15,10:09,9
+1273,200,16,6,2025-01-17,12:41,New Patient,Cancelled,,,
+1274,73,8,5,2025-07-01,08:09,Consult,No-Show,,,
+1275,80,5,1,2026-04-27,08:39,Consult,Completed,08:47,09:44,8
+1276,213,6,2,2026-03-06,10:56,Consult,No-Show,,,
+1277,78,24,6,2025-07-05,14:13,Follow-up,Completed,14:09,14:50,0
+1278,192,9,2,2025-11-25,08:29,Annual Physical,Completed,,,
+1279,74,14,4,2025-02-17,14:26,Consult,Completed,14:31,14:51,5
+1280,115,3,6,2026-03-06,09:07,Procedure,Completed,09:31,10:07,24
+1281,69,20,3,2025-01-01,13:18,Procedure,Completed,13:29,13:47,11
+1282,315,22,2,2025-04-09,16:09,Consult,Completed,16:16,16:34,7
+1283,74,8,5,2025-03-26,09:37,Annual Physical,Completed,10:11,10:27,34
+1284,374,22,2,2025-11-05,13:36,Consult,Completed,14:04,14:47,28
+1285,390,5,1,2025-12-02,15:12,Follow-up,Cancelled,,,
+1286,297,24,6,2025-02-05,14:34,Follow-up,Completed,14:40,14:50,6
+1287,407,8,5,2025-06-15,14:46,New Patient,Cancelled,,,
+1288,293,16,6,2026-05-11,13:52,Consult,No-Show,,,
+1289,208,15,6,2025-08-08,15:44,Annual Physical,Completed,16:13,16:51,29
+1290,394,17,2,2025-12-12,13:45,Annual Physical,No-Show,,,
+1291,175,16,6,2026-07-17,15:47,Annual Physical,Completed,16:30,17:13,43
+1292,219,21,6,2025-01-27,10:09,Follow-up,Completed,10:33,10:50,24
+1293,65,12,3,2025-11-11,15:43,Consult,Completed,15:43,16:25,0
+1294,262,7,6,2025-05-26,11:47,Follow-up,Completed,12:28,13:25,41
+1295,78,19,6,2026-06-28,16:57,Consult,Completed,17:15,17:59,18
+1296,272,6,2,2026-01-19,10:42,Follow-up,Completed,11:17,12:07,35
+1297,385,23,4,2025-06-05,15:14,Annual Physical,No-Show,,,
+1298,26,13,1,2025-10-31,14:39,Procedure,Completed,15:04,15:43,25
+1299,154,1,6,2025-03-18,12:17,Annual Physical,Completed,12:25,13:21,8
+1300,31,25,1,2026-02-25,10:23,Procedure,No-Show,,,
+1301,83,25,1,2025-09-06,14:40,Procedure,No-Show,,,
+1302,201,19,6,2025-07-18,12:14,New Patient,Cancelled,,,
+1303,116,9,2,2025-05-24,14:51,Consult,Completed,15:29,15:48,38
+1304,142,25,1,2025-12-02,08:11,Consult,Completed,08:25,09:08,14
+1305,242,8,5,2026-03-25,13:05,Consult,Completed,13:47,14:36,42
+1306,387,24,6,2025-12-16,12:38,Procedure,Completed,12:49,13:06,11
+1307,87,23,4,2026-05-14,12:58,Consult,No-Show,,,
+1308,53,3,6,2026-09-10,14:11,Procedure,No-Show,,,
+1309,360,14,4,2026-03-08,08:58,Annual Physical,Completed,09:39,10:35,41
+1310,261,11,1,2026-03-06,12:17,New Patient,Cancelled,,,
+1311,7,4,5,2026-05-13,12:08,Procedure,Completed,12:17,13:04,9
+1312,400,23,4,2026-05-15,14:24,Consult,Completed,,,
+1313,56,19,6,2025-04-11,09:37,Follow-up,Completed,09:55,10:42,18
+1314,216,13,1,2025-02-10,13:55,Procedure,Completed,,,
+1315,205,21,6,2026-03-19,08:26,Consult,No-Show,,,
+1316,93,1,6,2025-12-03,09:41,Procedure,Cancelled,,,
+1317,411,1,6,2026-04-13,12:19,Annual Physical,Cancelled,,,
+1318,181,8,5,2025-10-11,15:36,Annual Physical,Completed,16:00,16:54,24
+1319,407,6,2,2025-08-03,13:29,Annual Physical,Completed,14:13,14:34,44
+1320,171,12,3,2026-07-06,11:53,Annual Physical,Cancelled,,,
+1321,52,24,6,2025-04-03,14:55,Consult,Cancelled,,,
+1322,255,21,6,2025-07-10,14:31,Annual Physical,No-Show,,,
+1323,363,16,6,2025-12-26,13:45,Annual Physical,Completed,14:28,14:48,43
+1324,58,7,6,2026-08-19,13:17,Consult,Completed,13:30,14:28,13
+1325,317,23,4,2025-03-19,11:23,New Patient,Completed,12:03,12:51,40
+1326,135,5,1,2025-12-15,14:02,Follow-up,Completed,14:21,14:37,19
+1327,409,10,2,2026-08-07,09:24,Follow-up,Cancelled,,,
+1328,227,2,3,2025-09-09,10:38,New Patient,Cancelled,,,
+1329,254,8,5,2025-08-13,12:11,Procedure,No-Show,,,
+1330,332,7,6,2025-05-29,08:12,Follow-up,Cancelled,,,
+1331,11,20,3,2026-05-10,15:29,Consult,Completed,15:59,16:45,30
+1332,266,19,6,2026-02-14,14:36,Annual Physical,Cancelled,,,
+1333,412,9,2,2026-03-18,14:19,Follow-up,Cancelled,,,
+1334,164,18,1,2026-01-01,09:18,Annual Physical,No-Show,,,
+1335,360,8,5,2026-07-06,10:11,Consult,Completed,10:51,11:31,40
+1336,310,8,5,2025-12-23,11:49,Annual Physical,Completed,12:20,12:33,31
+1337,303,14,4,2025-03-08,10:55,Consult,Completed,11:18,12:03,23
+1338,245,23,4,2025-06-01,09:05,New Patient,Cancelled,,,
+1339,369,9,2,2026-08-07,12:18,Consult,Completed,12:44,13:21,26
+1340,203,7,6,2026-04-08,13:17,Annual Physical,Completed,13:33,13:57,16
+1341,209,5,1,2026-07-07,13:22,Consult,Completed,13:20,14:15,0
+1342,397,3,6,2025-03-07,15:03,Follow-up,No-Show,,,
+1343,128,20,3,2025-07-03,11:05,Procedure,Completed,11:46,12:03,41
+1344,207,19,6,2026-02-01,14:57,Procedure,Completed,15:00,15:31,3
+1345,91,23,4,2026-03-17,12:18,New Patient,Completed,12:24,12:50,6
+1346,332,21,6,2025-03-25,13:47,New Patient,Completed,,,
+1347,311,2,3,2026-07-25,09:00,New Patient,Cancelled,,,
+1348,87,1,6,2026-06-26,08:12,Annual Physical,Completed,,,
+1349,291,19,6,2026-01-19,09:11,Follow-up,No-Show,,,
+1350,326,20,3,2026-05-26,11:06,Follow-up,Completed,11:23,11:39,17
+1351,308,12,3,2026-08-11,11:01,Follow-up,Completed,11:28,11:47,27
+1352,319,2,3,2026-07-05,10:03,Annual Physical,Cancelled,,,
+1353,56,12,3,2025-07-04,16:50,New Patient,No-Show,,,
+1354,255,7,6,2026-09-10,10:38,Annual Physical,Completed,11:02,11:54,24
+1355,230,4,5,2026-07-22,09:07,Follow-up,Cancelled,,,
+1356,188,5,1,2025-09-03,16:22,Procedure,No-Show,,,
+1357,22,12,3,2025-03-02,16:11,New Patient,Completed,16:39,16:54,28
+1358,270,19,6,2026-08-12,16:54,Consult,Completed,17:30,17:52,36
+1359,391,7,6,2025-10-27,15:16,Procedure,Completed,15:35,15:50,19
+1360,165,18,1,2026-05-11,14:38,Procedure,Cancelled,,,
+1361,403,25,1,2025-10-22,08:56,New Patient,Completed,09:03,09:18,7
+1362,293,18,1,2025-06-27,13:21,Consult,Completed,13:17,13:30,0
+1363,181,18,1,2025-02-23,15:24,Consult,Completed,15:30,16:12,6
+1364,110,4,5,2026-04-14,11:10,Annual Physical,No-Show,,,
+1365,38,23,4,2025-07-28,16:27,Consult,No-Show,,,
+1366,328,20,3,2025-01-16,08:46,Follow-up,Completed,09:25,09:42,-4
+1367,338,11,1,2025-07-01,14:39,Annual Physical,No-Show,,,
+1368,206,2,3,2025-06-09,10:25,Follow-up,Completed,10:59,11:51,34
+1369,349,19,6,2025-11-14,11:29,Procedure,Cancelled,,,
+1370,354,1,6,2026-03-02,15:03,Annual Physical,Completed,15:10,16:09,7
+1371,321,23,4,2026-02-09,08:42,Follow-up,Completed,09:19,10:13,37
+1372,60,6,2,2026-05-16,09:08,Consult,No-Show,,,
+1373,168,6,2,2025-09-20,14:47,Consult,Cancelled,,,
+1374,147,10,2,2026-08-07,12:27,New Patient,Completed,12:47,13:09,20
+1375,255,7,6,2025-05-11,16:50,Procedure,Completed,17:15,17:31,25
+1376,199,6,2,2025-03-27,09:09,Procedure,No-Show,,,
+1377,316,12,3,2026-03-25,10:26,Consult,Completed,11:10,11:22,44
+1378,97,25,1,2025-08-04,13:25,Consult,Completed,13:20,13:39,0
+1379,90,12,3,2026-04-19,11:25,Procedure,Completed,11:44,12:03,19
+1380,116,6,2,2025-07-19,13:43,New Patient,Completed,14:06,14:20,23
+1381,148,18,1,2025-06-14,10:26,Annual Physical,Completed,10:24,10:41,0
+1382,274,1,6,2025-06-23,13:29,New Patient,Cancelled,,,
+1383,74,4,5,2025-08-28,08:06,New Patient,Completed,08:37,08:50,31
+1384,62,8,5,2025-02-06,09:15,Procedure,Completed,09:46,10:37,31
+1385,199,15,6,2025-09-01,16:22,Annual Physical,Completed,16:39,17:29,17
+1386,79,15,6,2026-07-04,14:08,Follow-up,No-Show,,,
+1387,147,21,6,2025-06-28,14:37,Follow-up,Cancelled,,,
+1388,189,24,6,2025-01-22,15:22,Follow-up,Cancelled,,,
+1389,22,15,6,2026-02-25,11:52,Follow-up,Completed,12:27,12:59,35
+1390,214,15,6,2026-04-09,15:34,Procedure,Completed,15:52,16:23,18
+1391,371,17,2,2025-07-30,12:11,Follow-up,No-Show,,,
+1392,292,7,6,2026-01-08,15:54,Procedure,Completed,16:12,17:03,18
+1393,241,4,5,2026-07-10,15:43,Consult,Cancelled,,,
+1394,212,2,3,2025-07-24,11:42,Consult,Cancelled,,,
+1395,81,22,2,2026-01-29,16:49,Follow-up,Completed,17:12,17:23,23
+1396,342,6,2,2025-10-07,10:39,Consult,Completed,11:24,11:46,45
+1397,126,24,6,2025-05-14,16:18,Consult,Cancelled,,,
+1398,391,20,3,2026-06-28,08:36,New Patient,Completed,,,
+1399,28,11,1,2025-04-03,13:20,Follow-up,Cancelled,,,
+1400,381,5,1,2025-08-07,13:14,Annual Physical,Completed,13:48,14:18,34
+1401,244,11,1,2025-06-29,12:56,New Patient,Cancelled,,,
+1402,411,18,1,2025-06-13,10:35,Procedure,No-Show,,,
+1403,61,18,1,2026-02-24,10:42,Consult,Completed,11:17,11:57,35
+1404,128,4,5,2025-05-31,15:35,New Patient,Completed,15:38,16:12,3
+1405,393,1,6,2026-08-24,14:11,Consult,Completed,14:42,15:03,-8
+1406,344,19,6,2025-12-19,13:47,Annual Physical,Completed,13:46,14:07,0
+1407,202,5,1,2025-04-24,11:21,Annual Physical,Cancelled,,,
+1408,365,3,6,2025-12-30,16:26,Consult,Completed,16:58,17:34,32
+1409,130,7,6,2026-06-10,12:46,New Patient,Completed,13:12,13:42,26
+1410,123,23,4,2025-11-10,12:29,Procedure,Completed,12:45,12:57,16
+1411,337,15,6,2025-03-24,13:40,New Patient,Completed,,,
+1412,294,1,6,2025-11-06,14:29,Procedure,No-Show,,,
+1413,195,13,1,2025-02-06,12:36,Annual Physical,Completed,12:54,13:36,18
+1414,209,23,4,2025-12-17,10:15,Annual Physical,Cancelled,,,
+1415,283,7,6,2026-05-16,12:48,New Patient,Cancelled,,,
+1416,231,22,2,2025-03-28,13:26,New Patient,Completed,13:22,13:40,0
+1417,39,6,2,2026-01-18,09:06,Consult,No-Show,,,
+1418,411,8,5,2025-03-31,09:17,New Patient,Completed,09:59,10:30,42
+1419,80,19,6,2026-04-17,13:38,Consult,Completed,13:40,13:53,2
+1420,382,3,6,2025-07-10,09:33,New Patient,Completed,09:55,10:55,22
+1421,368,3,6,2026-02-01,13:28,Follow-up,Completed,13:53,14:15,25
+1422,362,6,2,2026-04-26,12:54,New Patient,Completed,13:17,13:38,23
+1423,102,9,2,2025-05-28,11:13,New Patient,Completed,11:20,11:41,7
+1424,117,6,2,2026-02-09,13:03,Procedure,Completed,13:30,14:20,27
+1425,177,24,6,2025-09-04,08:07,Annual Physical,Cancelled,,,
+1426,387,6,2,2025-03-08,09:03,Procedure,Completed,,,
+1427,387,14,4,2025-03-23,15:36,New Patient,Completed,15:51,16:38,15
+1428,358,22,2,2026-09-13,09:07,Annual Physical,Completed,09:48,10:18,41
+1429,246,12,3,2026-05-27,13:07,Annual Physical,Completed,13:36,14:33,29
+1430,22,23,4,2025-12-28,14:59,Procedure,Completed,15:14,16:14,15
+1431,238,15,6,2026-04-09,10:36,Procedure,No-Show,,,
+1432,215,1,6,2025-05-23,13:24,Follow-up,Completed,,,
+1433,406,22,2,2025-06-26,10:34,Follow-up,Completed,,,
+1434,242,5,1,2025-10-05,13:45,New Patient,No-Show,,,
+1435,255,13,1,2025-06-12,13:10,Annual Physical,Completed,13:19,13:41,9
+1436,222,14,4,2025-06-13,16:19,Annual Physical,Completed,16:20,16:34,1
+1437,312,10,2,2025-05-25,12:00,Procedure,Completed,12:08,12:44,8
+1438,324,6,2,2025-12-13,13:18,Procedure,Completed,13:52,14:09,34
+1439,175,24,6,2026-01-18,10:11,Consult,Cancelled,,,
+1440,243,3,6,2025-01-19,15:37,Procedure,Cancelled,,,
+1441,127,7,6,2025-12-01,11:59,Procedure,Cancelled,,,
+1442,403,9,2,2026-07-23,13:48,Annual Physical,Completed,14:27,14:49,39
+1443,401,21,6,2026-08-10,11:54,Consult,Completed,12:04,12:29,10
+1444,10,11,1,2026-06-08,09:37,Follow-up,Completed,10:11,10:41,34
+1445,309,24,6,2025-09-30,09:08,Procedure,Completed,09:52,10:14,44
+1446,74,12,3,2025-03-02,16:05,Follow-up,No-Show,,,
+1447,325,1,6,2025-12-02,14:04,Procedure,Completed,14:34,14:53,30
+1448,249,11,1,2026-09-12,11:24,Consult,No-Show,,,
+1449,310,4,5,2025-10-30,09:02,Consult,No-Show,,,
+1450,410,17,2,2025-10-17,12:14,Procedure,Completed,12:53,13:03,39
+1451,152,1,6,2025-01-30,15:11,Annual Physical,Completed,15:35,16:34,24
+1452,321,13,1,2026-07-23,10:40,Procedure,Completed,11:23,11:53,43
+1453,142,7,6,2026-04-10,12:51,Consult,No-Show,,,
+1454,66,11,1,2025-01-18,10:06,Annual Physical,Completed,10:36,11:16,30
+1455,369,13,1,2026-07-18,08:26,Annual Physical,Completed,08:46,09:07,20
+1456,18,21,6,2025-10-17,13:31,Consult,Completed,,,
+1457,368,23,4,2025-05-16,16:28,New Patient,Completed,16:31,16:50,3
+1458,366,8,5,2025-04-05,14:08,Annual Physical,Cancelled,,,
+1459,42,14,4,2025-12-18,09:11,Procedure,Completed,09:40,09:53,29
+1460,203,23,4,2025-06-08,09:31,Procedure,No-Show,,,
+1461,82,4,5,2025-09-25,11:52,New Patient,No-Show,,,
+1462,331,22,2,2026-07-26,08:24,Follow-up,Completed,,,
+1463,389,8,5,2025-06-06,10:20,Annual Physical,Completed,10:35,11:09,15
+1464,10,17,2,2025-10-24,16:24,Procedure,Completed,,,
+1465,302,2,3,2025-08-02,11:55,Procedure,Completed,11:50,12:22,0
+1466,189,17,2,2025-06-18,14:46,Follow-up,No-Show,,,
+1467,275,1,6,2025-10-16,12:32,Annual Physical,Completed,12:59,13:33,27
+1468,312,9,2,2025-12-09,11:20,Annual Physical,Cancelled,,,
+1469,202,4,5,2025-10-20,15:42,Procedure,Completed,16:15,17:06,33
+1470,105,6,2,2025-04-26,08:42,New Patient,Completed,09:24,09:47,42
+1471,383,10,2,2025-08-08,13:10,Procedure,Cancelled,,,
+1472,28,21,6,2025-08-24,12:18,Consult,No-Show,,,
+1473,13,10,2,2025-01-13,11:41,Annual Physical,No-Show,,,
+1474,106,16,6,2026-02-02,13:35,Procedure,Completed,14:08,15:06,33
+1475,288,20,3,2025-10-20,12:14,Consult,Completed,12:15,12:25,1
+1476,6,9,2,2025-01-01,13:10,Procedure,Completed,13:51,14:37,41
+1477,189,7,6,2025-07-15,15:13,New Patient,Cancelled,,,
+1478,144,14,4,2025-01-23,13:04,New Patient,Completed,13:18,13:37,14
+1479,410,7,6,2025-05-04,08:31,Follow-up,Completed,08:26,08:43,0
+1480,297,23,4,2026-07-25,12:39,New Patient,Cancelled,,,
+1481,360,19,6,2026-05-07,09:04,Follow-up,No-Show,,,
+1482,34,13,1,2026-01-22,08:30,Procedure,Completed,08:52,09:31,22
+1483,296,2,3,2025-03-06,12:47,Procedure,Cancelled,,,
+1484,104,9,2,2025-01-25,12:38,Follow-up,No-Show,,,
+1485,354,15,6,2025-01-02,08:45,Procedure,Completed,09:15,10:09,30
+1486,381,2,3,2025-10-21,14:12,Consult,Completed,14:30,15:09,18
+1487,192,22,2,2026-01-16,10:29,Annual Physical,Cancelled,,,
+1488,209,6,2,2026-08-18,14:51,Procedure,Cancelled,,,
+1489,178,25,1,2025-10-27,10:31,Consult,Completed,10:52,11:25,21
+1490,130,5,1,2025-12-07,14:07,Procedure,Completed,14:50,15:34,43
+1491,22,11,1,2026-06-03,10:28,Annual Physical,Completed,10:57,11:47,29
+1492,409,19,6,2025-05-23,11:30,New Patient,Completed,11:51,12:08,21
+1493,267,4,5,2026-08-13,08:04,Consult,Cancelled,,,
+1494,341,6,2,2025-08-21,13:42,New Patient,Completed,13:57,14:53,15
+1495,203,17,2,2026-02-07,11:44,Annual Physical,Completed,12:26,13:02,42
+1496,116,21,6,2026-04-10,10:39,New Patient,No-Show,,,
+1497,407,17,2,2025-04-21,16:27,New Patient,No-Show,,,
+1498,356,10,2,2025-09-05,14:55,Follow-up,Cancelled,,,
+1499,278,21,6,2025-04-09,11:15,New Patient,Completed,11:11,11:39,0
+1500,398,22,2,2025-03-15,09:08,Procedure,Cancelled,,,
+1501,61,14,4,2026-01-02,14:52,Consult,Completed,15:06,15:37,14
+1502,220,20,3,2026-08-27,16:09,Consult,Completed,16:06,16:59,0
+1503,164,12,3,2025-02-01,12:21,Procedure,Completed,13:04,13:48,43
+1504,301,20,3,2025-12-26,16:22,Procedure,Completed,16:19,17:00,0
+1505,130,18,1,2025-04-05,09:24,New Patient,No-Show,,,
+1506,233,13,1,2025-12-12,12:07,Procedure,Completed,12:04,12:34,0
+1507,232,7,6,2026-02-25,09:37,Follow-up,Completed,10:09,11:02,32
+1508,228,3,6,2026-05-30,11:05,Annual Physical,Completed,11:44,12:30,39
+1509,335,24,6,2025-02-19,12:19,New Patient,Completed,12:58,13:41,39
+1510,151,6,2,2025-02-10,12:57,Annual Physical,Completed,13:19,13:36,22
+1511,40,7,6,2026-05-09,16:17,New Patient,No-Show,,,
+1512,199,25,1,2025-06-30,14:25,Annual Physical,Completed,14:31,14:55,6
+1513,253,8,5,2026-04-01,09:58,Follow-up,Completed,10:01,10:19,3
+1514,289,1,6,2026-03-25,16:28,Procedure,Cancelled,,,
+1515,11,23,4,2026-06-22,14:17,New Patient,Completed,,,
+1516,224,18,1,2026-03-09,09:08,New Patient,Completed,09:19,10:11,11
+1517,125,5,1,2025-05-04,08:24,New Patient,No-Show,,,
+1518,293,6,2,2025-07-21,15:36,Annual Physical,Completed,16:06,16:32,30
+1519,337,6,2,2026-08-20,15:03,Consult,Completed,15:00,15:24,0
+1520,383,23,4,2026-02-05,08:11,New Patient,Cancelled,,,
+1521,262,1,6,2025-04-26,16:57,Consult,Cancelled,,,
+1522,272,1,6,2025-11-07,10:20,Follow-up,Cancelled,,,
+1523,246,7,6,2025-07-13,16:06,Procedure,Completed,16:14,16:30,8
+1524,322,18,1,2025-03-14,10:29,Consult,No-Show,,,
+1525,75,25,1,2025-03-11,16:09,New Patient,Completed,16:40,17:00,31
+1526,321,12,3,2025-08-19,12:28,New Patient,Completed,,,
+1527,165,25,1,2026-02-09,08:28,Annual Physical,No-Show,,,
+1528,201,15,6,2026-09-13,11:50,Procedure,No-Show,,,
+1529,315,17,2,2026-02-21,10:41,Consult,No-Show,,,
+1530,267,10,2,2026-05-25,09:16,Consult,Completed,,,
+1531,44,23,4,2025-05-30,08:40,Annual Physical,Cancelled,,,
+1532,202,9,2,2026-04-21,13:49,Consult,Cancelled,,,
+1533,310,11,1,2025-11-12,16:01,Procedure,Completed,16:20,17:18,19
+1534,356,18,1,2026-09-12,10:20,Annual Physical,Completed,10:20,11:14,0
+1535,265,20,3,2025-03-06,12:17,Annual Physical,Cancelled,,,
+1536,148,20,3,2026-06-10,11:53,Annual Physical,Cancelled,,,
+1537,123,19,6,2025-07-15,13:56,Follow-up,Cancelled,,,
+1538,172,17,2,2026-02-26,12:45,Consult,Cancelled,,,
+1539,218,22,2,2025-07-12,10:22,Follow-up,Cancelled,,,
+1540,352,22,2,2026-01-06,13:28,Procedure,No-Show,,,
+1541,298,17,2,2025-06-27,10:00,Follow-up,Cancelled,,,
+1542,106,20,3,2025-12-12,11:07,Annual Physical,Completed,11:17,11:52,10
+1543,291,15,6,2026-07-05,13:49,Annual Physical,No-Show,,,
+1544,311,3,6,2025-09-16,10:07,Consult,Completed,,,
+1545,416,9,2,2026-05-22,15:45,Consult,Completed,15:57,16:39,12
+1546,27,14,4,2026-05-17,09:50,Procedure,Completed,10:09,10:39,19
+1547,186,25,1,2025-02-25,08:42,Annual Physical,Completed,08:43,09:28,1
+1548,50,24,6,2026-03-10,11:29,Consult,Completed,11:27,11:37,0
+1549,369,9,2,2025-10-19,15:20,Follow-up,No-Show,,,
+1550,113,20,3,2026-09-11,12:33,Annual Physical,Completed,,,
+1551,300,11,1,2025-08-14,10:55,Follow-up,Completed,,,
+1552,83,3,6,2026-08-08,12:36,New Patient,Completed,12:37,13:02,1
+1553,236,20,3,2025-06-19,10:57,Annual Physical,No-Show,,,
+1554,55,1,6,2025-09-02,13:15,Consult,Completed,13:48,14:22,33
+1555,42,14,4,2026-03-31,15:33,Procedure,No-Show,,,
+1556,315,25,1,2026-01-25,08:23,Annual Physical,Completed,08:31,09:24,8
+1557,269,11,1,2025-11-26,08:21,Consult,Completed,08:55,09:29,34
+1558,191,5,1,2025-03-21,14:26,Procedure,No-Show,,,
+1559,107,7,6,2025-11-18,14:01,Annual Physical,Completed,14:11,15:06,10
+1560,308,16,6,2025-01-25,12:09,Procedure,Completed,12:49,13:00,40
+1561,196,1,6,2026-05-18,15:26,Procedure,Completed,15:26,16:03,0
+1562,188,9,2,2026-05-06,10:41,Follow-up,No-Show,,,
+1563,300,21,6,2026-06-14,11:20,Procedure,Completed,11:38,11:51,18
+1564,82,3,6,2026-07-21,08:51,New Patient,Cancelled,,,
+1565,269,9,2,2026-04-09,10:32,Follow-up,Cancelled,,,
+1566,224,9,2,2025-07-10,11:54,Annual Physical,Completed,,,
+1567,48,20,3,2025-02-23,11:00,Consult,Cancelled,,,
+1568,241,14,4,2025-06-21,12:01,Follow-up,Completed,,,
+1569,396,4,5,2025-10-03,11:03,New Patient,Completed,11:47,12:26,44
+1570,92,5,1,2026-07-01,11:11,New Patient,No-Show,,,
+1571,167,6,2,2025-10-06,16:45,Consult,Completed,17:12,17:25,27
+1572,241,5,1,2025-05-16,12:07,Annual Physical,Completed,12:38,13:38,31
+1573,90,23,4,2025-04-23,12:14,Consult,No-Show,,,
+1574,387,2,3,2025-03-10,14:26,New Patient,No-Show,,,
+1575,148,15,6,2026-06-26,16:21,Consult,Completed,16:50,17:46,29
+1576,332,17,2,2025-12-29,14:54,Consult,Cancelled,,,
+1577,209,6,2,2026-05-31,16:31,New Patient,No-Show,,,
+1578,106,3,6,2026-09-07,14:16,New Patient,Cancelled,,,
+1579,310,14,4,2026-01-27,14:24,Annual Physical,Cancelled,,,
+1580,13,11,1,2026-05-14,11:23,Follow-up,Completed,11:45,12:44,22
+1581,303,25,1,2025-05-24,13:09,Follow-up,Completed,13:13,13:24,4
+1582,130,16,6,2026-02-13,15:57,Annual Physical,Completed,16:05,16:44,8
+1583,126,5,1,2025-04-14,13:02,New Patient,Cancelled,,,
+1584,180,15,6,2026-01-31,15:23,Consult,Completed,15:36,16:08,13
+1585,21,16,6,2025-03-11,14:00,Follow-up,Cancelled,,,
+1586,159,17,2,2025-06-19,08:11,Follow-up,Completed,08:53,09:48,42
+1587,261,7,6,2026-06-18,14:20,Procedure,Completed,14:40,15:11,20
+1588,319,11,1,2025-10-19,14:16,Consult,Completed,14:48,15:05,32
+1589,222,25,1,2026-06-11,08:37,Consult,Completed,09:04,09:18,27
+1590,194,11,1,2026-03-27,12:33,Follow-up,No-Show,,,
+1591,391,7,6,2025-04-06,14:33,Procedure,Cancelled,,,
+1592,113,2,3,2025-02-15,13:10,Follow-up,Completed,13:17,13:53,7
+1593,78,14,4,2026-07-15,12:21,New Patient,No-Show,,,
+1594,34,6,2,2025-02-08,12:31,New Patient,Completed,12:40,13:19,9
+1595,345,16,6,2025-04-27,09:21,Annual Physical,Completed,09:55,10:51,34
+1596,133,19,6,2026-07-26,13:38,Consult,Cancelled,,,
+1597,80,22,2,2026-08-27,16:52,Consult,Cancelled,,,
+1598,399,8,5,2025-08-20,08:22,Procedure,Completed,08:34,09:05,12
+1599,371,13,1,2025-02-22,13:07,New Patient,Cancelled,,,
+1600,76,18,1,2025-08-17,11:44,Procedure,No-Show,,,
+1601,79,4,5,2026-07-10,16:37,Procedure,Cancelled,,,
+1602,381,13,1,2026-03-06,13:39,New Patient,Cancelled,,,
+1603,125,6,2,2026-05-08,09:07,New Patient,Cancelled,,,
+1604,224,13,1,2026-03-19,10:37,Procedure,Completed,10:33,11:04,0
+1605,121,16,6,2026-05-19,14:45,Follow-up,Completed,15:05,15:42,20
+1606,313,6,2,2025-12-11,10:43,Annual Physical,Completed,11:15,11:49,32
+1607,43,24,6,2025-01-09,10:33,Procedure,Completed,10:59,11:14,26
+1608,358,21,6,2025-06-05,08:52,Procedure,Completed,08:58,09:10,6
+1609,188,22,2,2026-01-01,09:29,Follow-up,Completed,09:43,10:14,14
+1610,43,2,3,2025-01-01,11:16,Procedure,No-Show,,,
+1611,252,4,5,2025-10-01,12:58,Consult,Completed,12:57,13:46,0
+1612,311,9,2,2025-06-11,16:47,Procedure,Completed,17:20,17:44,33
+1613,174,22,2,2025-06-16,16:04,Annual Physical,Completed,16:31,17:00,27
+1614,206,14,4,2025-08-29,13:16,Follow-up,Cancelled,,,
+1615,124,15,6,2025-06-02,10:38,New Patient,Completed,10:36,11:23,0
+1616,230,5,1,2025-06-02,09:15,Annual Physical,Cancelled,,,
+1617,353,11,1,2026-08-17,12:04,Procedure,Completed,12:25,12:42,21
+1618,344,18,1,2026-08-25,13:09,Procedure,No-Show,,,
+1619,336,2,3,2026-01-08,10:40,Follow-up,Completed,,,
+1620,412,9,2,2026-02-03,11:11,Procedure,Completed,11:48,12:23,37
+1621,231,5,1,2025-12-01,15:12,Consult,Cancelled,,,
+1622,359,6,2,2025-01-08,10:48,Procedure,Cancelled,,,
+1623,48,16,6,2025-12-09,10:31,Follow-up,Completed,10:41,11:23,10
+1624,104,24,6,2025-07-04,15:07,New Patient,Completed,15:42,16:15,35
+1625,191,11,1,2025-01-03,09:47,Consult,Completed,09:54,10:17,7
+1626,378,24,6,2026-06-02,12:40,Procedure,Completed,13:08,13:55,28
+1627,223,25,1,2025-02-10,15:45,Consult,Completed,15:58,16:42,13
+1628,146,11,1,2025-01-19,14:57,New Patient,Completed,15:22,15:58,25
+1629,312,19,6,2025-08-25,13:22,Follow-up,Completed,13:45,14:11,23
+1630,20,8,5,2026-08-17,12:20,Annual Physical,Completed,12:15,12:58,0
+1631,231,8,5,2026-02-11,08:02,New Patient,Completed,08:01,08:28,0
+1632,214,1,6,2026-05-29,13:13,New Patient,Completed,13:39,14:26,26
+1633,148,25,1,2025-04-29,12:00,Consult,Completed,12:41,13:12,41
+1634,8,22,2,2026-03-16,09:21,Follow-up,Cancelled,,,
+1635,246,1,6,2025-04-12,10:12,Follow-up,Cancelled,,,
+1636,337,10,2,2025-09-21,15:05,Procedure,No-Show,,,
+1637,105,24,6,2025-06-17,14:10,Annual Physical,Completed,14:24,15:08,14
+1638,40,5,1,2025-05-05,08:03,New Patient,No-Show,,,
+1639,399,25,1,2025-10-04,11:03,Procedure,Completed,11:19,11:36,16
+1640,274,15,6,2026-06-08,10:05,Consult,Completed,10:17,11:17,12
+1641,181,6,2,2026-02-02,11:13,Annual Physical,Completed,11:54,12:05,41
+1642,407,25,1,2025-03-30,09:04,Follow-up,No-Show,,,
+1643,176,6,2,2026-06-19,11:18,Annual Physical,Completed,11:14,11:45,0
+1644,222,4,5,2026-06-09,14:52,Follow-up,No-Show,,,
+1645,98,20,3,2026-05-11,09:08,Procedure,No-Show,,,
+1646,286,25,1,2026-04-14,14:36,Annual Physical,Cancelled,,,
+1647,102,2,3,2025-02-07,15:43,New Patient,No-Show,,,
+1648,293,12,3,2025-01-18,14:21,Procedure,Cancelled,,,
+1649,384,1,6,2025-11-19,15:54,Follow-up,Completed,15:55,16:43,1
+1650,304,5,1,2026-04-30,16:26,Consult,Completed,17:07,18:05,41
+1651,17,21,6,2025-11-21,12:11,Consult,Cancelled,,,
+1652,218,10,2,2025-02-09,09:49,Annual Physical,Completed,10:26,10:44,37
+1653,79,9,2,2025-12-15,15:01,Consult,Completed,15:19,15:33,18
+1654,209,1,6,2025-01-27,12:51,Follow-up,Cancelled,,,
+1655,365,3,6,2025-05-21,16:57,Consult,Completed,16:58,17:31,1
+1656,394,11,1,2025-11-22,10:06,Consult,No-Show,,,
+1657,109,19,6,2025-03-22,11:57,Annual Physical,Completed,12:11,13:09,14
+1658,41,23,4,2026-07-17,13:04,Annual Physical,Completed,13:05,13:40,1
+1659,216,3,6,2025-12-08,12:35,Follow-up,Completed,12:34,12:50,0
+1660,55,16,6,2025-02-13,16:00,Procedure,Cancelled,,,
+1661,278,4,5,2025-09-28,10:42,Consult,Completed,11:27,11:52,45
+1662,333,19,6,2025-04-17,08:17,Follow-up,Completed,08:58,09:53,41
+1663,350,17,2,2025-09-02,14:57,Consult,Completed,15:09,15:55,12
+1664,97,16,6,2026-07-15,12:03,Procedure,Completed,12:11,13:00,8
+1665,271,10,2,2025-12-19,10:19,Consult,Completed,10:40,11:27,21
+1666,64,23,4,2026-03-07,12:21,Procedure,Completed,12:16,12:33,0
+1667,130,23,4,2025-05-12,11:08,New Patient,Completed,11:45,12:10,37
+1668,128,24,6,2025-02-17,09:13,Follow-up,Completed,09:21,09:48,8
+1669,334,7,6,2025-04-24,08:14,New Patient,Completed,08:30,08:53,16
+1670,332,4,5,2026-01-13,13:32,Procedure,Completed,14:09,14:52,37
+1671,104,21,6,2025-05-30,11:31,Annual Physical,Completed,11:38,12:30,7
+1672,251,16,6,2025-10-08,15:27,Annual Physical,Completed,15:22,15:59,0
+1673,31,24,6,2026-04-15,16:56,Follow-up,Cancelled,,,
+1674,212,4,5,2025-10-22,10:24,Annual Physical,Cancelled,,,
+1675,91,14,4,2025-01-15,16:04,New Patient,Completed,16:36,17:15,32
+1676,231,7,6,2025-10-10,16:08,Annual Physical,Completed,16:13,16:53,5
+1677,9,25,1,2025-08-29,16:17,Follow-up,Completed,16:47,17:29,30
+1678,138,24,6,2026-01-15,16:54,New Patient,Cancelled,,,
+1679,140,22,2,2026-06-13,13:17,New Patient,Completed,13:16,14:02,0
+1680,145,9,2,2025-09-08,11:07,Consult,Completed,11:02,11:21,0
+1681,354,25,1,2026-07-22,15:09,Annual Physical,Completed,15:04,15:44,0
+1682,157,24,6,2026-03-12,12:17,Consult,Cancelled,,,
+1683,103,21,6,2026-02-16,14:05,Procedure,Completed,14:30,15:19,25
+1684,24,11,1,2026-01-01,16:02,Consult,No-Show,,,
+1685,171,16,6,2025-08-22,15:21,New Patient,Completed,16:00,16:14,39
+1686,119,14,4,2025-02-14,11:29,Procedure,Completed,,,
+1687,349,18,1,2026-03-28,10:18,Follow-up,No-Show,,,
+1688,112,12,3,2025-04-10,08:37,New Patient,Cancelled,,,
+1689,301,14,4,2025-05-04,12:47,Procedure,Completed,12:55,13:10,8
+1690,61,3,6,2025-09-14,12:06,Procedure,Completed,12:45,13:12,39
+1691,357,24,6,2025-01-07,16:21,Procedure,No-Show,,,
+1692,170,4,5,2025-04-01,16:35,Follow-up,Completed,,,
+1693,357,12,3,2026-01-01,15:43,Follow-up,Completed,15:39,16:36,0
+1694,11,22,2,2025-10-09,11:17,Follow-up,No-Show,,,
+1695,120,24,6,2025-02-16,11:03,Follow-up,No-Show,,,
+1696,102,5,1,2025-10-30,15:51,Procedure,Completed,16:00,16:49,9
+1697,371,7,6,2026-01-11,13:06,Follow-up,Completed,13:45,13:59,39
+1698,194,1,6,2025-06-25,14:23,Consult,Completed,14:29,15:22,6
+1699,44,25,1,2025-06-11,11:36,Follow-up,Completed,11:57,12:13,21
+1700,86,9,2,2026-06-17,13:37,Follow-up,Completed,14:10,14:54,33
+1701,230,14,4,2025-06-26,15:35,Annual Physical,Cancelled,,,
+1702,134,20,3,2025-08-08,08:20,Procedure,No-Show,,,
+1703,152,13,1,2026-07-03,15:56,Consult,Completed,15:58,16:58,2
+1704,118,24,6,2026-07-01,09:55,Procedure,Completed,10:15,11:06,20
+1705,70,2,3,2026-06-15,11:04,Follow-up,Completed,11:07,11:32,3
+1706,311,18,1,2025-03-17,12:07,Consult,Completed,12:07,12:38,0
+1707,134,11,1,2026-07-17,10:19,New Patient,No-Show,,,
+1708,219,16,6,2025-07-30,10:23,New Patient,No-Show,,,
+1709,266,5,1,2026-03-29,09:13,Consult,Completed,09:13,10:10,0
+1710,349,9,2,2025-12-12,08:30,New Patient,Completed,09:14,09:25,44
+1711,415,24,6,2025-02-01,09:25,Follow-up,Cancelled,,,
+1712,388,24,6,2026-08-23,09:23,Follow-up,Completed,09:48,10:04,25
+1713,332,12,3,2025-02-28,08:26,Annual Physical,No-Show,,,
+1714,161,13,1,2025-04-28,16:36,Annual Physical,Cancelled,,,
+1715,134,6,2,2025-03-29,10:31,Consult,Completed,11:00,11:40,29
+1716,394,3,6,2025-06-04,10:59,Consult,Cancelled,,,
+1717,319,2,3,2025-11-18,14:28,New Patient,Completed,14:55,15:32,27
+1718,26,1,6,2025-09-25,12:11,Annual Physical,Completed,12:46,13:17,35
+1719,141,17,2,2025-06-03,14:54,Consult,Completed,14:56,15:21,2
+1720,262,8,5,2025-11-26,14:18,Annual Physical,Completed,14:32,14:52,14
+1721,22,18,1,2025-02-10,16:01,Procedure,Completed,16:09,16:34,8
+1722,286,15,6,2025-12-30,08:17,Consult,Completed,,,
+1723,138,2,3,2025-05-06,14:41,Consult,Cancelled,,,
+1724,64,18,1,2026-06-26,08:05,Annual Physical,Cancelled,,,
+1725,330,6,2,2026-07-15,16:05,Follow-up,Completed,16:33,16:55,28
+1726,271,21,6,2025-03-07,14:49,Follow-up,Cancelled,,,
+1727,80,22,2,2025-03-09,10:24,Consult,Completed,11:02,11:30,38
+1728,331,22,2,2025-11-11,14:57,Follow-up,Cancelled,,,
+1729,11,8,5,2026-03-06,10:13,Consult,Cancelled,,,
+1730,221,7,6,2025-04-17,13:17,New Patient,Cancelled,,,
+1731,237,2,3,2026-02-04,12:58,Follow-up,Completed,13:15,14:13,17
+1732,22,6,2,2026-02-17,11:54,Annual Physical,Cancelled,,,
+1733,279,22,2,2025-07-11,13:00,New Patient,No-Show,,,
+1734,343,3,6,2026-04-27,14:26,Procedure,Cancelled,,,
+1735,406,9,2,2025-10-25,16:45,Consult,Completed,17:12,17:23,27
+1736,189,8,5,2026-07-24,16:32,Follow-up,Completed,16:44,17:15,12
+1737,313,23,4,2025-03-05,13:48,Annual Physical,Completed,,,
+1738,150,8,5,2025-07-29,11:41,Annual Physical,No-Show,,,
+1739,100,17,2,2025-09-21,13:22,Procedure,Completed,14:03,14:27,41
+1740,47,4,5,2026-09-07,15:45,Procedure,Completed,16:26,17:26,41
+1741,102,8,5,2026-08-31,09:33,Procedure,No-Show,,,
+1742,111,5,1,2026-02-19,13:30,New Patient,No-Show,,,
+1743,209,2,3,2025-03-20,09:25,Consult,Completed,09:51,10:49,26
+1744,49,15,6,2026-05-28,14:56,Consult,Completed,14:51,15:01,0
+1745,14,1,6,2026-08-24,09:49,Procedure,Cancelled,,,
+1746,58,18,1,2025-05-11,16:56,Follow-up,Completed,17:35,18:09,39
+1747,255,9,2,2025-10-18,10:02,New Patient,Completed,10:36,11:29,34
+1748,406,12,3,2025-05-18,08:59,Annual Physical,Completed,09:32,09:46,33
+1749,328,25,1,2026-08-12,12:53,Consult,Completed,13:06,13:30,13
+1750,176,1,6,2026-08-24,10:22,Follow-up,Completed,10:27,11:23,5
+1751,309,17,2,2025-06-01,09:15,Procedure,No-Show,,,
+1752,141,11,1,2025-12-12,15:08,New Patient,Completed,15:19,15:31,11
+1753,151,5,1,2026-06-17,14:57,Annual Physical,Completed,15:32,15:43,35
+1754,253,13,1,2026-03-15,15:25,Consult,Completed,16:04,16:20,39
+1755,400,1,6,2025-02-13,11:17,Consult,Completed,11:25,11:58,8
+1756,46,25,1,2025-01-28,14:35,Procedure,No-Show,,,
+1757,38,11,1,2025-08-06,09:42,Follow-up,No-Show,,,
+1758,131,11,1,2025-12-31,08:53,Consult,Completed,09:23,09:44,30
+1759,321,16,6,2026-03-11,10:26,Follow-up,Completed,10:54,11:20,28
+1760,60,8,5,2025-11-08,08:05,Procedure,Completed,08:49,09:11,44
+1761,342,18,1,2026-06-26,10:19,New Patient,Completed,10:27,10:51,8
+1762,64,2,3,2025-04-15,14:19,New Patient,Completed,14:52,15:05,33
+1763,298,23,4,2025-03-08,12:56,Consult,Cancelled,,,
+1764,94,1,6,2026-04-09,12:21,Follow-up,Completed,12:41,13:39,20
+1765,321,14,4,2026-08-10,14:24,Consult,Cancelled,,,
+1766,329,20,3,2026-09-07,15:47,Consult,Completed,16:00,16:19,13
+1767,197,21,6,2026-08-06,12:14,Annual Physical,No-Show,,,
+1768,290,4,5,2025-10-29,08:21,Annual Physical,Completed,08:52,09:41,31
+1769,90,7,6,2025-04-21,11:09,Annual Physical,No-Show,,,
+1770,400,5,1,2026-03-17,14:53,Consult,Completed,14:51,15:27,-9
+1771,243,5,1,2026-02-12,10:00,Procedure,Completed,09:56,10:47,0
+1772,159,18,1,2025-08-22,16:52,Follow-up,Completed,17:07,17:59,15
+1773,333,8,5,2026-06-17,10:21,New Patient,Completed,10:34,10:44,13
+1774,340,4,5,2025-05-26,15:24,New Patient,Cancelled,,,
+1775,282,5,1,2026-02-20,14:07,Follow-up,Completed,14:29,15:21,22
+1776,196,19,6,2026-01-23,13:52,New Patient,Completed,14:00,14:10,8
+1777,51,22,2,2025-05-30,11:14,Annual Physical,Completed,11:45,12:16,31
+1778,129,7,6,2025-10-01,14:48,Follow-up,Completed,14:58,15:45,10
+1779,261,9,2,2025-02-11,08:30,Procedure,No-Show,,,
+1780,386,8,5,2025-01-02,08:06,Procedure,Completed,08:39,09:14,33
+1781,29,4,5,2026-02-01,16:35,New Patient,No-Show,,,
+1782,42,22,2,2025-07-17,13:42,New Patient,Completed,13:41,14:15,0
+1783,143,3,6,2025-10-28,09:14,New Patient,Cancelled,,,
+1784,233,14,4,2025-07-01,16:54,Consult,No-Show,,,
+1785,227,21,6,2026-02-26,10:27,Annual Physical,Completed,10:36,11:26,-8
+1786,226,15,6,2026-09-06,12:48,Follow-up,Completed,12:46,13:41,0
+1787,372,13,1,2026-02-26,10:13,Follow-up,Completed,10:30,10:41,17
+1788,252,24,6,2026-05-01,14:33,Follow-up,Completed,15:04,15:58,31
+1789,399,9,2,2025-01-24,14:46,Consult,Completed,14:57,15:11,11
+1790,233,8,5,2025-04-02,10:15,Annual Physical,Cancelled,,,
+1791,367,6,2,2025-07-27,13:53,New Patient,Completed,14:17,15:01,24
+1792,105,6,2,2025-04-15,09:20,Follow-up,Completed,09:15,09:49,0
+1793,122,17,2,2025-11-22,10:15,Procedure,Completed,10:44,11:30,29
+1794,98,7,6,2026-04-04,09:16,Annual Physical,Completed,09:30,09:56,14
+1795,87,19,6,2025-11-27,08:48,Procedure,No-Show,,,
+1796,151,17,2,2025-02-14,09:36,Annual Physical,Completed,09:49,10:02,13
+1797,129,4,5,2026-02-12,16:01,New Patient,Completed,16:05,16:44,4
+1798,263,6,2,2025-07-11,09:16,Follow-up,Completed,09:51,10:06,35
+1799,302,18,1,2025-07-06,09:44,Annual Physical,No-Show,,,
+1800,266,14,4,2025-06-25,13:48,Consult,Completed,14:11,14:35,23
+1801,119,18,1,2025-09-06,09:57,Follow-up,Completed,10:26,11:19,29
+1802,174,8,5,2026-08-10,15:40,Procedure,Completed,16:25,17:19,45
+1803,220,13,1,2025-05-02,15:44,New Patient,Completed,16:04,16:45,20
+1804,400,5,1,2025-01-16,14:13,Procedure,Completed,14:42,15:01,29
+1805,93,8,5,2025-12-24,13:35,New Patient,No-Show,,,
+1806,202,22,2,2026-01-10,08:15,Consult,Cancelled,,,
+1807,230,4,5,2025-09-29,14:54,Follow-up,Completed,15:35,15:49,41
+1808,90,3,6,2026-08-08,10:22,Consult,Cancelled,,,
+1809,204,15,6,2026-09-01,08:40,Consult,Completed,09:09,10:08,29
+1810,320,20,3,2026-07-09,12:55,New Patient,Completed,13:00,13:18,5
+1811,170,2,3,2026-09-12,11:55,Procedure,Completed,12:36,13:24,41
+1812,150,21,6,2025-05-14,13:05,Annual Physical,Completed,13:47,14:36,42
+1813,332,3,6,2025-10-18,13:55,Consult,Completed,14:22,15:01,27
+1814,19,23,4,2026-03-28,09:33,Follow-up,Cancelled,,,
+1815,121,18,1,2026-02-16,15:38,Procedure,Completed,15:45,16:29,7
+1816,14,20,3,2026-04-08,12:41,New Patient,Completed,13:15,13:29,34
+1817,237,16,6,2026-06-29,16:24,Consult,Completed,16:28,17:17,4
+1818,255,23,4,2025-06-07,10:12,Consult,Cancelled,,,
+1819,296,7,6,2026-05-21,08:39,Annual Physical,Completed,,,
+1820,330,6,2,2025-09-01,14:17,Annual Physical,Completed,14:13,15:05,0
+1821,200,13,1,2025-12-06,15:47,New Patient,Completed,15:43,16:36,0
+1822,278,6,2,2025-12-17,14:23,Annual Physical,Cancelled,,,
+1823,94,17,2,2026-02-07,15:51,Procedure,Completed,15:58,16:16,7
+1824,151,6,2,2025-09-10,10:16,Consult,Completed,10:28,11:28,12
+1825,100,18,1,2026-08-10,09:45,Procedure,Cancelled,,,
+1826,85,9,2,2025-03-23,13:35,Consult,No-Show,,,
+1827,390,11,1,2026-05-10,11:02,Procedure,Cancelled,,,
+1828,86,19,6,2025-06-25,14:53,Follow-up,Completed,15:32,15:56,39
+1829,352,12,3,2025-04-15,11:48,New Patient,Completed,12:18,13:13,30
+1830,331,16,6,2026-06-16,12:29,Consult,Completed,12:44,12:55,15
+1831,396,22,2,2025-10-22,12:27,New Patient,No-Show,,,
+1832,100,10,2,2025-05-03,16:44,New Patient,Completed,16:46,17:26,2
+1833,102,17,2,2025-12-08,12:01,New Patient,Cancelled,,,
+1834,45,12,3,2025-08-04,14:43,New Patient,Cancelled,,,
+1835,167,10,2,2026-04-10,09:50,Annual Physical,Cancelled,,,
+1836,104,4,5,2025-08-10,10:57,Consult,Cancelled,,,
+1837,110,14,4,2026-05-03,16:57,Follow-up,Completed,17:19,17:57,22
+1838,318,9,2,2025-06-03,09:51,New Patient,Cancelled,,,
+1839,19,25,1,2025-12-29,11:01,Procedure,Completed,11:35,12:18,34
+1840,303,17,2,2026-04-30,09:01,Follow-up,Completed,,,
+1841,185,5,1,2025-08-29,16:46,Consult,Completed,17:30,18:02,44
+1842,170,18,1,2026-03-15,15:06,Annual Physical,Completed,15:50,16:37,44
+1843,231,18,1,2026-03-29,12:46,Follow-up,Cancelled,,,
+1844,71,16,6,2025-12-12,16:42,Annual Physical,Cancelled,,,
+1845,278,21,6,2025-12-14,15:12,Annual Physical,Cancelled,,,
+1846,404,23,4,2025-10-22,11:02,Follow-up,Completed,11:16,12:05,14
+1847,416,23,4,2026-03-15,13:40,Follow-up,Completed,,,
+1848,411,10,2,2026-01-17,11:55,Follow-up,Completed,11:54,12:19,0
+1849,60,11,1,2025-11-21,09:10,New Patient,No-Show,,,
+1850,166,11,1,2026-05-08,08:34,Follow-up,Completed,09:09,09:59,35
+1851,350,4,5,2025-10-18,13:10,Consult,Cancelled,,,
+1852,269,20,3,2026-01-28,14:35,Consult,Completed,15:15,15:56,40
+1853,354,8,5,2026-03-10,15:39,Annual Physical,Completed,16:15,16:51,-6
+1854,264,24,6,2025-06-21,14:17,Follow-up,Cancelled,,,
+1855,36,17,2,2025-08-12,10:57,New Patient,Completed,11:39,11:57,42
+1856,103,20,3,2025-05-27,08:07,Consult,Cancelled,,,
+1857,48,2,3,2026-01-22,08:08,Consult,Completed,08:18,08:54,10
+1858,368,18,1,2026-04-20,13:53,Consult,Completed,13:58,14:57,5
+1859,45,22,2,2026-04-12,11:01,Annual Physical,No-Show,,,
+1860,246,15,6,2025-11-25,12:26,Consult,Cancelled,,,
+1861,322,9,2,2026-05-11,10:18,Follow-up,Completed,10:49,11:01,31
+1862,262,25,1,2026-04-10,14:31,Follow-up,Completed,15:12,15:28,41
+1863,94,23,4,2026-03-27,10:03,Follow-up,Completed,10:02,10:41,0
+1864,404,23,4,2025-08-11,11:10,Annual Physical,Completed,11:16,11:37,6
+1865,315,7,6,2026-02-26,10:55,Procedure,Completed,11:10,12:02,15
+1866,156,8,5,2026-07-21,10:27,Follow-up,No-Show,,,
+1867,167,21,6,2026-01-08,12:10,Consult,Completed,12:18,12:48,8
+1868,214,4,5,2026-05-16,15:54,Follow-up,Completed,15:59,16:34,5
+1869,293,11,1,2025-09-25,12:19,Procedure,Completed,12:53,13:48,34
+1870,229,20,3,2026-08-20,15:29,Follow-up,Completed,16:00,16:21,31
+1871,170,8,5,2026-09-03,15:59,Procedure,Completed,16:40,16:57,41
+1872,419,11,1,2025-05-22,16:51,Follow-up,No-Show,,,
+1873,77,1,6,2025-04-11,10:17,Procedure,Cancelled,,,
+1874,374,24,6,2025-02-25,11:12,New Patient,No-Show,,,
+1875,23,9,2,2026-07-22,16:20,Procedure,Completed,16:48,17:30,28
+1876,179,22,2,2025-08-04,14:21,Annual Physical,Completed,14:27,14:52,6
+1877,32,25,1,2025-02-11,11:26,Annual Physical,Completed,11:40,12:05,14
+1878,418,19,6,2026-08-11,13:28,Procedure,Completed,13:27,13:59,0
+1879,108,24,6,2026-08-08,09:35,Follow-up,Completed,10:11,10:57,36
+1880,301,24,6,2025-12-23,08:24,Annual Physical,Completed,08:31,09:11,7
+1881,262,7,6,2025-02-28,11:21,Consult,Completed,11:42,12:22,21
+1882,256,3,6,2025-04-28,10:28,New Patient,Completed,11:03,11:22,35
+1883,81,4,5,2026-04-17,14:59,Follow-up,Completed,14:57,15:14,0
+1884,46,4,5,2025-04-26,14:31,New Patient,Completed,,,
+1885,317,24,6,2025-02-02,15:37,Annual Physical,No-Show,,,
+1886,339,24,6,2026-06-26,15:28,Follow-up,No-Show,,,
+1887,319,24,6,2025-08-08,08:37,Consult,Cancelled,,,
+1888,99,14,4,2026-01-25,13:45,Consult,No-Show,,,
+1889,7,22,2,2025-07-03,15:46,Consult,Cancelled,,,
+1890,54,5,1,2025-10-16,11:00,New Patient,Completed,11:13,11:24,13
+1891,321,17,2,2025-05-24,13:45,Consult,Completed,14:22,14:52,37
+1892,147,13,1,2025-05-12,08:17,Follow-up,Completed,08:56,09:29,39
+1893,195,3,6,2025-01-02,11:39,Consult,Completed,11:56,12:14,17
+1894,9,25,1,2025-04-10,11:54,New Patient,Completed,11:58,12:25,4
+1895,282,11,1,2026-07-07,14:15,Annual Physical,Completed,14:58,15:16,-2
+1896,381,25,1,2025-06-09,08:26,Procedure,No-Show,,,
+1897,28,14,4,2025-05-07,14:10,Follow-up,Completed,14:35,14:59,25
+1898,86,20,3,2025-03-04,15:33,Procedure,Completed,,,
+1899,117,5,1,2025-05-10,12:48,New Patient,Completed,13:04,13:34,16
+1900,351,21,6,2025-01-08,11:47,New Patient,Cancelled,,,
+1901,128,2,3,2025-05-08,08:17,Annual Physical,Completed,08:37,09:18,20
+1902,232,12,3,2026-03-10,13:15,New Patient,Completed,13:33,14:11,18
+1903,179,12,3,2025-10-19,15:15,Follow-up,No-Show,,,
+1904,129,16,6,2025-04-19,10:20,Procedure,Cancelled,,,
+1905,223,1,6,2025-04-24,08:45,New Patient,Completed,09:29,09:46,44
+1906,20,7,6,2025-01-28,15:02,Follow-up,Completed,15:03,15:41,1
+1907,47,16,6,2025-06-15,15:13,New Patient,Completed,15:42,15:52,29
+1908,344,12,3,2026-04-04,09:49,Consult,No-Show,,,
+1909,16,24,6,2025-04-21,13:50,Procedure,Completed,13:50,14:12,0
+1910,53,8,5,2025-02-25,15:53,Annual Physical,No-Show,,,
+1911,41,2,3,2025-10-22,14:09,Annual Physical,Completed,14:35,15:04,26
+1912,59,23,4,2025-07-21,08:25,Consult,Completed,08:47,09:08,22
+1913,347,12,3,2026-04-03,15:16,Consult,Completed,,,
+1914,62,18,1,2025-01-06,13:41,Follow-up,No-Show,,,
+1915,311,13,1,2025-06-10,15:30,Procedure,Cancelled,,,
+1916,202,14,4,2025-06-02,09:20,Consult,Cancelled,,,
+1917,33,17,2,2025-09-04,10:21,New Patient,Completed,10:18,10:31,0
+1918,218,4,5,2025-11-15,13:38,New Patient,Completed,14:21,14:35,43
+1919,302,16,6,2026-04-24,10:07,New Patient,Cancelled,,,
+1920,11,24,6,2025-09-26,12:01,Consult,Completed,12:00,12:55,0
+1921,363,21,6,2025-10-04,08:03,Follow-up,Cancelled,,,
+1922,342,23,4,2025-03-09,13:24,New Patient,No-Show,,,
+1923,131,20,3,2026-05-29,08:38,Annual Physical,Completed,09:14,10:02,36
+1924,203,20,3,2026-06-26,16:24,New Patient,No-Show,,,
+1925,102,15,6,2026-08-28,15:29,Procedure,Completed,15:48,16:36,19
+1926,211,13,1,2025-04-12,10:32,Procedure,No-Show,,,
+1927,147,2,3,2026-05-12,16:11,Annual Physical,Completed,16:21,16:45,10
+1928,224,6,2,2025-08-04,16:47,Consult,Completed,17:00,17:47,13
+1929,313,15,6,2025-01-16,09:08,Follow-up,Cancelled,,,
+1930,221,22,2,2025-05-23,08:26,Procedure,No-Show,,,
+1931,27,17,2,2026-04-17,10:55,New Patient,Completed,11:16,11:29,21
+1932,338,1,6,2025-09-23,09:37,New Patient,Completed,09:47,10:20,10
+1933,293,17,2,2026-09-02,16:36,Procedure,Completed,16:40,16:57,4
+1934,12,24,6,2026-07-05,16:35,Annual Physical,Completed,,,
+1935,37,18,1,2026-02-13,12:26,Consult,Cancelled,,,
+1936,71,6,2,2025-05-04,15:42,Consult,Cancelled,,,
+1937,263,24,6,2025-08-27,15:30,Annual Physical,Completed,15:53,16:03,23
+1938,14,9,2,2026-07-08,08:47,Procedure,Completed,09:02,09:42,15
+1939,93,7,6,2026-01-25,09:27,Consult,Cancelled,,,
+1940,207,3,6,2025-03-28,10:41,Procedure,Completed,11:19,12:06,38
+1941,344,14,4,2026-07-28,16:36,Procedure,No-Show,,,
+1942,372,25,1,2026-02-06,16:08,Annual Physical,Completed,16:05,16:52,0
+1943,133,3,6,2026-08-18,15:13,Annual Physical,Completed,15:35,15:47,22
+1944,128,6,2,2026-05-15,12:50,Consult,Completed,12:59,13:30,9
+1945,399,15,6,2026-08-18,14:47,Annual Physical,No-Show,,,
+1946,328,2,3,2026-09-12,15:11,Consult,Cancelled,,,
+1947,193,13,1,2026-07-14,12:14,Consult,Cancelled,,,
+1948,220,1,6,2025-09-30,15:43,Annual Physical,Completed,15:47,16:01,4
+1949,174,4,5,2026-01-31,10:25,Annual Physical,No-Show,,,
+1950,297,25,1,2025-09-06,14:56,Consult,Cancelled,,,
+1951,280,5,1,2025-01-01,16:34,Follow-up,Completed,16:46,17:30,12
+1952,117,20,3,2025-02-12,15:26,Annual Physical,No-Show,,,
+1953,203,16,6,2025-06-04,16:59,Consult,Completed,17:30,17:44,31
+1954,33,3,6,2025-11-04,09:15,New Patient,No-Show,,,
+1955,301,25,1,2025-09-12,14:06,Follow-up,Completed,14:14,15:09,8
+1956,244,24,6,2026-02-22,08:00,Follow-up,Cancelled,,,
+1957,128,2,3,2025-09-18,13:28,Consult,Completed,13:29,14:04,1
+1958,12,6,2,2026-01-04,12:45,Procedure,Cancelled,,,
+1959,75,9,2,2025-05-08,09:39,Annual Physical,Completed,10:15,10:27,36
+1960,141,1,6,2026-08-04,15:06,New Patient,Completed,15:31,16:29,25
+1961,383,3,6,2026-06-13,10:09,Consult,Cancelled,,,
+1962,276,19,6,2026-07-14,08:42,Consult,Completed,09:23,09:33,41
+1963,283,5,1,2025-04-10,12:38,Procedure,Completed,12:50,13:26,12
+1964,404,8,5,2025-12-01,11:09,Procedure,Completed,11:20,12:04,11
+1965,317,8,5,2026-08-19,14:45,Consult,Completed,15:08,15:37,23
+1966,160,23,4,2025-04-03,13:35,Consult,Cancelled,,,
+1967,134,11,1,2025-02-20,09:53,Consult,Completed,09:56,10:52,3
+1968,352,25,1,2026-05-05,14:09,Procedure,No-Show,,,
+1969,356,2,3,2025-12-26,09:56,Procedure,Completed,09:56,10:33,0
+1970,306,18,1,2026-07-23,14:44,Procedure,No-Show,,,
+1971,161,8,5,2026-02-25,10:08,Consult,Completed,10:40,11:06,32
+1972,195,16,6,2025-01-08,08:50,Consult,Completed,09:26,10:17,36
+1973,153,17,2,2026-08-18,12:16,New Patient,No-Show,,,
+1974,151,13,1,2026-01-20,12:40,Consult,Completed,13:02,13:39,22
+1975,405,14,4,2025-09-26,10:45,Annual Physical,Completed,11:00,11:37,15
+1976,227,11,1,2026-07-05,08:29,Procedure,Completed,09:14,09:43,45
+1977,99,17,2,2025-01-30,15:15,Follow-up,No-Show,,,
+1978,401,12,3,2025-09-22,14:54,Follow-up,Completed,15:29,15:50,35
+1979,149,2,3,2025-04-22,14:46,Consult,Cancelled,,,
+1980,312,12,3,2025-08-23,08:54,Procedure,Completed,08:59,09:20,5
+1981,93,25,1,2026-04-08,15:18,Procedure,Completed,15:32,16:07,14
+1982,35,13,1,2025-01-29,09:46,Follow-up,Completed,09:58,10:53,12
+1983,258,9,2,2026-07-01,16:49,New Patient,Completed,16:44,17:42,0
+1984,56,16,6,2026-08-26,16:48,Procedure,Completed,17:28,18:09,40
+1985,41,6,2,2026-08-15,14:06,New Patient,Completed,14:18,14:56,12
+1986,406,9,2,2025-06-18,15:15,Follow-up,Completed,15:56,16:13,41
+1987,271,9,2,2025-08-23,16:10,Follow-up,Cancelled,,,
+1988,221,12,3,2026-08-26,14:35,New Patient,Completed,14:59,15:44,24
+1989,87,12,3,2025-09-29,16:46,Annual Physical,No-Show,,,
+1990,66,4,5,2026-07-25,11:58,Annual Physical,Completed,12:09,12:42,11
+1991,138,2,3,2025-02-02,15:19,Annual Physical,Cancelled,,,
+1992,335,12,3,2025-10-20,15:58,Follow-up,Cancelled,,,
+1993,101,3,6,2025-04-25,10:23,Follow-up,No-Show,,,
+1994,366,15,6,2025-10-20,16:23,New Patient,Completed,16:46,17:24,23
+1995,106,8,5,2025-10-28,10:50,Follow-up,Completed,10:46,11:08,0
+1996,195,22,2,2025-06-23,09:14,Annual Physical,Completed,09:54,10:04,40
+1997,35,20,3,2026-02-01,12:12,Annual Physical,Completed,12:28,13:23,16
+1998,312,8,5,2025-11-29,16:35,Annual Physical,No-Show,,,
+1999,320,8,5,2025-12-05,11:55,New Patient,Cancelled,,,
+2000,19,23,4,2025-04-17,16:47,Procedure,Completed,17:10,17:50,23
+2001,35,14,4,2025-12-20,10:56,Annual Physical,Cancelled,,,
+2002,131,22,2,2026-01-04,12:27,Procedure,Cancelled,,,
+2003,28,18,1,2025-08-04,14:10,Procedure,Completed,14:43,15:32,33
+2004,283,4,5,2025-01-16,13:28,Consult,No-Show,,,
+2005,64,5,1,2026-07-04,15:47,Consult,Completed,16:24,16:50,37
+2006,412,20,3,2026-08-05,15:15,Consult,Completed,15:42,16:41,27
+2007,354,20,3,2025-03-04,13:13,Procedure,Cancelled,,,
+2008,297,23,4,2025-05-17,16:10,Annual Physical,Completed,16:33,17:26,23
+2009,19,3,6,2026-09-05,14:30,Follow-up,Cancelled,,,
+2010,138,5,1,2025-07-28,11:51,Procedure,Completed,11:56,12:39,5
+2011,53,5,1,2025-04-26,16:31,Procedure,Completed,16:36,17:22,5
+2012,264,2,3,2026-08-15,11:37,Follow-up,No-Show,,,
+2013,63,2,3,2025-04-30,08:15,Follow-up,No-Show,,,
+2014,90,1,6,2025-01-17,09:04,Procedure,Completed,09:28,10:05,24
+2015,16,17,2,2026-09-04,16:12,New Patient,Completed,16:07,16:52,0
+2016,191,13,1,2025-04-06,12:55,Follow-up,Completed,13:25,13:53,30
+2017,329,3,6,2026-08-27,16:42,Procedure,Completed,16:54,17:30,12
+2018,282,21,6,2025-05-22,11:19,Annual Physical,Cancelled,,,
+2019,210,19,6,2025-11-20,09:40,New Patient,Completed,09:47,10:43,-7
+2020,94,1,6,2026-01-14,12:45,Consult,Cancelled,,,
+2021,195,15,6,2025-03-18,13:39,New Patient,Completed,14:01,14:38,22
+2022,217,9,2,2025-04-05,09:15,Procedure,Completed,09:33,10:02,18
+2023,361,8,5,2025-10-16,08:01,Consult,Completed,08:16,08:32,15
+2024,303,9,2,2026-04-26,08:42,Consult,Completed,08:37,09:10,0
+2025,221,14,4,2026-07-16,11:27,Consult,Cancelled,,,
+2026,73,13,1,2026-07-02,14:54,Procedure,No-Show,,,
+2027,311,15,6,2025-01-16,17:00,Consult,No-Show,,,
+2028,222,18,1,2026-07-23,16:52,New Patient,Completed,17:17,18:00,25
+2029,249,20,3,2025-03-16,14:12,Annual Physical,Completed,14:44,15:21,32
+2030,40,19,6,2026-04-11,14:26,Consult,Completed,,,
+2031,45,5,1,2026-03-18,14:07,Consult,Completed,14:38,15:23,31
+2032,8,10,2,2025-03-22,08:05,Annual Physical,Completed,08:08,08:22,3
+2033,262,11,1,2025-05-01,15:51,Procedure,Completed,16:04,16:59,13
+2034,250,10,2,2026-01-30,11:09,New Patient,Completed,11:38,12:31,29
+2035,75,9,2,2025-04-05,14:52,Procedure,No-Show,,,
+2036,137,6,2,2025-06-16,10:24,Procedure,Completed,10:40,11:22,16
+2037,416,23,4,2025-09-28,14:15,Follow-up,Cancelled,,,
+2038,54,18,1,2025-12-21,13:00,Procedure,Cancelled,,,
+2039,24,11,1,2026-03-22,16:37,New Patient,No-Show,,,
+2040,296,5,1,2025-05-10,14:15,New Patient,Completed,,,
+2041,376,2,3,2025-03-06,14:48,Annual Physical,No-Show,,,
+2042,210,9,2,2025-02-24,15:50,Follow-up,No-Show,,,
+2043,70,9,2,2026-04-27,11:01,Follow-up,Completed,11:31,12:20,30
+2044,404,9,2,2025-01-06,08:59,Procedure,Completed,09:27,10:18,28
+2045,94,6,2,2025-09-26,15:43,New Patient,No-Show,,,
+2046,70,14,4,2025-03-16,14:38,Annual Physical,Completed,,,
+2047,403,12,3,2026-07-30,09:00,New Patient,Completed,09:31,10:04,31
+2048,238,4,5,2025-03-30,13:22,Procedure,No-Show,,,
+2049,42,24,6,2025-02-14,14:11,Procedure,No-Show,,,
+2050,28,19,6,2025-05-20,11:24,New Patient,Completed,11:48,12:02,24
+2051,349,1,6,2025-01-05,16:15,New Patient,Cancelled,,,
+2052,259,19,6,2025-11-16,13:35,Follow-up,Cancelled,,,
+2053,416,21,6,2025-05-25,16:54,Procedure,Completed,17:26,18:11,32
+2054,212,12,3,2025-05-15,12:23,Procedure,Cancelled,,,
+2055,393,4,5,2026-02-28,09:30,Consult,Completed,09:34,10:14,4
+2056,276,3,6,2025-08-07,09:12,Annual Physical,Completed,09:28,09:40,16
+2057,340,20,3,2026-02-17,11:47,New Patient,No-Show,,,
+2058,240,10,2,2025-08-07,14:08,Annual Physical,Completed,14:36,15:34,28
+2059,78,14,4,2026-06-27,09:01,Annual Physical,Completed,,,
+2060,220,15,6,2025-07-18,11:44,Annual Physical,Cancelled,,,
+2061,278,17,2,2025-07-19,13:10,Annual Physical,No-Show,,,
+2062,410,8,5,2026-01-27,13:05,Follow-up,Completed,13:34,13:47,29
+2063,418,15,6,2025-10-11,08:51,Annual Physical,Completed,09:14,10:03,23
+2064,204,6,2,2025-07-30,11:07,Consult,Completed,11:04,11:48,0
+2065,167,4,5,2025-02-13,16:25,New Patient,Cancelled,,,
+2066,342,20,3,2025-04-15,11:59,New Patient,Completed,12:00,12:39,1
+2067,49,20,3,2025-01-20,10:25,Annual Physical,Cancelled,,,
+2068,361,15,6,2026-02-03,08:55,Follow-up,No-Show,,,
+2069,325,1,6,2026-02-20,14:19,Annual Physical,No-Show,,,
+2070,419,9,2,2025-03-27,11:01,New Patient,Completed,11:38,11:56,37
+2071,402,19,6,2026-01-01,09:00,Follow-up,Completed,09:21,10:19,21
+2072,41,11,1,2025-04-24,13:45,Follow-up,No-Show,,,
+2073,178,21,6,2026-08-26,12:25,Consult,Completed,12:41,12:53,16
+2074,253,4,5,2026-03-30,11:15,Procedure,No-Show,,,
+2075,305,18,1,2025-02-20,14:02,Annual Physical,Completed,14:38,14:49,36
+2076,34,2,3,2025-01-10,14:42,Consult,Cancelled,,,
+2077,111,10,2,2025-01-13,11:28,New Patient,Completed,11:23,11:50,0
+2078,110,14,4,2025-02-16,16:38,Annual Physical,Completed,16:37,16:51,0
+2079,49,8,5,2025-12-11,10:58,Annual Physical,Completed,11:15,12:13,17
+2080,352,19,6,2025-12-15,10:30,Annual Physical,Completed,,,
+2081,209,16,6,2026-08-07,08:13,Procedure,Completed,08:44,09:21,31
+2082,281,2,3,2025-03-17,14:36,Procedure,Completed,14:47,14:59,11
+2083,246,17,2,2025-10-01,10:08,Follow-up,No-Show,,,
+2084,292,10,2,2025-11-11,14:23,New Patient,No-Show,,,
+2085,2,13,1,2026-05-18,15:49,Follow-up,Completed,,,
+2086,83,21,6,2025-12-23,08:11,Procedure,Completed,08:19,08:53,8
+2087,201,6,2,2025-10-20,09:48,Consult,Completed,09:59,10:20,11
+2088,339,19,6,2025-06-03,11:44,Annual Physical,No-Show,,,
+2089,170,4,5,2025-03-13,08:15,Consult,Completed,08:12,09:03,0
+2090,347,2,3,2025-12-31,12:10,Consult,Completed,12:40,13:16,30
+2091,78,4,5,2025-04-01,14:33,Procedure,Completed,14:42,15:42,9
+2092,145,22,2,2025-12-09,15:47,Consult,Cancelled,,,
+2093,285,18,1,2026-04-07,13:31,Follow-up,Completed,13:31,13:51,0
+2094,217,10,2,2025-06-21,14:44,Follow-up,Completed,14:54,15:30,10
+2095,409,1,6,2025-05-25,15:48,Annual Physical,Cancelled,,,
+2096,267,6,2,2025-03-21,12:21,Procedure,Completed,12:17,13:11,-8
+2097,59,3,6,2025-12-19,10:45,Consult,No-Show,,,
+2098,4,6,2,2025-07-13,15:21,New Patient,No-Show,,,
+2099,332,20,3,2025-06-25,09:09,Consult,Cancelled,,,
+2100,403,4,5,2026-06-19,16:20,Annual Physical,Completed,16:51,17:07,31
+2101,258,14,4,2025-08-05,14:20,Consult,Cancelled,,,
+2102,282,3,6,2026-08-26,13:20,Procedure,Completed,13:59,14:39,39
+2103,196,18,1,2026-06-14,08:45,Annual Physical,Completed,08:55,09:35,10
+2104,310,7,6,2025-03-10,14:24,Follow-up,Completed,14:51,15:38,27
+2105,261,9,2,2025-12-06,13:18,New Patient,Completed,13:45,14:03,27
+2106,84,1,6,2025-02-25,11:01,Follow-up,Completed,11:35,12:03,34
+2107,118,5,1,2025-06-09,09:00,New Patient,Cancelled,,,
+2108,143,9,2,2026-05-14,12:45,Follow-up,No-Show,,,
+2109,384,17,2,2025-04-23,09:07,Annual Physical,Completed,09:38,10:26,31
+2110,345,5,1,2025-01-14,10:10,Follow-up,Completed,10:08,10:35,0
+2111,113,5,1,2025-05-14,15:29,Annual Physical,Completed,15:32,16:26,3
+2112,368,7,6,2025-02-12,10:13,New Patient,Completed,10:34,11:05,21
+2113,203,7,6,2025-01-03,08:58,Consult,Cancelled,,,
+2114,119,15,6,2026-04-13,15:50,Procedure,Cancelled,,,
+2115,300,4,5,2026-07-05,11:49,New Patient,No-Show,,,
+2116,351,1,6,2025-06-15,09:31,New Patient,Completed,09:56,10:25,25
+2117,82,19,6,2026-06-28,11:43,New Patient,Completed,11:54,12:19,11
+2118,142,3,6,2026-02-01,14:41,Follow-up,No-Show,,,
+2119,291,3,6,2025-07-27,10:01,Procedure,Completed,,,
+2120,208,18,1,2026-01-13,15:07,Procedure,Completed,15:50,16:02,43
+2121,79,3,6,2026-08-08,16:44,Annual Physical,Completed,17:02,17:15,18
+2122,391,9,2,2025-11-04,08:37,Procedure,Completed,08:57,09:19,20
+2123,97,23,4,2025-08-19,15:06,New Patient,Cancelled,,,
+2124,155,21,6,2026-09-12,14:25,Procedure,No-Show,,,
+2125,98,5,1,2025-06-22,14:34,Procedure,No-Show,,,
+2126,61,3,6,2025-10-30,10:30,Follow-up,Cancelled,,,
+2127,403,14,4,2025-05-21,13:51,Annual Physical,Completed,14:03,14:56,12
+2128,263,21,6,2025-02-10,16:24,Consult,Completed,16:25,17:22,1
+2129,328,8,5,2025-11-15,09:26,Consult,Completed,10:04,10:38,38
+2130,174,8,5,2025-05-18,12:48,Follow-up,Completed,,,
+2131,273,8,5,2025-08-19,12:11,Follow-up,Cancelled,,,
+2132,418,2,3,2025-09-04,09:19,Annual Physical,Completed,09:56,10:39,-5
+2133,190,15,6,2026-02-04,12:35,Annual Physical,Completed,13:20,13:59,45
+2134,369,9,2,2025-12-10,11:24,Follow-up,Cancelled,,,
+2135,224,12,3,2026-08-01,16:03,Procedure,Cancelled,,,
+2136,198,24,6,2026-09-01,16:34,New Patient,Completed,16:56,17:19,22
+2137,91,11,1,2025-10-20,14:18,Consult,Completed,14:57,15:07,39
+2138,317,10,2,2026-06-05,09:29,Follow-up,Cancelled,,,
+2139,390,13,1,2026-09-03,10:26,Annual Physical,Cancelled,,,
+2140,295,13,1,2026-02-11,13:09,Follow-up,Completed,,,
+2141,142,5,1,2025-09-03,14:16,New Patient,Completed,14:28,14:49,12
+2142,147,2,3,2025-09-29,11:20,Follow-up,No-Show,,,
+2143,213,4,5,2025-11-05,13:24,Follow-up,Cancelled,,,
+2144,368,2,3,2026-04-09,15:02,Procedure,No-Show,,,
+2145,116,4,5,2025-01-19,08:30,New Patient,Completed,08:56,09:39,26
+2146,73,4,5,2025-03-23,14:17,Procedure,Completed,14:17,15:02,0
+2147,186,22,2,2025-10-14,11:00,Consult,Completed,11:24,11:50,24
+2148,348,16,6,2025-02-19,09:55,Follow-up,Completed,10:31,10:51,36
+2149,347,1,6,2026-06-26,15:00,Follow-up,Cancelled,,,
+2150,114,15,6,2026-04-19,15:43,Consult,No-Show,,,
+2151,221,13,1,2025-11-28,14:56,Follow-up,No-Show,,,
+2152,240,1,6,2025-04-25,12:45,New Patient,Completed,13:28,14:18,43
+2153,417,15,6,2026-07-04,09:04,Annual Physical,Completed,09:19,10:10,15
+2154,19,1,6,2025-06-05,16:15,Follow-up,No-Show,,,
+2155,34,10,2,2025-07-10,13:27,Follow-up,Completed,,,
+2156,155,8,5,2026-08-11,10:06,Procedure,No-Show,,,
+2157,271,21,6,2025-03-30,16:26,New Patient,No-Show,,,
+2158,102,4,5,2025-07-22,14:27,Annual Physical,Completed,14:44,15:39,17
+2159,91,24,6,2025-01-28,11:10,Procedure,Completed,11:55,12:20,45
+2160,316,12,3,2025-08-07,12:00,Follow-up,No-Show,,,
+2161,78,21,6,2026-03-30,11:52,Follow-up,Completed,12:20,13:08,-6
+2162,243,23,4,2025-08-16,14:02,Follow-up,No-Show,,,
+2163,117,14,4,2026-03-14,09:29,Annual Physical,Completed,09:26,10:06,0
+2164,283,15,6,2025-02-16,16:43,Procedure,No-Show,,,
+2165,311,16,6,2025-05-04,16:37,Follow-up,No-Show,,,
+2166,196,2,3,2025-04-12,08:14,New Patient,Completed,08:18,08:53,4
+2167,284,8,5,2026-07-26,11:07,Procedure,Completed,11:44,12:44,37
+2168,363,25,1,2025-09-26,12:24,Procedure,Completed,12:31,13:01,7
+2169,75,7,6,2025-08-10,10:36,Follow-up,No-Show,,,
+2170,365,17,2,2025-01-18,09:48,Annual Physical,Completed,09:59,10:18,11
+2171,380,19,6,2025-06-07,11:08,Annual Physical,No-Show,,,
+2172,208,2,3,2026-01-22,11:07,Annual Physical,Completed,11:15,11:48,8
+2173,125,21,6,2026-05-06,12:10,New Patient,Completed,12:39,12:52,29
+2174,252,9,2,2025-04-18,12:01,Procedure,Completed,12:38,13:08,37
+2175,157,25,1,2025-05-05,13:31,New Patient,No-Show,,,
+2176,338,3,6,2025-08-14,14:34,Procedure,No-Show,,,
+2177,339,2,3,2026-06-05,12:53,Follow-up,Completed,13:24,14:20,31
+2178,33,11,1,2025-10-11,16:07,Annual Physical,Completed,16:22,16:48,15
+2179,321,22,2,2025-03-10,14:17,Procedure,Completed,,,
+2180,290,25,1,2025-12-17,13:37,Annual Physical,Completed,13:33,14:19,0
+2181,370,13,1,2026-08-30,11:36,Annual Physical,Completed,11:59,12:44,23
+2182,31,16,6,2025-01-01,10:20,Annual Physical,Completed,10:25,11:02,5
+2183,37,20,3,2026-05-24,09:38,New Patient,No-Show,,,
+2184,77,10,2,2025-03-17,11:26,Follow-up,Completed,12:09,13:04,43
+2185,207,15,6,2026-06-29,15:44,New Patient,Completed,16:15,16:58,31
+2186,219,16,6,2026-05-11,11:56,Consult,Completed,12:40,13:01,44
+2187,346,25,1,2025-01-29,15:51,Consult,Cancelled,,,
+2188,272,18,1,2026-05-02,15:10,Follow-up,Cancelled,,,
+2189,327,7,6,2026-08-09,13:16,New Patient,No-Show,,,
+2190,309,3,6,2026-01-27,13:36,Follow-up,Cancelled,,,
+2191,16,17,2,2026-08-16,13:42,Follow-up,No-Show,,,
+2192,64,5,1,2025-02-16,10:42,Consult,Completed,10:41,11:13,0
+2193,249,13,1,2025-10-06,12:49,Procedure,Completed,,,
+2194,26,1,6,2025-05-24,15:10,Procedure,Completed,15:30,15:59,20
+2195,223,16,6,2026-02-15,13:04,Procedure,Completed,13:36,14:14,32
+2196,46,14,4,2025-07-26,14:34,Procedure,Cancelled,,,
+2197,354,2,3,2025-09-21,13:38,New Patient,Completed,13:59,14:24,21
+2198,241,7,6,2025-02-08,14:35,Consult,Cancelled,,,
+2199,219,20,3,2025-07-10,15:55,New Patient,Completed,15:57,16:47,2
+2200,292,23,4,2026-01-25,11:48,Follow-up,Cancelled,,,
+2201,26,23,4,2026-01-15,15:57,Follow-up,Completed,16:15,16:47,18
+2202,237,14,4,2025-07-31,15:16,Follow-up,Cancelled,,,
+2203,41,11,1,2025-10-24,16:57,Consult,Completed,17:28,18:26,31
+2204,145,14,4,2026-03-22,12:13,Annual Physical,Cancelled,,,
+2205,386,9,2,2025-10-27,11:46,Annual Physical,Cancelled,,,
+2206,403,3,6,2025-11-09,10:04,Consult,Completed,10:37,11:24,33
+2207,362,9,2,2025-10-10,15:41,Follow-up,Cancelled,,,
+2208,295,9,2,2026-02-24,12:30,Consult,Completed,13:13,14:06,43
+2209,88,5,1,2025-08-18,08:48,Annual Physical,Completed,09:15,09:51,27
+2210,371,7,6,2026-08-13,16:54,Annual Physical,Completed,16:55,17:20,1
+2211,390,19,6,2026-04-02,10:12,Follow-up,Completed,10:14,10:54,2
+2212,155,17,2,2025-12-23,11:17,Procedure,Cancelled,,,
+2213,190,11,1,2026-04-29,10:15,New Patient,No-Show,,,
+2214,126,1,6,2025-02-13,13:09,Consult,Cancelled,,,
+2215,222,10,2,2026-01-26,09:05,Consult,No-Show,,,
+2216,115,19,6,2025-02-25,08:28,Annual Physical,No-Show,,,
+2217,55,5,1,2025-04-28,11:28,Annual Physical,Completed,11:48,12:20,20
+2218,98,11,1,2026-08-20,13:45,New Patient,Completed,14:15,14:52,30
+2219,294,20,3,2025-08-12,09:10,Annual Physical,Cancelled,,,
+2220,283,10,2,2025-07-13,12:25,Procedure,Cancelled,,,
+2221,199,8,5,2025-03-28,09:14,Consult,No-Show,,,
+2222,282,12,3,2025-02-19,11:29,Follow-up,Cancelled,,,
+2223,98,14,4,2025-06-11,10:18,Follow-up,Completed,10:25,10:54,7
+2224,209,7,6,2025-04-21,08:19,Follow-up,Cancelled,,,
+2225,340,15,6,2026-08-17,15:05,Procedure,Completed,15:50,16:34,45
+2226,406,21,6,2025-11-18,10:24,Annual Physical,Completed,10:43,11:41,19
+2227,413,21,6,2025-04-02,16:18,Annual Physical,Completed,16:17,16:56,0
+2228,155,7,6,2025-11-23,08:59,Follow-up,No-Show,,,
+2229,275,12,3,2025-02-18,10:47,Consult,No-Show,,,
+2230,313,9,2,2026-03-09,14:40,Follow-up,Cancelled,,,
+2231,230,25,1,2025-12-11,10:43,Follow-up,No-Show,,,
+2232,69,17,2,2025-06-06,11:59,Follow-up,Completed,11:55,12:13,0
+2233,56,7,6,2025-07-29,08:10,New Patient,No-Show,,,
+2234,113,7,6,2025-09-17,14:58,Procedure,Completed,14:57,15:53,0
+2235,220,15,6,2026-01-09,08:10,Procedure,Completed,08:14,09:13,4
+2236,385,11,1,2025-09-13,08:58,Annual Physical,No-Show,,,
+2237,329,12,3,2025-08-04,08:57,Follow-up,Completed,09:06,10:03,9
+2238,418,16,6,2025-06-24,12:00,Follow-up,Completed,12:12,13:07,12
+2239,24,5,1,2026-07-08,13:03,New Patient,Completed,13:35,14:32,32
+2240,9,3,6,2026-04-11,10:46,Follow-up,No-Show,,,
+2241,150,2,3,2026-01-18,08:59,Procedure,Completed,09:10,10:02,11
+2242,398,4,5,2026-05-03,16:27,Annual Physical,Cancelled,,,
+2243,212,4,5,2026-09-08,11:07,New Patient,Cancelled,,,
+2244,198,12,3,2026-07-09,11:52,Procedure,Completed,11:56,12:56,4
+2245,174,17,2,2025-03-07,11:04,Annual Physical,No-Show,,,
+2246,307,2,3,2026-08-22,13:51,Procedure,Completed,14:34,15:18,43
+2247,260,24,6,2025-05-31,12:13,Follow-up,Completed,12:48,13:10,35
+2248,40,6,2,2025-04-13,10:13,New Patient,Completed,10:11,10:28,0
+2249,22,8,5,2025-12-21,15:05,New Patient,Completed,15:42,15:56,37
+2250,249,10,2,2025-02-06,11:50,Follow-up,Completed,12:07,12:23,17
+2251,129,23,4,2025-12-30,11:02,Annual Physical,Completed,11:44,12:42,42
+2252,90,5,1,2026-05-20,14:37,Follow-up,Cancelled,,,
+2253,113,18,1,2026-04-11,11:06,New Patient,No-Show,,,
+2254,185,10,2,2025-06-03,10:27,Procedure,Completed,10:33,11:07,6
+2255,134,19,6,2026-01-27,11:16,New Patient,No-Show,,,
+2256,355,18,1,2025-07-20,11:27,Annual Physical,Cancelled,,,
+2257,155,15,6,2025-01-19,13:12,Consult,Completed,13:38,14:20,26
+2258,7,9,2,2026-04-21,08:21,New Patient,No-Show,,,
+2259,192,20,3,2026-01-22,16:39,New Patient,Cancelled,,,
+2260,314,25,1,2025-11-17,11:14,Procedure,Completed,11:25,12:14,11
+2261,219,21,6,2025-08-03,10:43,Annual Physical,Completed,11:04,11:28,21
+2262,255,16,6,2025-11-23,10:54,Annual Physical,No-Show,,,
+2263,291,5,1,2025-01-18,15:08,Procedure,Completed,15:25,16:09,17
+2264,69,1,6,2026-01-13,10:41,Consult,No-Show,,,
+2265,147,4,5,2025-03-15,13:30,Follow-up,Completed,13:27,13:46,0
+2266,341,23,4,2026-08-19,14:51,Procedure,No-Show,,,
+2267,126,15,6,2025-06-07,14:58,Consult,No-Show,,,
+2268,371,10,2,2025-07-04,08:43,Procedure,Completed,08:42,09:13,0
+2269,14,21,6,2026-07-19,13:47,Follow-up,Completed,13:55,14:51,8
+2270,390,2,3,2025-02-14,12:39,Consult,Completed,12:48,13:43,9
+2271,329,3,6,2025-07-01,10:35,Follow-up,Completed,11:20,11:34,45
+2272,340,4,5,2026-01-17,10:37,Consult,Completed,10:58,11:42,21
+2273,5,4,5,2026-08-20,09:52,Annual Physical,Completed,10:03,10:48,11
+2274,157,25,1,2025-05-17,08:00,Procedure,Completed,08:06,08:52,6
+2275,255,15,6,2026-06-22,16:11,Annual Physical,No-Show,,,
+2276,267,11,1,2026-02-02,14:51,Procedure,Cancelled,,,
+2277,384,10,2,2025-05-02,15:25,Follow-up,No-Show,,,
+2278,152,22,2,2025-07-04,09:54,Follow-up,Completed,10:34,11:11,40
+2279,99,6,2,2025-01-18,13:12,New Patient,Completed,13:25,13:45,13
+2280,408,4,5,2025-10-16,16:17,Consult,Completed,17:01,17:55,44
+2281,315,15,6,2025-06-07,14:56,Consult,Completed,15:29,16:18,33
+2282,50,21,6,2025-06-14,16:46,New Patient,No-Show,,,
+2283,377,18,1,2025-01-21,08:58,Procedure,No-Show,,,
+2284,217,14,4,2025-01-22,10:52,New Patient,Completed,10:47,11:19,0
+2285,277,11,1,2025-07-18,14:45,New Patient,No-Show,,,
+2286,2,11,1,2025-02-17,13:34,Annual Physical,No-Show,,,
+2287,126,17,2,2025-08-29,08:01,Consult,Cancelled,,,
+2288,353,6,2,2026-03-04,10:55,Consult,Completed,10:53,11:06,0
+2289,222,6,2,2026-04-14,15:26,Follow-up,No-Show,,,
+2290,91,18,1,2025-07-31,16:33,Procedure,Completed,17:11,18:11,38
+2291,418,16,6,2026-02-22,09:25,Annual Physical,Completed,10:00,10:17,35
+2292,416,25,1,2026-02-17,11:01,Procedure,Completed,11:02,11:27,1
+2293,398,4,5,2025-01-01,09:16,Follow-up,No-Show,,,
+2294,340,17,2,2025-06-10,11:25,Consult,No-Show,,,
+2295,79,4,5,2026-07-08,16:40,Annual Physical,No-Show,,,
+2296,96,15,6,2026-09-07,09:04,Procedure,Completed,09:19,10:14,15
+2297,359,1,6,2026-02-20,16:13,Procedure,Completed,,,
+2298,387,21,6,2026-01-15,10:51,Consult,Completed,11:19,11:35,28
+2299,127,25,1,2025-03-18,10:10,Consult,Completed,10:33,11:09,23
+2300,356,4,5,2025-12-27,15:09,Consult,Completed,15:45,16:10,36
+2301,339,16,6,2025-07-02,08:17,Procedure,No-Show,,,
+2302,193,12,3,2026-02-13,14:33,Consult,No-Show,,,
+2303,182,19,6,2025-04-07,10:21,Procedure,Cancelled,,,
+2304,105,10,2,2026-06-04,10:46,Annual Physical,Cancelled,,,
+2305,115,20,3,2025-10-07,15:25,Procedure,Completed,16:07,16:36,42
+2306,312,1,6,2026-04-01,12:34,Follow-up,Completed,13:17,14:06,43
+2307,156,3,6,2026-03-25,14:45,New Patient,Completed,15:15,15:25,30
+2308,158,22,2,2026-05-25,12:21,Annual Physical,Completed,12:59,13:48,38
+2309,142,3,6,2026-06-06,11:18,Consult,Completed,11:32,11:49,14
+2310,235,17,2,2025-12-18,11:31,Consult,Completed,12:00,12:44,29
+2311,398,19,6,2026-07-01,08:28,Annual Physical,Cancelled,,,
+2312,162,1,6,2026-09-12,10:50,Procedure,Completed,10:45,11:15,0
+2313,17,6,2,2026-02-13,10:22,New Patient,Completed,10:42,11:17,20
+2314,32,1,6,2026-07-12,11:03,Consult,Cancelled,,,
+2315,130,12,3,2026-06-17,09:46,New Patient,No-Show,,,
+2316,285,18,1,2026-08-10,11:14,Annual Physical,Completed,11:39,12:08,25
+2317,122,20,3,2026-09-02,16:05,New Patient,Cancelled,,,
+2318,284,12,3,2026-03-02,12:02,Follow-up,Completed,12:25,13:25,-1
+2319,109,2,3,2025-12-20,14:39,New Patient,Completed,15:11,16:10,32
+2320,9,12,3,2026-02-01,12:59,Consult,Completed,13:10,14:09,11
+2321,278,22,2,2025-10-29,15:22,Consult,Completed,15:20,16:02,0
+2322,10,21,6,2025-05-02,16:03,Procedure,No-Show,,,
+2323,330,2,3,2025-02-01,09:55,Procedure,No-Show,,,
+2324,191,23,4,2025-05-06,08:48,Annual Physical,No-Show,,,
+2325,152,10,2,2025-09-16,10:14,Consult,Completed,10:11,10:46,0
+2326,217,18,1,2026-02-15,14:23,Annual Physical,No-Show,,,
+2327,20,13,1,2025-05-26,10:09,Annual Physical,Completed,10:26,11:15,17
+2328,71,11,1,2026-03-12,11:02,Follow-up,No-Show,,,
+2329,64,20,3,2025-01-09,13:39,Follow-up,No-Show,,,
+2330,326,21,6,2025-10-29,15:30,Annual Physical,Completed,15:56,16:25,26
+2331,278,10,2,2025-11-30,14:21,Follow-up,Completed,14:54,15:31,33
+2332,419,8,5,2026-07-02,11:50,New Patient,Cancelled,,,
+2333,251,3,6,2025-05-21,12:54,Annual Physical,Cancelled,,,
+2334,112,4,5,2025-06-20,08:57,Follow-up,Completed,09:17,09:35,20
+2335,35,23,4,2026-04-29,12:02,Procedure,No-Show,,,
+2336,254,6,2,2026-03-12,12:37,Consult,Completed,13:18,13:43,41
+2337,365,22,2,2025-11-25,13:32,Follow-up,No-Show,,,
+2338,300,22,2,2025-11-09,10:54,Follow-up,Cancelled,,,
+2339,365,11,1,2025-04-14,14:55,Consult,Completed,15:10,15:51,15
+2340,35,2,3,2025-12-11,08:53,New Patient,Completed,09:11,09:40,18
+2341,233,10,2,2025-10-03,16:02,Annual Physical,No-Show,,,
+2342,327,7,6,2026-01-01,10:24,Procedure,Cancelled,,,
+2343,271,24,6,2025-10-30,09:54,New Patient,Completed,10:11,10:58,17
+2344,293,15,6,2025-07-24,12:26,Consult,Cancelled,,,
+2345,105,2,3,2025-12-08,11:56,Consult,Completed,12:25,12:36,29
+2346,112,14,4,2025-03-27,09:10,Follow-up,No-Show,,,
+2347,330,17,2,2026-09-08,11:06,New Patient,Completed,11:33,12:13,27
+2348,416,18,1,2025-03-11,14:01,Procedure,No-Show,,,
+2349,279,16,6,2025-07-21,08:09,Consult,Cancelled,,,
+2350,223,6,2,2025-11-20,09:04,Follow-up,Cancelled,,,
+2351,63,15,6,2025-11-10,14:58,Follow-up,Cancelled,,,
+2352,168,24,6,2025-08-20,16:14,New Patient,Completed,16:15,16:57,1
+2353,218,22,2,2026-05-05,11:12,Annual Physical,Cancelled,,,
+2354,196,16,6,2025-03-31,16:10,Procedure,Completed,16:15,17:02,5
+2355,34,10,2,2025-08-18,11:34,Follow-up,Completed,12:06,12:54,32
+2356,323,14,4,2025-09-26,13:49,Consult,Completed,14:21,15:07,-1
+2357,58,2,3,2026-06-30,13:48,Follow-up,Completed,14:19,14:30,31
+2358,351,23,4,2025-12-15,10:47,New Patient,Completed,11:16,12:04,29
+2359,148,6,2,2025-10-29,14:39,Consult,Cancelled,,,
+2360,398,17,2,2025-11-01,15:48,Annual Physical,Completed,16:11,16:31,23
+2361,397,16,6,2025-12-03,13:56,Follow-up,Completed,14:24,15:21,28
+2362,92,5,1,2025-03-15,15:31,Procedure,Completed,16:12,16:56,41
+2363,324,3,6,2025-05-21,13:06,Consult,Completed,13:13,14:03,7
+2364,42,15,6,2025-01-15,13:36,Consult,Completed,13:50,14:16,14
+2365,405,9,2,2025-07-31,15:15,Follow-up,Completed,15:43,16:18,28
+2366,94,24,6,2025-08-11,08:30,Consult,No-Show,,,
+2367,258,11,1,2026-03-21,09:56,Consult,Completed,10:06,10:55,10
+2368,276,3,6,2025-10-09,13:44,New Patient,Completed,13:40,14:37,0
+2369,369,19,6,2025-06-20,09:47,Procedure,Completed,10:18,10:31,31
+2370,218,14,4,2026-08-23,11:32,Annual Physical,No-Show,,,
+2371,46,21,6,2025-11-17,16:36,New Patient,Completed,17:19,18:15,43
+2372,394,22,2,2025-11-23,11:19,Procedure,No-Show,,,
+2373,11,24,6,2025-05-05,10:04,Follow-up,Completed,,,
+2374,128,18,1,2025-05-09,16:05,Follow-up,Cancelled,,,
+2375,331,11,1,2025-12-24,10:04,Procedure,No-Show,,,
+2376,22,19,6,2025-03-02,13:35,New Patient,Completed,14:02,14:57,27
+2377,32,5,1,2025-11-03,11:37,Follow-up,Completed,11:57,12:11,20
+2378,408,17,2,2026-05-24,11:30,Procedure,Completed,,,
+2379,354,12,3,2026-06-06,14:50,Follow-up,Completed,14:58,15:30,8
+2380,361,1,6,2025-12-08,13:29,New Patient,Completed,13:47,14:37,18
+2381,127,3,6,2025-12-09,14:35,Follow-up,Completed,15:07,15:48,32
+2382,405,4,5,2025-04-14,14:28,Follow-up,Cancelled,,,
+2383,202,22,2,2025-02-13,10:17,Follow-up,Completed,10:42,11:23,-3
+2384,279,20,3,2026-03-08,14:27,New Patient,Completed,14:43,15:08,16
+2385,194,9,2,2025-09-20,09:10,New Patient,Completed,09:07,09:23,0
+2386,166,21,6,2025-07-29,13:42,Annual Physical,Completed,,,
+2387,192,4,5,2025-02-08,11:13,Consult,Completed,11:08,11:26,0
+2388,136,5,1,2026-05-14,15:09,Procedure,No-Show,,,
+2389,69,17,2,2025-04-15,12:29,Annual Physical,Cancelled,,,
+2390,233,4,5,2026-06-26,11:55,Annual Physical,Completed,12:40,13:03,45
+2391,295,2,3,2026-03-05,16:27,Annual Physical,Completed,17:06,18:04,39
+2392,311,21,6,2025-01-04,10:57,Consult,No-Show,,,
+2393,275,25,1,2025-10-12,16:41,Annual Physical,Completed,16:56,17:54,15
+2394,362,8,5,2025-12-03,15:44,Procedure,No-Show,,,
+2395,64,15,6,2025-09-30,11:21,Procedure,Completed,11:51,12:36,30
+2396,388,13,1,2025-10-05,08:35,Annual Physical,No-Show,,,
+2397,107,19,6,2026-05-31,16:55,Consult,Completed,17:21,17:44,26
+2398,383,12,3,2026-06-09,11:47,Follow-up,No-Show,,,
+2399,208,10,2,2026-05-02,15:40,Annual Physical,Completed,15:41,16:05,1
+2400,319,4,5,2025-12-24,11:17,Procedure,Completed,11:13,11:34,0
+2401,179,9,2,2025-06-20,08:40,New Patient,Cancelled,,,
+2402,336,6,2,2025-08-27,09:27,New Patient,Completed,10:08,10:59,41
+2403,4,9,2,2025-10-14,09:07,New Patient,Completed,09:47,10:41,40
+2404,361,9,2,2025-04-13,11:40,Annual Physical,No-Show,,,
+2405,191,25,1,2025-09-03,09:17,Consult,Completed,09:42,10:37,25
+2406,325,5,1,2025-05-28,12:43,Procedure,Completed,12:39,13:26,0
+2407,78,24,6,2026-02-04,12:21,Procedure,Completed,12:29,12:50,8
+2408,254,10,2,2025-05-28,11:09,New Patient,Cancelled,,,
+2409,136,23,4,2025-08-08,10:56,New Patient,Completed,10:57,11:41,1
+2410,99,10,2,2026-01-27,16:58,New Patient,Completed,17:37,18:11,39
+2411,77,18,1,2026-02-13,15:39,New Patient,No-Show,,,
+2412,78,25,1,2025-02-05,08:32,Annual Physical,Completed,09:16,10:16,44
+2413,213,24,6,2025-05-19,09:11,Annual Physical,Completed,09:18,09:54,7
+2414,6,11,1,2026-04-22,16:07,Annual Physical,Completed,16:03,16:16,0
+2415,171,19,6,2025-01-13,08:26,Follow-up,Completed,09:00,09:39,34
+2416,18,21,6,2026-04-08,10:55,New Patient,No-Show,,,
+2417,56,7,6,2026-07-08,14:29,New Patient,Completed,15:11,15:53,42
+2418,200,16,6,2025-05-26,11:10,New Patient,Completed,11:21,11:51,11
+2419,144,24,6,2026-02-22,09:54,New Patient,Completed,10:25,10:45,31
+2420,36,16,6,2025-01-07,15:45,Annual Physical,Cancelled,,,
+2421,126,14,4,2025-02-25,10:28,Annual Physical,No-Show,,,
+2422,151,5,1,2025-07-08,14:09,New Patient,No-Show,,,
+2423,332,13,1,2025-01-16,10:27,Follow-up,Cancelled,,,
+2424,110,19,6,2025-10-04,09:24,New Patient,No-Show,,,
+2425,299,9,2,2025-11-09,15:36,Follow-up,Completed,,,
+2426,346,6,2,2026-03-07,14:01,New Patient,Cancelled,,,
+2427,116,5,1,2026-04-27,14:58,Procedure,Completed,15:31,16:00,-3
+2428,139,12,3,2026-01-03,13:59,Procedure,Completed,13:56,14:14,0
+2429,57,11,1,2026-07-04,09:33,Procedure,No-Show,,,
+2430,277,13,1,2025-10-20,15:03,Procedure,Cancelled,,,
+2431,285,14,4,2026-06-11,15:11,Follow-up,No-Show,,,
+2432,238,13,1,2025-03-02,08:09,Consult,Completed,08:21,08:50,-4
+2433,225,22,2,2026-07-25,09:30,New Patient,Completed,10:01,10:13,31
+2434,291,5,1,2025-03-29,15:27,New Patient,Cancelled,,,
+2435,26,13,1,2026-08-08,11:26,Consult,Completed,12:07,12:57,41
+2436,167,8,5,2025-10-13,12:35,Procedure,Completed,12:47,13:25,12
+2437,81,4,5,2025-08-18,17:00,Annual Physical,Completed,17:12,17:49,12
+2438,5,6,2,2025-03-09,10:50,Procedure,No-Show,,,
+2439,352,24,6,2025-06-01,08:14,Annual Physical,Cancelled,,,
+2440,1,7,6,2025-08-12,08:02,New Patient,Completed,07:58,08:43,0
+2441,150,24,6,2026-02-17,15:44,Consult,No-Show,,,
+2442,57,20,3,2025-01-05,08:03,Consult,Completed,08:34,09:33,31
+2443,63,9,2,2025-05-02,14:55,New Patient,Completed,15:27,15:42,32
+2444,322,5,1,2025-08-29,10:22,Follow-up,Completed,10:46,11:43,24
+2445,396,19,6,2026-04-16,08:45,New Patient,Completed,09:14,10:14,29
+2446,43,18,1,2026-03-12,16:11,Procedure,Cancelled,,,
+2447,126,2,3,2025-02-21,08:23,Consult,Completed,08:50,09:17,27
+2448,61,4,5,2025-09-08,15:36,New Patient,Completed,16:04,16:19,28
+2449,285,21,6,2026-01-14,12:25,Consult,Cancelled,,,
+2450,73,25,1,2026-08-11,13:16,New Patient,No-Show,,,
+2451,97,21,6,2025-09-24,08:12,Annual Physical,Completed,08:20,08:50,8
+2452,211,1,6,2026-04-03,13:29,Consult,Completed,14:02,14:50,33
+2453,361,9,2,2026-02-19,15:22,Follow-up,Completed,16:02,16:15,40
+2454,137,21,6,2025-01-17,10:22,New Patient,Completed,11:01,11:43,39
+2455,114,17,2,2026-04-03,12:55,Follow-up,Completed,,,
+2456,178,17,2,2025-03-13,16:28,Annual Physical,Cancelled,,,
+2457,70,15,6,2025-08-21,14:07,Procedure,No-Show,,,
+2458,160,6,2,2025-08-16,13:52,New Patient,Completed,13:47,14:15,0
+2459,396,18,1,2025-05-23,13:39,Consult,Completed,13:41,14:34,2
+2460,91,21,6,2025-12-02,13:54,New Patient,Completed,14:07,14:59,13
+2461,17,2,3,2026-04-21,10:57,New Patient,No-Show,,,
+2462,136,14,4,2026-02-23,08:24,New Patient,Completed,08:27,09:12,3
+2463,45,1,6,2025-04-02,10:59,Follow-up,No-Show,,,
+2464,291,24,6,2026-03-14,09:10,New Patient,Cancelled,,,
+2465,65,1,6,2025-09-28,14:23,Procedure,Completed,15:05,15:42,42
+2466,418,25,1,2025-09-22,13:19,New Patient,Completed,13:33,14:24,14
+2467,226,14,4,2025-08-13,13:07,New Patient,Completed,13:08,13:57,1
+2468,188,16,6,2025-07-29,13:16,Follow-up,Completed,13:27,13:52,11
+2469,43,16,6,2026-02-24,10:53,Annual Physical,No-Show,,,
+2470,388,4,5,2025-05-10,15:49,Procedure,No-Show,,,
+2471,232,1,6,2026-06-06,14:41,Procedure,Completed,14:58,15:52,17
+2472,67,9,2,2025-03-20,15:32,Consult,Completed,15:55,16:37,23
+2473,320,10,2,2026-04-30,15:58,Follow-up,Completed,16:30,16:43,32
+2474,19,14,4,2025-04-22,16:42,Consult,Cancelled,,,
+2475,290,16,6,2025-11-05,10:29,Follow-up,No-Show,,,
+2476,161,9,2,2025-08-03,13:14,Annual Physical,Completed,13:55,14:31,41
+2477,281,5,1,2025-04-24,10:34,Annual Physical,Completed,11:19,12:09,45
+2478,378,25,1,2025-12-31,10:47,Annual Physical,Cancelled,,,
+2479,295,6,2,2025-01-18,14:49,Annual Physical,Cancelled,,,
+2480,330,3,6,2025-05-07,09:43,Procedure,Completed,10:27,10:49,44
+2481,76,15,6,2025-09-13,08:02,Follow-up,Completed,08:16,08:40,14
+2482,148,17,2,2026-05-30,11:03,Consult,Completed,11:31,11:58,28
+2483,12,13,1,2026-02-19,12:25,Annual Physical,Completed,12:26,12:42,1
+2484,83,12,3,2025-11-15,11:20,New Patient,Cancelled,,,
+2485,411,24,6,2025-07-10,12:13,New Patient,Completed,,,
+2486,313,24,6,2026-06-25,15:14,Follow-up,Completed,15:40,15:59,26
+2487,259,13,1,2025-02-24,08:59,Follow-up,No-Show,,,
+2488,32,23,4,2025-07-26,09:47,Procedure,Completed,10:17,11:04,30
+2489,26,3,6,2025-04-02,12:42,New Patient,Completed,12:50,13:19,8
+2490,60,8,5,2025-04-20,16:28,Consult,Completed,16:52,17:50,24
+2491,400,24,6,2025-04-18,14:37,Annual Physical,No-Show,,,
+2492,351,23,4,2025-02-22,16:39,New Patient,Cancelled,,,
+2493,298,21,6,2025-10-19,15:57,Annual Physical,Completed,16:15,16:25,18
+2494,225,11,1,2025-08-17,13:45,Follow-up,Completed,,,
+2495,86,18,1,2026-06-26,15:34,New Patient,Completed,15:59,16:17,25
+2496,29,23,4,2025-08-21,15:59,Procedure,Completed,,,
+2497,354,17,2,2025-04-24,16:01,Follow-up,No-Show,,,
+2498,104,22,2,2026-09-03,14:33,Procedure,Cancelled,,,
+2499,252,25,1,2025-05-04,11:22,Annual Physical,Completed,11:31,11:43,9
+2500,55,1,6,2025-07-06,12:53,New Patient,Completed,13:31,14:27,38
+2501,181,15,6,2026-05-28,08:32,Follow-up,Completed,09:08,09:34,36
+2502,409,25,1,2025-05-19,11:38,Follow-up,Completed,11:43,12:00,5
+2503,197,20,3,2026-01-27,14:00,Annual Physical,Completed,14:20,15:12,20
+2504,227,22,2,2026-01-01,09:07,Consult,Completed,09:46,10:03,39
+2505,187,23,4,2025-05-26,09:31,New Patient,Cancelled,,,
+2506,377,4,5,2026-02-21,13:05,Procedure,No-Show,,,
+2507,38,1,6,2026-05-07,08:09,Follow-up,No-Show,,,
+2508,187,2,3,2026-06-20,12:24,Annual Physical,No-Show,,,
+2509,109,23,4,2025-04-26,11:47,Follow-up,Completed,12:00,12:44,13
+2510,113,1,6,2025-01-11,13:08,Procedure,Completed,13:41,13:55,33
+2511,118,2,3,2025-05-31,09:43,New Patient,Cancelled,,,
+2512,194,16,6,2026-01-09,14:37,Procedure,Cancelled,,,
+2513,366,8,5,2025-08-25,13:37,Annual Physical,No-Show,,,
+2514,282,3,6,2025-04-06,08:03,New Patient,Cancelled,,,
+2515,420,4,5,2025-10-10,16:30,Annual Physical,Completed,17:14,17:33,44
+2516,300,14,4,2025-05-06,13:27,Follow-up,Completed,13:57,14:28,30
+2517,57,5,1,2026-07-14,09:18,Procedure,Completed,09:34,09:50,16
+2518,392,19,6,2026-05-25,16:38,Annual Physical,Completed,16:56,17:22,18
+2519,328,2,3,2026-09-05,15:52,Follow-up,No-Show,,,
+2520,376,13,1,2025-01-20,10:37,Annual Physical,Cancelled,,,
+2521,223,25,1,2026-01-14,12:46,Procedure,Completed,,,
+2522,34,15,6,2025-04-15,08:27,Follow-up,Completed,08:25,09:07,0
+2523,413,9,2,2026-05-08,11:55,New Patient,Completed,12:03,12:19,8
+2524,117,17,2,2025-01-17,11:10,Annual Physical,Completed,11:09,11:38,0
+2525,236,22,2,2025-07-05,14:32,Follow-up,Completed,15:03,15:24,31
+2526,202,22,2,2026-06-25,14:52,Procedure,No-Show,,,
+2527,96,18,1,2026-06-13,13:07,Procedure,Completed,13:28,14:05,-7
+2528,350,7,6,2025-05-28,16:09,Follow-up,Completed,16:25,16:48,16
+2529,206,16,6,2026-03-04,10:21,Consult,Cancelled,,,
+2530,65,7,6,2026-06-26,15:21,Procedure,Completed,15:54,16:07,33
+2531,16,9,2,2026-06-14,16:55,Consult,Completed,17:33,17:57,38
+2532,400,12,3,2025-08-29,12:25,Annual Physical,Completed,13:10,13:21,45
+2533,310,25,1,2025-05-29,16:05,Consult,No-Show,,,
+2534,215,24,6,2025-03-27,13:35,Procedure,Completed,13:57,14:23,22
+2535,350,21,6,2025-11-26,15:01,New Patient,Completed,15:43,16:23,42
+2536,256,23,4,2025-12-14,13:52,Follow-up,Cancelled,,,
+2537,224,3,6,2026-08-24,08:28,Consult,No-Show,,,
+2538,133,5,1,2025-07-05,16:08,Procedure,No-Show,,,
+2539,384,5,1,2026-04-12,11:31,New Patient,No-Show,,,
+2540,362,6,2,2025-06-29,10:30,New Patient,Completed,,,
+2541,238,12,3,2026-05-17,15:16,New Patient,Completed,15:42,15:58,26
+2542,151,6,2,2026-07-11,14:20,Annual Physical,Completed,14:32,15:17,12
+2543,17,12,3,2025-06-29,09:46,Consult,Completed,09:41,10:04,0
+2544,96,1,6,2025-07-04,15:03,Consult,Completed,14:58,15:14,0
+2545,95,22,2,2026-02-12,12:35,New Patient,Completed,12:33,13:10,0
+2546,231,15,6,2025-01-20,11:41,Procedure,Completed,11:48,12:26,7
+2547,176,22,2,2025-01-12,08:33,Consult,Cancelled,,,
+2548,102,7,6,2025-07-09,15:03,Follow-up,Completed,15:14,15:41,11
+2549,58,15,6,2025-06-13,12:45,Procedure,Completed,,,
+2550,114,19,6,2025-02-03,14:47,Annual Physical,Cancelled,,,
+2551,32,6,2,2025-12-25,13:32,Consult,Completed,13:41,14:38,9
+2552,359,6,2,2026-05-21,11:04,New Patient,Completed,11:09,11:55,5
+2553,179,21,6,2025-02-18,13:05,Procedure,Completed,13:03,13:21,0
+2554,232,13,1,2025-12-06,10:55,Follow-up,Completed,11:25,12:16,30
+2555,302,16,6,2025-09-29,14:22,Procedure,Completed,15:03,15:13,41
+2556,155,1,6,2026-03-05,16:27,Procedure,Cancelled,,,
+2557,12,6,2,2025-02-15,08:10,Consult,Completed,,,
+2558,96,25,1,2025-03-21,14:20,Follow-up,Cancelled,,,
+2559,318,2,3,2025-10-14,12:25,Consult,Completed,12:22,13:09,0
+2560,179,7,6,2025-09-11,11:31,New Patient,No-Show,,,
+2561,86,8,5,2026-01-02,09:08,Follow-up,Completed,09:26,10:17,18
+2562,31,4,5,2025-08-20,13:45,Annual Physical,Cancelled,,,
+2563,408,23,4,2025-02-04,11:51,Consult,Completed,12:18,13:03,27
+2564,402,7,6,2025-07-18,12:11,Follow-up,No-Show,,,
+2565,151,8,5,2026-02-08,10:47,Procedure,Completed,10:50,11:00,-10
+2566,383,24,6,2026-07-06,11:56,Follow-up,Completed,12:41,13:08,45
+2567,297,2,3,2026-03-31,13:41,Procedure,Completed,13:56,14:45,15
+2568,29,4,5,2025-05-27,12:08,Procedure,Completed,12:15,12:29,7
+2569,191,9,2,2025-06-13,09:07,Procedure,Completed,09:13,10:01,6
+2570,48,19,6,2025-07-28,15:38,Consult,Cancelled,,,
+2571,408,4,5,2026-08-24,10:15,Procedure,No-Show,,,
+2572,229,3,6,2025-08-23,09:42,Annual Physical,Completed,09:51,10:47,9
+2573,141,16,6,2025-11-23,10:34,Procedure,Completed,10:45,11:19,11
+2574,360,1,6,2026-03-12,10:03,Follow-up,Completed,09:59,10:09,0
+2575,380,18,1,2025-10-03,13:22,Annual Physical,No-Show,,,
+2576,32,7,6,2025-06-20,09:48,Annual Physical,Completed,10:27,10:51,39
+2577,163,4,5,2025-10-05,11:34,New Patient,No-Show,,,
+2578,298,21,6,2025-04-18,13:06,New Patient,No-Show,,,
+2579,265,15,6,2026-05-12,15:52,Annual Physical,No-Show,,,
+2580,239,20,3,2025-05-10,14:23,Follow-up,Cancelled,,,
+2581,79,3,6,2026-05-29,12:01,Annual Physical,Cancelled,,,
+2582,359,18,1,2025-04-23,11:04,Annual Physical,Completed,11:48,12:32,44
+2583,253,21,6,2026-01-27,11:23,Follow-up,No-Show,,,
+2584,388,6,2,2026-08-27,15:20,New Patient,Cancelled,,,
+2585,184,20,3,2025-02-28,10:49,Procedure,Cancelled,,,
+2586,367,18,1,2025-10-24,15:23,New Patient,Cancelled,,,
+2587,267,11,1,2026-05-31,14:07,Consult,Completed,14:14,15:11,7
+2588,165,23,4,2026-03-24,16:09,Procedure,No-Show,,,
+2589,404,6,2,2025-01-19,16:40,Procedure,Cancelled,,,
+2590,247,5,1,2026-08-22,10:52,Annual Physical,Cancelled,,,
+2591,111,25,1,2025-11-23,14:22,Consult,Completed,14:42,15:02,20
+2592,180,1,6,2025-04-19,11:07,Procedure,Cancelled,,,
+2593,87,25,1,2025-11-04,15:37,Consult,No-Show,,,
+2594,211,7,6,2026-08-27,12:17,New Patient,No-Show,,,
+2595,47,6,2,2025-06-16,12:11,New Patient,Cancelled,,,
+2596,148,19,6,2026-08-11,10:59,New Patient,Completed,11:44,11:54,45
+2597,202,6,2,2026-03-31,08:40,Procedure,No-Show,,,
+2598,205,1,6,2025-09-26,13:50,Consult,Completed,14:08,14:45,18
+2599,146,21,6,2025-02-10,08:19,Consult,No-Show,,,
+2600,39,2,3,2025-03-28,11:44,Annual Physical,No-Show,,,
+2601,391,7,6,2026-07-06,11:01,Follow-up,No-Show,,,
+2602,153,15,6,2025-04-06,09:28,Follow-up,Completed,09:47,09:57,19
+2603,11,17,2,2025-05-28,15:52,New Patient,Completed,16:07,16:42,15
+2604,351,24,6,2026-03-05,08:56,Procedure,Completed,08:59,09:34,3
+2605,366,12,3,2025-01-11,08:15,Annual Physical,Completed,08:24,09:03,9
+2606,47,15,6,2026-03-12,10:30,New Patient,No-Show,,,
+2607,106,7,6,2026-02-25,09:57,Consult,Completed,10:08,10:36,11
+2608,154,5,1,2025-07-24,09:41,Annual Physical,Completed,09:53,10:21,12
+2609,236,6,2,2026-04-21,16:01,Consult,Completed,16:19,16:59,18
+2610,386,2,3,2026-03-09,11:33,Consult,Cancelled,,,
+2611,150,6,2,2025-02-16,12:44,New Patient,Completed,13:09,13:39,25
+2612,282,15,6,2025-01-21,09:28,Consult,Completed,10:02,10:48,34
+2613,94,2,3,2025-06-22,12:53,Follow-up,Completed,13:16,13:45,23
+2614,394,16,6,2025-06-22,11:44,Annual Physical,Cancelled,,,
+2615,220,25,1,2025-12-10,11:21,Procedure,Completed,11:52,12:18,31
+2616,6,6,2,2026-01-03,13:00,Annual Physical,Completed,13:42,14:06,42
+2617,215,18,1,2026-08-05,08:42,Procedure,Cancelled,,,
+2618,89,7,6,2026-06-13,15:24,New Patient,Cancelled,,,
+2619,335,1,6,2025-01-04,13:47,Consult,No-Show,,,
+2620,173,21,6,2025-11-17,16:13,Follow-up,Cancelled,,,
+2621,47,13,1,2025-10-13,12:00,Consult,Cancelled,,,
+2622,309,1,6,2025-02-03,11:45,Consult,Completed,11:44,12:10,0
+2623,251,21,6,2026-02-25,09:36,Follow-up,Cancelled,,,
+2624,234,17,2,2026-06-20,12:28,Follow-up,Cancelled,,,
+2625,235,2,3,2026-02-10,14:24,Consult,Completed,15:07,15:45,43
+2626,180,14,4,2025-09-20,15:04,Follow-up,Completed,15:42,16:16,38
+2627,415,3,6,2026-01-12,13:04,Consult,Completed,13:22,14:05,18
+2628,31,5,1,2026-04-09,16:06,Consult,No-Show,,,
+2629,57,1,6,2026-06-14,13:15,New Patient,Cancelled,,,
+2630,358,15,6,2026-07-30,14:34,Annual Physical,Completed,14:44,15:17,10
+2631,18,11,1,2025-02-07,11:53,Procedure,No-Show,,,
+2632,137,14,4,2026-08-30,16:41,Follow-up,No-Show,,,
+2633,14,13,1,2026-05-10,15:30,New Patient,No-Show,,,
+2634,419,13,1,2026-04-28,10:03,Follow-up,Completed,10:09,11:06,6
+2635,244,19,6,2025-10-15,09:23,New Patient,Completed,10:07,10:49,44
+2636,221,11,1,2025-08-12,16:34,Consult,Cancelled,,,
+2637,414,2,3,2026-02-01,16:02,Consult,No-Show,,,
+2638,213,7,6,2025-11-08,10:53,Consult,Completed,11:20,12:18,27
+2639,380,11,1,2025-11-27,08:22,Consult,Cancelled,,,
+2640,71,5,1,2025-05-01,15:46,Annual Physical,Completed,16:22,17:07,36
+2641,40,18,1,2026-02-16,15:33,Procedure,Completed,15:53,16:16,20
+2642,36,13,1,2025-06-16,08:15,Follow-up,Completed,08:47,09:34,32
+2643,316,3,6,2026-08-04,10:43,New Patient,Completed,11:13,11:32,30
+2644,394,7,6,2025-08-27,15:54,Procedure,Completed,16:36,16:46,42
+2645,158,20,3,2025-09-26,10:55,Consult,Completed,,,
+2646,368,23,4,2026-08-29,12:00,Follow-up,Completed,12:15,12:44,15
+2647,355,1,6,2025-04-26,12:49,Consult,Cancelled,,,
+2648,313,14,4,2026-04-06,08:27,Consult,Completed,08:33,08:47,6
+2649,225,7,6,2025-01-03,14:16,Consult,Cancelled,,,
+2650,272,6,2,2025-10-06,11:57,Consult,Completed,12:39,13:38,42
+2651,416,2,3,2025-05-31,09:17,Consult,Completed,09:19,09:55,2
+2652,3,13,1,2026-01-21,12:37,New Patient,No-Show,,,
+2653,176,21,6,2026-06-25,08:53,Procedure,Completed,09:29,09:55,36
+2654,371,22,2,2025-05-26,16:43,Annual Physical,Completed,16:38,17:00,0
+2655,59,16,6,2025-02-25,10:39,Annual Physical,Completed,10:36,11:14,0
+2656,263,21,6,2026-07-07,08:32,New Patient,Completed,08:56,09:16,24
+2657,308,14,4,2026-07-18,10:58,Annual Physical,Cancelled,,,
+2658,270,11,1,2025-01-31,08:19,Follow-up,Completed,08:47,09:29,28
+2659,290,6,2,2026-04-24,12:42,New Patient,Completed,,,
+2660,304,22,2,2025-04-26,14:34,Follow-up,Completed,14:59,15:34,-1
+2661,272,5,1,2025-01-18,12:05,New Patient,Completed,12:29,12:42,24
+2662,216,7,6,2025-09-28,12:47,Follow-up,Cancelled,,,
+2663,167,20,3,2026-01-26,11:08,Annual Physical,Cancelled,,,
+2664,268,22,2,2026-05-12,08:06,Follow-up,Completed,08:01,08:58,0
+2665,337,5,1,2025-11-02,10:46,Follow-up,Cancelled,,,
+2666,209,20,3,2025-01-20,09:32,Follow-up,No-Show,,,
+2667,235,12,3,2025-09-12,08:09,Consult,No-Show,,,
+2668,137,19,6,2026-04-08,14:54,Follow-up,Completed,15:28,16:02,34
+2669,68,25,1,2025-10-28,12:08,Annual Physical,Completed,12:11,13:09,3
+2670,181,12,3,2025-08-16,15:15,Consult,Cancelled,,,
+2671,386,3,6,2026-06-30,15:30,Annual Physical,Cancelled,,,
+2672,348,1,6,2025-09-06,14:49,Consult,Cancelled,,,
+2673,280,5,1,2025-05-02,14:00,Procedure,Completed,14:26,14:51,26
+2674,365,13,1,2026-02-25,10:35,Follow-up,No-Show,,,
+2675,119,14,4,2025-02-09,14:30,Procedure,Completed,15:03,16:02,33
+2676,146,19,6,2025-03-17,10:12,Consult,Cancelled,,,
+2677,159,19,6,2026-05-12,10:58,New Patient,No-Show,,,
+2678,132,6,2,2026-09-12,16:57,Follow-up,Completed,17:02,17:38,5
+2679,197,14,4,2026-02-12,09:14,Consult,Completed,09:46,10:22,32
+2680,194,20,3,2026-08-28,10:38,Consult,Completed,11:23,12:19,45
+2681,385,18,1,2026-05-04,14:49,Consult,Completed,15:13,16:08,24
+2682,191,25,1,2026-03-21,08:12,New Patient,Cancelled,,,
+2683,127,9,2,2026-06-22,10:56,Consult,Completed,11:07,11:55,11
+2684,103,20,3,2026-06-25,11:14,New Patient,Completed,11:18,11:36,-2
+2685,149,10,2,2025-02-20,15:57,Follow-up,Completed,16:31,17:27,34
+2686,406,10,2,2025-08-21,08:34,Consult,Cancelled,,,
+2687,37,7,6,2025-11-04,10:01,Follow-up,Completed,10:29,11:15,28
+2688,326,18,1,2026-04-27,10:15,Consult,Completed,10:49,11:33,34
+2689,344,13,1,2025-11-01,10:43,Annual Physical,No-Show,,,
+2690,6,11,1,2025-06-04,08:56,Follow-up,Completed,09:05,09:36,9
+2691,249,14,4,2026-03-15,09:44,Annual Physical,Completed,10:14,11:03,30
+2692,292,25,1,2026-07-13,08:34,Procedure,Cancelled,,,
+2693,274,5,1,2025-01-05,09:27,Annual Physical,Completed,09:37,10:27,10
+2694,210,14,4,2025-04-13,16:58,Consult,Completed,17:14,17:54,16
+2695,376,21,6,2025-10-25,08:06,Follow-up,Cancelled,,,
+2696,408,10,2,2026-05-18,12:23,Follow-up,Completed,12:38,13:02,15
+2697,247,22,2,2025-11-20,14:54,New Patient,Completed,14:52,15:33,0
+2698,87,3,6,2026-05-24,13:58,Follow-up,Completed,14:19,14:34,21
+2699,92,2,3,2025-05-31,13:41,Consult,Completed,,,
+2700,102,17,2,2026-05-11,11:18,Procedure,No-Show,,,
+2701,21,7,6,2025-11-02,11:08,Annual Physical,Cancelled,,,
+2702,141,15,6,2025-10-21,08:00,Procedure,Cancelled,,,
+2703,221,1,6,2026-03-31,15:05,Follow-up,No-Show,,,
+2704,162,3,6,2025-01-06,16:01,Annual Physical,Completed,16:00,16:59,0
+2705,242,21,6,2025-02-04,14:05,Procedure,Completed,14:44,15:09,39
+2706,276,19,6,2025-12-22,09:20,Annual Physical,Cancelled,,,
+2707,197,7,6,2025-09-19,08:37,New Patient,Completed,09:07,10:07,-6
+2708,279,24,6,2025-03-22,09:37,Procedure,Cancelled,,,
+2709,134,9,2,2026-02-06,14:14,Consult,No-Show,,,
+2710,342,4,5,2026-02-12,08:48,Procedure,Completed,08:43,08:56,0
+2711,411,1,6,2025-11-15,13:26,New Patient,Cancelled,,,
+2712,277,9,2,2025-01-19,12:14,Consult,Completed,12:18,12:39,4
+2713,349,7,6,2026-08-26,14:31,Follow-up,Completed,15:15,16:12,44
+2714,191,18,1,2026-07-22,14:48,New Patient,Cancelled,,,
+2715,338,15,6,2026-07-01,08:12,Procedure,No-Show,,,
+2716,165,6,2,2025-12-13,09:32,Annual Physical,Completed,10:11,10:48,39
+2717,105,24,6,2025-08-31,13:50,Follow-up,Completed,13:57,14:10,7
+2718,240,10,2,2025-09-27,08:21,Consult,Completed,08:19,09:17,0
+2719,22,17,2,2026-09-12,16:14,Consult,Completed,16:19,16:31,5
+2720,307,23,4,2025-04-05,12:48,New Patient,No-Show,,,
+2721,48,7,6,2025-05-29,14:39,New Patient,Completed,14:40,15:11,1
+2722,288,2,3,2025-12-18,10:46,Follow-up,Completed,10:52,11:44,6
+2723,207,2,3,2025-10-30,15:45,Follow-up,No-Show,,,
+2724,10,11,1,2025-08-20,16:01,Procedure,Completed,16:26,16:53,25
+2725,246,24,6,2025-02-28,10:20,New Patient,No-Show,,,
+2726,228,25,1,2025-03-07,12:56,New Patient,Completed,13:30,14:16,34
+2727,140,14,4,2026-05-13,14:36,Follow-up,Completed,14:57,15:18,21
+2728,296,13,1,2025-01-03,14:12,New Patient,No-Show,,,
+2729,71,24,6,2026-01-29,09:15,Annual Physical,Completed,09:11,09:29,0
+2730,230,1,6,2025-08-10,14:37,Procedure,Completed,14:35,15:06,0
+2731,122,2,3,2026-02-10,14:45,Procedure,No-Show,,,
+2732,5,12,3,2025-02-15,10:12,New Patient,Completed,10:48,11:38,36
+2733,320,18,1,2026-08-25,10:03,Follow-up,Completed,10:35,10:47,32
+2734,31,24,6,2025-08-31,08:29,Annual Physical,No-Show,,,
+2735,70,1,6,2025-09-26,13:47,Follow-up,No-Show,,,
+2736,393,15,6,2026-01-15,15:58,Annual Physical,Completed,16:07,16:24,9
+2737,201,2,3,2025-02-20,15:20,Follow-up,Completed,15:44,16:16,24
+2738,152,22,2,2025-11-26,12:23,Consult,Cancelled,,,
+2739,71,2,3,2025-11-23,12:52,Consult,Completed,13:05,13:59,13
+2740,264,3,6,2025-05-08,08:16,New Patient,Completed,08:56,09:41,40
+2741,180,17,2,2025-08-05,12:50,Annual Physical,Cancelled,,,
+2742,204,13,1,2025-06-10,10:51,Annual Physical,Completed,10:55,11:12,4
+2743,162,23,4,2026-02-22,14:29,Follow-up,Completed,14:50,15:06,21
+2744,159,18,1,2026-03-10,08:31,New Patient,Completed,08:44,09:22,13
+2745,216,13,1,2025-01-17,10:14,Annual Physical,No-Show,,,
+2746,410,3,6,2026-01-10,16:36,New Patient,Cancelled,,,
+2747,37,12,3,2025-07-23,08:04,Procedure,Completed,08:13,09:06,9
+2748,217,16,6,2025-04-07,13:23,New Patient,Completed,13:40,14:23,17
+2749,67,6,2,2025-09-19,13:09,Follow-up,Completed,13:19,14:06,10
+2750,136,2,3,2026-01-20,12:30,Follow-up,Cancelled,,,
+2751,50,22,2,2025-11-24,15:58,New Patient,Completed,16:13,17:09,15
+2752,377,3,6,2026-06-22,14:47,Annual Physical,Completed,15:27,16:02,40
+2753,199,4,5,2026-07-22,12:00,Annual Physical,No-Show,,,
+2754,366,20,3,2026-05-22,12:30,Procedure,Completed,12:50,13:35,20
+2755,240,2,3,2025-07-10,12:08,Procedure,Completed,12:49,13:04,41
+2756,4,21,6,2025-04-13,11:10,New Patient,No-Show,,,
+2757,309,12,3,2026-03-19,16:20,Follow-up,No-Show,,,
+2758,98,5,1,2026-09-11,16:10,Follow-up,No-Show,,,
+2759,108,19,6,2026-02-19,12:56,New Patient,Cancelled,,,
+2760,96,18,1,2025-05-17,13:29,Follow-up,No-Show,,,
+2761,418,13,1,2026-04-17,14:25,Consult,Completed,15:01,15:22,36
+2762,122,20,3,2025-06-13,11:49,Annual Physical,Completed,,,
+2763,123,22,2,2025-07-06,08:22,New Patient,Completed,08:33,09:27,11
+2764,316,7,6,2025-08-22,10:59,Annual Physical,Completed,11:12,11:30,13
+2765,338,3,6,2026-09-12,16:57,Consult,No-Show,,,
+2766,5,22,2,2026-05-10,13:39,New Patient,Cancelled,,,
+2767,169,9,2,2025-12-17,10:09,New Patient,Completed,10:32,11:02,23
+2768,319,3,6,2025-07-26,11:46,New Patient,Completed,11:41,12:36,0
+2769,126,7,6,2025-06-08,11:08,Follow-up,Completed,11:11,11:52,3
+2770,105,3,6,2026-03-01,16:38,Procedure,Completed,16:58,17:27,-8
+2771,2,7,6,2026-07-26,14:10,Follow-up,Completed,14:29,14:41,19
+2772,320,17,2,2025-11-08,10:18,New Patient,Cancelled,,,
+2773,373,2,3,2026-04-30,13:04,Follow-up,Completed,,,
+2774,332,14,4,2026-04-30,14:15,Follow-up,Completed,14:37,15:16,22
+2775,2,14,4,2025-06-13,08:14,Follow-up,Completed,08:54,09:29,40
+2776,183,21,6,2026-02-18,12:28,New Patient,Completed,12:41,13:27,13
+2777,249,21,6,2026-08-24,11:33,Consult,Completed,11:41,12:28,8
+2778,249,24,6,2026-08-12,12:44,New Patient,Completed,12:55,13:43,11
+2779,18,19,6,2025-11-19,13:21,Annual Physical,Completed,13:54,14:48,33
+2780,214,25,1,2026-03-23,13:03,Follow-up,No-Show,,,
+2781,68,24,6,2025-08-16,12:23,New Patient,Completed,12:26,12:42,3
+2782,361,18,1,2025-03-18,09:46,Consult,Cancelled,,,
+2783,148,18,1,2025-12-14,11:53,New Patient,Cancelled,,,
+2784,3,23,4,2025-03-16,11:06,Procedure,Completed,11:48,12:42,42
+2785,71,7,6,2026-08-29,13:11,Annual Physical,Completed,13:17,14:07,6
+2786,237,24,6,2026-06-01,16:23,Consult,Completed,17:07,17:49,44
+2787,66,7,6,2026-04-07,16:58,Procedure,Completed,16:56,17:27,0
+2788,149,3,6,2026-02-02,16:54,Procedure,Completed,17:33,17:47,39
+2789,371,9,2,2026-08-13,14:18,Annual Physical,Completed,14:42,15:39,24
+2790,139,13,1,2025-01-26,13:32,Procedure,Completed,14:10,14:48,38
+2791,408,13,1,2025-07-17,12:07,Consult,Completed,12:30,12:49,23
+2792,26,18,1,2025-03-02,10:24,New Patient,Completed,10:43,11:18,19
+2793,166,12,3,2025-11-23,15:40,Procedure,Completed,15:52,16:23,12
+2794,205,11,1,2025-12-02,14:07,Annual Physical,Completed,14:08,14:29,1
+2795,3,1,6,2025-02-23,14:35,Procedure,Completed,14:51,15:34,16
+2796,272,5,1,2025-10-26,08:58,New Patient,Cancelled,,,
+2797,213,13,1,2025-12-28,12:21,New Patient,Cancelled,,,
+2798,79,6,2,2025-09-20,13:09,New Patient,Cancelled,,,
+2799,395,17,2,2026-08-26,16:03,New Patient,Cancelled,,,
+2800,74,7,6,2025-07-26,14:56,Procedure,Completed,14:52,15:34,0
+2801,241,2,3,2025-03-07,15:43,Follow-up,Completed,,,
+2802,319,10,2,2025-10-02,10:37,Consult,No-Show,,,
+2803,330,14,4,2025-03-04,10:57,Annual Physical,Completed,11:38,11:51,41
+2804,115,1,6,2025-10-12,09:10,Annual Physical,No-Show,,,
+2805,343,19,6,2025-01-13,15:23,Consult,Completed,15:48,16:36,25
+2806,295,16,6,2025-05-19,12:39,Follow-up,Cancelled,,,
+2807,285,9,2,2025-04-23,11:34,Procedure,Cancelled,,,
+2808,313,9,2,2026-06-24,08:13,Annual Physical,Cancelled,,,
+2809,22,15,6,2025-07-29,14:02,Procedure,Completed,14:16,14:58,-6
+2810,256,21,6,2025-08-17,12:17,Annual Physical,Completed,12:49,13:39,32
+2811,337,14,4,2025-01-02,10:52,Annual Physical,Completed,11:04,11:23,12
+2812,23,8,5,2025-04-03,14:02,Consult,Completed,14:45,15:03,43
+2813,9,15,6,2025-07-15,13:19,New Patient,No-Show,,,
+2814,117,4,5,2026-08-01,15:30,Procedure,Completed,15:43,16:27,13
+2815,188,4,5,2025-11-13,09:08,Procedure,Completed,09:50,10:17,42
+2816,370,6,2,2025-07-26,08:03,Consult,Completed,08:46,09:42,43
+2817,403,21,6,2026-06-17,14:45,Annual Physical,Completed,14:46,15:32,1
+2818,393,8,5,2025-06-22,15:19,Annual Physical,Completed,16:00,16:45,41
+2819,144,6,2,2026-04-16,15:10,Annual Physical,Completed,15:38,16:01,28
+2820,99,23,4,2025-01-03,14:33,Follow-up,Completed,15:05,15:28,32
+2821,349,3,6,2026-01-16,09:34,New Patient,Completed,09:58,10:42,24
+2822,76,13,1,2026-01-06,13:48,Annual Physical,Completed,14:09,14:58,21
+2823,216,5,1,2025-08-30,10:16,Follow-up,Completed,10:25,11:16,9
+2824,258,19,6,2025-01-28,10:35,Follow-up,No-Show,,,
+2825,242,22,2,2026-08-10,08:57,Procedure,Completed,09:12,09:39,15
+2826,322,21,6,2026-04-04,08:56,Annual Physical,Completed,09:20,09:58,24
+2827,37,21,6,2026-04-01,15:10,Annual Physical,Completed,15:25,15:47,15
+2828,420,18,1,2026-07-08,08:40,Follow-up,Completed,,,
+2829,299,3,6,2025-11-25,16:25,New Patient,Completed,16:55,17:42,30
+2830,312,25,1,2026-02-04,10:51,Consult,Completed,10:59,11:41,8
+2831,211,7,6,2026-06-22,08:23,New Patient,No-Show,,,
+2832,351,16,6,2026-02-13,09:21,Follow-up,No-Show,,,
+2833,304,13,1,2025-04-22,11:04,Consult,Completed,11:00,11:50,0
+2834,281,18,1,2025-04-13,10:38,Consult,Completed,11:06,11:57,28
+2835,391,4,5,2026-06-08,10:17,Procedure,Completed,10:12,10:47,0
+2836,306,2,3,2025-05-02,08:48,Consult,Completed,08:51,09:15,3
+2837,285,5,1,2026-02-01,11:56,Annual Physical,No-Show,,,
+2838,362,17,2,2026-03-24,13:11,Procedure,Completed,13:08,13:33,0
+2839,252,11,1,2026-04-17,16:43,Procedure,Completed,17:11,18:11,28
+2840,98,11,1,2025-12-29,15:36,Procedure,Completed,15:59,16:24,23
+2841,413,22,2,2025-08-12,09:42,Annual Physical,Cancelled,,,
+2842,175,21,6,2025-02-13,13:25,New Patient,Completed,13:42,14:00,17
+2843,317,20,3,2025-08-16,16:48,Annual Physical,Cancelled,,,
+2844,135,2,3,2025-11-15,14:16,Consult,Completed,14:24,14:40,8
+2845,158,16,6,2025-02-22,09:44,Follow-up,No-Show,,,
+2846,332,11,1,2025-02-20,11:23,Consult,Completed,11:46,12:03,23
+2847,420,25,1,2026-07-01,09:16,Consult,Completed,09:51,10:29,35
+2848,229,18,1,2025-02-24,10:25,Annual Physical,No-Show,,,
+2849,412,25,1,2025-10-01,14:05,Consult,Completed,14:18,14:44,13
+2850,415,10,2,2025-01-26,11:57,Procedure,Completed,,,
+2851,112,5,1,2025-11-23,16:11,Procedure,No-Show,,,
+2852,260,22,2,2025-08-02,10:01,Consult,Cancelled,,,
+2853,256,12,3,2026-04-09,10:44,Follow-up,Completed,11:21,11:59,37
+2854,287,25,1,2025-08-02,08:38,Consult,No-Show,,,
+2855,46,11,1,2026-07-27,14:17,Follow-up,Cancelled,,,
+2856,117,8,5,2025-06-29,13:07,Procedure,Completed,,,
+2857,178,21,6,2025-09-18,12:13,Procedure,Completed,12:32,12:43,19
+2858,154,10,2,2026-01-29,16:02,Procedure,Cancelled,,,
+2859,91,24,6,2025-05-06,13:53,Annual Physical,Completed,14:22,14:50,29
+2860,250,9,2,2025-04-28,15:14,Procedure,Completed,,,
+2861,83,6,2,2025-03-20,16:45,Procedure,Completed,,,
+2862,147,4,5,2025-08-22,13:07,Procedure,Cancelled,,,
+2863,198,23,4,2025-03-01,12:21,Follow-up,Completed,13:00,13:41,39
+2864,377,5,1,2026-08-29,10:08,Procedure,Completed,10:21,11:13,13
+2865,104,25,1,2025-01-30,10:35,Annual Physical,Completed,11:17,11:28,42
+2866,197,23,4,2025-07-11,09:59,Follow-up,Completed,10:20,10:54,21
+2867,383,13,1,2026-03-02,15:03,New Patient,Completed,14:58,15:16,0
+2868,124,9,2,2025-06-28,08:32,Follow-up,No-Show,,,
+2869,69,22,2,2025-08-14,12:35,Consult,Completed,,,
+2870,107,24,6,2026-03-25,15:13,Follow-up,Completed,15:34,16:15,21
+2871,49,16,6,2026-04-09,09:13,Follow-up,Cancelled,,,
+2872,326,10,2,2025-10-10,14:53,Annual Physical,Completed,15:06,15:17,13
+2873,398,12,3,2025-03-06,15:48,Procedure,Cancelled,,,
+2874,185,14,4,2025-11-11,10:23,New Patient,Completed,10:25,11:10,2
+2875,66,13,1,2025-08-12,09:08,Consult,Completed,09:53,10:51,45
+2876,196,20,3,2025-12-09,14:04,Follow-up,Completed,14:39,15:00,35
+2877,135,3,6,2025-11-02,08:46,Follow-up,Completed,09:31,10:16,45
+2878,381,11,1,2025-12-18,09:05,Annual Physical,No-Show,,,
+2879,400,10,2,2025-09-19,14:48,Follow-up,Completed,14:54,15:38,6
+2880,1,10,2,2026-04-26,12:06,New Patient,No-Show,,,
+2881,130,12,3,2025-10-10,14:27,Annual Physical,Completed,15:05,15:45,38
+2882,77,12,3,2025-04-06,09:57,Consult,Cancelled,,,
+2883,235,17,2,2026-06-14,15:57,Annual Physical,Completed,16:05,16:19,8
+2884,149,1,6,2026-08-21,13:29,Follow-up,Cancelled,,,
+2885,226,16,6,2026-03-22,15:15,Consult,Completed,15:22,15:35,7
+2886,258,2,3,2025-03-03,09:42,Procedure,Completed,09:52,10:07,10
+2887,167,3,6,2025-03-08,12:16,Procedure,No-Show,,,
+2888,247,18,1,2026-02-27,10:54,New Patient,Completed,,,
+2889,234,4,5,2025-02-16,14:55,Annual Physical,Completed,15:17,15:46,22
+2890,28,14,4,2026-07-16,08:02,Procedure,No-Show,,,
+2891,297,22,2,2025-07-22,12:10,Annual Physical,Completed,12:21,12:42,11
+2892,207,2,3,2025-02-24,11:09,New Patient,No-Show,,,
+2893,95,17,2,2026-03-19,13:43,New Patient,Cancelled,,,
+2894,346,11,1,2025-05-22,10:52,New Patient,Cancelled,,,
+2895,50,10,2,2025-06-07,08:27,Procedure,Completed,08:52,09:04,25
+2896,164,24,6,2026-08-26,10:25,New Patient,Completed,10:45,11:22,20
+2897,379,17,2,2025-05-25,10:11,Follow-up,No-Show,,,
+2898,143,2,3,2025-02-02,13:27,Consult,No-Show,,,
+2899,67,6,2,2025-06-30,08:48,Procedure,Cancelled,,,
+2900,72,21,6,2025-01-29,09:37,New Patient,Completed,09:36,09:53,0
+2901,158,7,6,2025-08-17,09:43,Follow-up,No-Show,,,
+2902,329,6,2,2026-01-08,11:05,Procedure,Completed,11:07,12:07,2
+2903,307,9,2,2025-12-10,15:01,Annual Physical,Cancelled,,,
+2904,65,7,6,2025-11-08,11:10,Procedure,Completed,11:24,12:23,14
+2905,220,1,6,2025-06-27,12:30,Consult,Completed,12:52,13:29,22
+2906,28,24,6,2026-08-21,14:05,Procedure,No-Show,,,
+2907,385,15,6,2026-04-30,12:08,Consult,Cancelled,,,
+2908,282,21,6,2026-01-05,11:01,Procedure,Completed,11:10,11:42,9
+2909,172,23,4,2025-07-01,14:32,Annual Physical,Completed,14:48,15:34,16
+2910,392,13,1,2025-06-11,14:18,Consult,No-Show,,,
+2911,32,20,3,2026-03-03,15:06,New Patient,Cancelled,,,
+2912,137,16,6,2026-01-14,11:44,Procedure,No-Show,,,
+2913,298,23,4,2026-01-15,10:43,Procedure,Cancelled,,,
+2914,399,9,2,2026-02-08,15:24,Follow-up,Cancelled,,,
+2915,174,7,6,2026-07-29,14:57,Consult,No-Show,,,
+2916,283,11,1,2025-09-13,10:37,Follow-up,Cancelled,,,
+2917,363,25,1,2026-02-02,16:25,Follow-up,Completed,16:39,16:55,14
+2918,329,15,6,2026-03-05,11:21,Follow-up,Completed,11:36,12:03,15
+2919,211,18,1,2025-12-03,16:32,Follow-up,Completed,,,
+2920,402,4,5,2026-02-07,10:30,Consult,Cancelled,,,
+2921,241,19,6,2025-08-31,09:19,New Patient,Completed,09:36,10:00,17
+2922,52,13,1,2026-06-12,11:21,New Patient,Completed,,,
+2923,413,7,6,2026-05-01,10:13,New Patient,Completed,10:38,11:32,25
+2924,3,4,5,2025-10-08,15:13,Consult,Completed,15:53,16:04,40
+2925,375,9,2,2026-08-11,11:32,Follow-up,Completed,11:34,12:02,2
+2926,394,10,2,2026-03-29,14:46,Annual Physical,No-Show,,,
+2927,329,9,2,2025-05-28,10:48,Annual Physical,Completed,11:05,12:03,17
+2928,98,20,3,2025-04-22,15:51,Consult,No-Show,,,
+2929,413,19,6,2025-11-04,08:11,Procedure,No-Show,,,
+2930,294,9,2,2026-06-02,09:21,Follow-up,Completed,09:57,10:33,36
+2931,150,19,6,2026-04-17,09:30,Procedure,Completed,,,
+2932,350,18,1,2025-08-18,11:43,Follow-up,Cancelled,,,
+2933,308,4,5,2025-02-03,09:47,New Patient,Completed,09:52,10:24,5
+2934,59,13,1,2025-09-10,12:38,New Patient,Completed,13:21,14:19,43
+2935,140,9,2,2025-08-09,16:07,Procedure,Completed,16:44,17:07,37
+2936,407,4,5,2025-10-16,08:46,Consult,Completed,09:25,09:51,39
+2937,37,14,4,2026-05-21,11:41,New Patient,Completed,11:52,12:36,11
+2938,145,19,6,2026-08-28,09:25,New Patient,Completed,09:39,10:30,14
+2939,20,5,1,2026-06-27,15:07,New Patient,Completed,15:27,16:11,20
+2940,38,20,3,2026-09-09,08:40,Annual Physical,No-Show,,,
+2941,74,4,5,2025-07-25,12:24,Annual Physical,Completed,12:38,13:23,14
+2942,31,7,6,2025-11-23,11:22,Procedure,Completed,11:20,12:14,0
+2943,50,16,6,2026-08-29,09:42,Consult,No-Show,,,
+2944,196,2,3,2025-03-23,13:31,New Patient,Completed,14:10,14:25,39
+2945,70,23,4,2025-04-11,13:16,Follow-up,Completed,13:30,14:09,-9
+2946,285,21,6,2025-04-01,12:56,New Patient,Completed,12:59,13:43,3
+2947,163,5,1,2026-05-12,09:16,Follow-up,Completed,09:38,10:18,22
+2948,195,10,2,2026-03-15,11:12,New Patient,Completed,11:22,12:07,10
+2949,327,16,6,2025-11-05,09:53,New Patient,Completed,10:38,11:24,45
+2950,329,5,1,2025-05-02,13:56,New Patient,Cancelled,,,
+2951,39,23,4,2025-09-01,09:24,Follow-up,Cancelled,,,
+2952,170,2,3,2026-02-25,15:23,Procedure,No-Show,,,
+2953,35,14,4,2026-07-16,12:19,Annual Physical,Cancelled,,,
+2954,86,11,1,2025-06-29,16:28,New Patient,Cancelled,,,
+2955,2,5,1,2026-01-08,12:49,New Patient,Completed,13:29,14:08,40
+2956,315,9,2,2026-06-18,16:58,Procedure,Cancelled,,,
+2957,200,20,3,2025-10-17,16:38,Consult,Completed,,,
+2958,55,19,6,2025-12-15,15:23,Annual Physical,Completed,16:00,16:35,37
+2959,259,10,2,2025-05-30,11:08,New Patient,Completed,11:32,11:51,24
+2960,335,12,3,2026-02-19,14:15,Annual Physical,Completed,14:34,14:44,19
+2961,43,10,2,2025-10-09,09:53,New Patient,No-Show,,,
+2962,420,13,1,2026-06-06,15:11,Annual Physical,No-Show,,,
+2963,21,23,4,2026-06-09,15:35,New Patient,Completed,15:30,16:20,0
+2964,278,20,3,2025-03-02,12:38,Procedure,Completed,12:41,13:25,3
+2965,87,7,6,2026-05-29,09:53,Annual Physical,Completed,10:38,11:30,45
+2966,283,5,1,2025-07-05,10:59,Follow-up,Completed,11:12,11:22,13
+2967,80,17,2,2025-07-17,14:06,Consult,Completed,,,
+2968,140,3,6,2025-02-09,12:34,Consult,Completed,12:36,13:00,2
+2969,361,4,5,2025-09-10,13:55,Annual Physical,Completed,14:02,14:32,7
+2970,75,6,2,2026-06-28,10:14,Procedure,Completed,10:27,10:44,13
+2971,185,16,6,2026-07-24,08:41,Procedure,Completed,,,
+2972,277,1,6,2025-03-16,08:24,New Patient,Cancelled,,,
+2973,319,10,2,2025-12-04,12:08,New Patient,Cancelled,,,
+2974,314,11,1,2025-05-10,16:42,Annual Physical,Completed,16:55,17:35,13
+2975,148,24,6,2025-05-12,08:37,New Patient,No-Show,,,
+2976,329,17,2,2026-07-23,11:48,Procedure,Completed,11:57,12:55,9
+2977,287,21,6,2025-01-26,11:52,Consult,Completed,12:24,13:23,32
+2978,114,22,2,2026-04-01,12:16,Procedure,No-Show,,,
+2979,306,19,6,2025-01-15,13:26,Consult,Cancelled,,,
+2980,166,12,3,2026-05-20,14:21,Consult,Completed,14:35,15:29,14
+2981,143,6,2,2026-08-13,08:00,Consult,Completed,08:22,09:08,22
+2982,184,5,1,2026-06-17,15:19,Procedure,Completed,,,
+2983,170,14,4,2026-04-16,12:06,Procedure,No-Show,,,
+2984,388,9,2,2026-01-16,15:34,New Patient,Completed,15:54,16:24,20
+2985,115,14,4,2026-07-28,09:10,Consult,Cancelled,,,
+2986,283,2,3,2025-05-24,14:06,New Patient,No-Show,,,
+2987,263,9,2,2025-07-19,16:10,Consult,Completed,16:44,17:04,34
+2988,152,9,2,2025-11-05,15:50,Follow-up,Completed,16:05,16:15,15
+2989,124,24,6,2025-05-25,12:16,Follow-up,No-Show,,,
+2990,155,17,2,2025-01-05,08:32,New Patient,Cancelled,,,
+2991,233,23,4,2025-05-10,13:15,Annual Physical,Completed,13:31,13:56,16
+2992,56,11,1,2026-07-02,13:46,Procedure,Cancelled,,,
+2993,145,19,6,2025-01-30,14:33,Procedure,No-Show,,,
+2994,289,13,1,2025-01-16,10:46,Follow-up,Cancelled,,,
+2995,189,15,6,2025-03-04,12:04,Follow-up,No-Show,,,
+2996,337,5,1,2025-12-13,12:58,Follow-up,Cancelled,,,
+2997,114,3,6,2025-11-26,10:22,Procedure,Completed,10:31,10:43,9
+2998,72,20,3,2026-03-22,14:41,Consult,No-Show,,,
+2999,308,3,6,2026-03-30,10:41,Procedure,Completed,10:54,11:14,13
+3000,14,10,2,2025-03-31,14:57,Consult,Completed,15:41,16:02,44
+3001,99016,19,6,2025-06-30,10:00,Follow-up,Completed,10:05,10:20,5
+3002,99026,13,1,2026-09-11,10:00,Follow-up,Completed,10:05,10:20,5
+3003,99014,16,6,2025-01-06,10:00,Follow-up,Completed,10:05,10:20,5
+3004,99026,8,5,2025-05-10,10:00,Follow-up,Completed,10:05,10:20,5
+3005,99023,25,1,2025-02-03,10:00,Follow-up,Completed,10:05,10:20,5
+3006,99014,4,5,2025-08-25,10:00,Follow-up,Completed,10:05,10:20,5
+3007,99038,6,2,2026-05-28,10:00,Follow-up,Completed,10:05,10:20,5
+3008,99003,10,2,2026-06-29,10:00,Follow-up,Completed,10:05,10:20,5
+3009,99050,12,3,2025-01-08,10:00,Follow-up,Completed,10:05,10:20,5
+3010,99012,5,1,2025-02-16,10:00,Follow-up,Completed,10:05,10:20,5
+3011,99027,4,5,2026-08-23,10:00,Follow-up,Completed,10:05,10:20,5
+3012,99004,4,5,2026-08-14,10:00,Follow-up,Completed,10:05,10:20,5
+3013,99016,21,6,2025-09-07,10:00,Follow-up,Completed,10:05,10:20,5
+3014,99014,12,3,2025-08-20,10:00,Follow-up,Completed,10:05,10:20,5
+3015,99032,20,3,2026-05-14,10:00,Follow-up,Completed,10:05,10:20,5
+348,215,6,2,2025-12-18,11:45,Consult,Cancelled,,,
+2473,320,10,2,2026-04-30,15:58,Follow-up,Completed,16:30,16:43,32
+254,16,11,1,2026-01-20,10:49,Consult,Completed,11:08,11:29,19
+9,241,16,6,2025-06-19,09:16,Annual Physical,Completed,09:26,09:57,10
+239,26,4,5,2026-03-03,11:02,Annual Physical,No-Show,,,
+2647,355,1,6,2025-04-26,12:49,Consult,Cancelled,,,
+89,3,23,4,2025-01-08,16:55,Consult,Completed,16:50,17:24,0
+753,127,3,6,2025-10-04,10:07,New Patient,Completed,10:45,11:30,38
+2903,307,9,2,2025-12-10,15:01,Annual Physical,Cancelled,,,
+2383,202,22,2,2025-02-13,10:17,Follow-up,Completed,10:42,11:23,-3
